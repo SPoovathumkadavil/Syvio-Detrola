@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT/Data Analysis/1.1 - The Science and Art of Data.md",
+                "file": "BIO/AP/Gene Expression and Regulation.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT/Data Analysis/1.1 - The Science and Art of Data.md",
+                "file": "BIO/AP/Gene Expression and Regulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STAT/Data Analysis/1.1 - The Science and Art of Data.md",
+                "file": "BIO/AP/Gene Expression and Regulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT/Data Analysis/1.1 - The Science and Art of Data.md"
+                "file": "BIO/AP/Gene Expression and Regulation.md"
               }
             }
           }
@@ -163,9 +163,11 @@
   },
   "active": "aeecaeb54c273120",
   "lastOpenFiles": [
-    "STAT/Statistics.md",
-    "STAT/Data Analysis/1.1 - The Science and Art of Data.md",
+    "BIO/AP/Ecology.md",
+    "STAT/Data Analysis/Categorical Data.md",
     "STAT/Data Analysis/Introduction Exersizes.md",
+    "STAT/Data Analysis/1.1 - The Science and Art of Data.md",
+    "STAT/Statistics.md",
     "Screenshot 2023-08-23 at 5.13.56 PM.png",
     "BIO/Measuring Variation within a Population and Sample/Bean Example.md",
     "BIO/AP/Natural Selection.md",
@@ -173,7 +175,6 @@
     "BIO/Prevegen Example/Review.md",
     "BIO/Biology.md",
     "BIO/AP/Chemistry of Life.md",
-    "BIO/AP/Ecology.md",
     "BIO/AP/Gene Expression and Regulation.md",
     "BIO/AP/Heredity.md",
     "BIO/Prevegen Example/Step 5 - Explanation.md",

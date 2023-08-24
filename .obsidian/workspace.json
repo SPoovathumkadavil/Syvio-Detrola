@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-08-23.md",
+                "file": "BIO/AP/Gene Expression and Regulation.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-08-23.md",
+                "file": "BIO/AP/Gene Expression and Regulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-08-23.md",
+                "file": "BIO/AP/Gene Expression and Regulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-08-23.md"
+                "file": "BIO/AP/Gene Expression and Regulation.md"
               }
             }
           }
@@ -163,8 +163,8 @@
   },
   "active": "aeecaeb54c273120",
   "lastOpenFiles": [
-    "BIO/AP/Gene Expression and Regulation.md",
     "2023-08-23.md",
+    "BIO/AP/Gene Expression and Regulation.md",
     "BIO/AP/Ecology.md",
     "STAT/Data Analysis/Categorical Data.md",
     "STAT/Data Analysis/Introduction Exersizes.md",

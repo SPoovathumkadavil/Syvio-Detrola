@@ -6,6 +6,7 @@ importance: 10
 type: "Course"
 ---
 
+> [!info]- What is Biology?
 _Biology is the scientific study of life. It is a natural science with a broad scope but has several unifying themes that tie it together as a single, coherent field._
 
 # AP Units

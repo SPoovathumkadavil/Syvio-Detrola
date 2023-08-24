@@ -21,12 +21,11 @@ LIST
 FROM "BIO/Prevegen Example"
 WHERE type = "Guideline"
 ```
-## Prevegen Concepts
-```dataview
-TABLE importance
-FROM "BIO/Prevegen Example"
-WHERE type = "Concept"
-```
+>[!tip]- Prevegen Concepts
+>>```dataview
+>>TABLE importance
+>>FROM "BIO/Prevegen Example"
+>>WHERE type = "Concept"
+>>```
 # 1 - Measuring Variation within a Population and Sample
-
 

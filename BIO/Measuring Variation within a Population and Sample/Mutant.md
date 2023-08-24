@@ -1,7 +1,7 @@
 ---
-alias: "Sample"
+alias: "Mutant"
 subject: "Science"
 subset: "Biology"
-importance: 9
+importance: 8
 type: Concept
 ---

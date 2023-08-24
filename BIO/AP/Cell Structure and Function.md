@@ -237,3 +237,5 @@ Adding a solute lowers the water potential of a solution, causing water to be le
 ### ==Exocytosis==
 
 - In exocytosis, a cell **ejects waste products or specific secretion** products, such as hormones, by the fusion of a vesicle with the plasma membrane, which then expels the contents into the extracellular space. Exocytosis is basically reverse endocytosis.
+
+Next: [[Cellular Energetics]]

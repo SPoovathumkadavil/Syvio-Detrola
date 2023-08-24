@@ -302,3 +302,5 @@ Meiosis is likely to produce sorts of **variations** than is mitosis, which ther
 - Nondisjunction can occur in **anaphase I (**meaning chromosomes don’t separate when they should), or in anaphase II (meaning chromatids don’t separate).
     
 - Either one can lead to **aneuploidy**, or the presence of an abnormal number of chromosomes.
+
+Next: [[Gene Expression and Regulation]]

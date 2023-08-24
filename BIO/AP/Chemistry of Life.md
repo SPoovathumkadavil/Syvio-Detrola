@@ -229,3 +229,5 @@ order: 1
 - They contain carbon, hydrogen, oxygen, and nitrogen and phosphorus. Nucleic acids are molecules that are made up of simple units called nucleotides.
     
 - DNA contains the hereditary “**blueprints**” of all life. RNA is essential for protein synthesis
+
+Next: [[Cell Structure and Function]]

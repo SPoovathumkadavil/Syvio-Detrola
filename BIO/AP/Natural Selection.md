@@ -163,3 +163,5 @@ iii. Geographical data
 - Stanley Miller and Harold Urey simulated the conditions of primitive Earth in a laboratory. They put the gases theorized to be abundant in the early atmosphere into a flask, struck them with electrical charges in order to mimic lightning, and organic compounds similar to amino acids appeared.
     
 - The original life-forms were simply molecules of RNA. This is called the RNA-world hypothesis.
+
+Next: [[Ecology]]

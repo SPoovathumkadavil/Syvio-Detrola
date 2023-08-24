@@ -414,3 +414,5 @@ You will also want to make sure you remember the major steps of cell respiration
 - Muscles switch over to anaerobic respiration.
     
 - **Pyruvic acid produced** from glycolysis is converted to lactic acid.
+
+Next: [[Cell Communication and Cell Cycle]]

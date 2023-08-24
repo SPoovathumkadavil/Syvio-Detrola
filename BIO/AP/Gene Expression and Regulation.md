@@ -332,3 +332,5 @@ structural genes, promoter genes, the operator, and the regulatory gene:
 - These fragments are called restriction fragment length **polymorphisms**, or **RFLPs**.
     
 - DNA sequencing allows scientists to determine the order of nucleotides in a DNA molecule. Scientists could design their own DNA plasmid and use it to study a gene of interest.
+
+Next: [[Natural Selection]]

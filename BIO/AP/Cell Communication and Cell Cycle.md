@@ -154,3 +154,5 @@ A positive feedback pathway also involves an end product playing a role, but ins
 - The production of daughter cells that are **identical** copies of the parent cell **maintaining the proper number of chromosomes** from generation to generation
     
 - The impetus to divide occurs because an organism needs to grow, a tissue needs repair, or asexual reproduction must take place.
+
+Next: [[Heredity]]

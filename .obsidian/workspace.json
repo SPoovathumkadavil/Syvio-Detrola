@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/Sample.md",
+                "file": "BIO/Measuring Variation within a Population and Sample/Normal Distribution.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/Sample.md",
+                "file": "BIO/Measuring Variation within a Population and Sample/Normal Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/Sample.md",
+                "file": "BIO/Measuring Variation within a Population and Sample/Normal Distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/Sample.md"
+                "file": "BIO/Measuring Variation within a Population and Sample/Normal Distribution.md"
               }
             }
           }
@@ -179,12 +179,21 @@
   },
   "active": "403517ce8d58c08c",
   "lastOpenFiles": [
+    "BIO/Measuring Variation within a Population and Sample/Mutant.md",
     "BIO/Measuring Variation within a Population and Sample/Normal Distribution.md",
-    "BIO/Measuring Variation within a Population and Sample/Population.md",
-    "BIO/AP/Natural Selection.md",
-    "BIO/Measuring Variation within a Population and Sample/Sample.md",
-    "BIO/Prevegen Example/Step 1 - Question.md",
     "BIO/Measuring Variation within a Population and Sample/Bean Example.md",
+    "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
+    "BIO/Measuring Variation within a Population and Sample/Population.md",
+    "BIO/Measuring Variation within a Population and Sample/Sample.md",
+    "BIO/AP/Chemistry of Life.md",
+    "BIO/AP/Ecology.md",
+    "BIO/AP/Natural Selection.md",
+    "BIO/AP/Gene Expression and Regulation.md",
+    "BIO/AP/Heredity.md",
+    "BIO/AP/Cell Structure and Function.md",
+    "BIO/AP/Cell Communication and Cell Cycle.md",
+    "BIO/AP/Cellular Energetics.md",
+    "BIO/Prevegen Example/Step 1 - Question.md",
     "BIO/Prevegen Example/Amino Acid Dissolving.md",
     "BIO/Prevegen Example/Amino Acids.md",
     "BIO/Prevegen Example/Denatured Amino Acids.md",
@@ -196,17 +205,8 @@
     "BIO/Prevegen Example/Step 2 - Evidence.md",
     "BIO/Prevegen Example/Step 4 - Reasoning.md",
     "BIO/Prevegen Example/Step 5 - Explanation.md",
-    "BIO/AP/Chemistry of Life.md",
-    "BIO/AP/Gene Expression and Regulation.md",
     "2023-08-23.md",
-    "BIO/AP/Ecology.md",
     "STAT/Data Analysis/Categorical Data.md",
-    "STAT/Data Analysis/1.1 - The Science and Art of Data.md",
-    "STAT/Statistics.md",
-    "BIO/Prevegen Example/Review.md",
-    "BIO/AP/Heredity.md",
-    "Detrola Tracker.md",
-    "STAT/Data Analysis/Variable.md",
     "BIO/AP",
     "BIO/Measuring Variation within a Population and Sample",
     "BIO/Prevegen Example",

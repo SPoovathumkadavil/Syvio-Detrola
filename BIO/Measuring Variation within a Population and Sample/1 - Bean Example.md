@@ -1,5 +1,5 @@
 ---
-alias: "Bean Example"
+alias: "1 - Bean Example"
 subject: "Science"
 subset: "Biology"
 importance: 6

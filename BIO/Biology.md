@@ -32,5 +32,12 @@ WHERE type = "Guideline"
 ```dataview
 LIST
 FROM "BIO/Measuring Variation within a Population and Sample"
-WHERE type="Example" OR type=""
+WHERE type="Example" OR type="Guideline" OR type="Bearing"
+SORT order
 ```
+>[!tip]- Variation Concepts
+>>```dataview
+>>TABLE importance
+>>FROM "BIO/Measuring Variation within a Population and Sample"
+>>WHERE type="Concept"
+>>```

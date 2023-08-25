@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
+                "file": "BIO/Biology.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Important",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,8 +106,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -127,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
+                "file": "BIO/Biology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
+                "file": "BIO/Biology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md"
+                "file": "BIO/Biology.md"
               }
             }
           }
@@ -194,11 +193,14 @@
   },
   "active": "c8e121157e0e74af",
   "lastOpenFiles": [
+    "BIO/Prevegen Example/Step 2 - Evidence.md",
+    "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
+    "Excalidraw/Standard Deviation Variations.md",
+    "Excalidraw/Standard Deviation Percents.md",
     "BIO/Measuring Variation within a Population and Sample/1 - Bean Example.md",
     "STAT/Data Analysis/Categorical Data.md",
     "BIO/Biology.md",
     "BIO/Measuring Variation within a Population and Sample/2 - Intra-Variance.md",
-    "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
     "BIO/Measuring Variation within a Population and Sample/Normal Distribution.md",
     "BIO/Measuring Variation within a Population and Sample/Mutant.md",
     "BIO/AP/Chemistry of Life.md",
@@ -211,11 +213,8 @@
     "Detrola Tracker.md",
     "BIO/Prevegen Example/Step 4 - Reasoning.md",
     "BIO/Prevegen Example/Step 3 - Claim.md",
-    "BIO/Prevegen Example/Step 2 - Evidence.md",
     "BIO/Measuring Variation within a Population and Sample/Sample.md",
-    "Excalidraw/Standard Deviation Percents.md",
     "BIO/Measuring Variation within a Population and Sample/Variance.md",
-    "Excalidraw/Standard Deviation Variations.md",
     "Excalidraw/Drawing 2023-08-24 20.16.45.excalidraw.md",
     "STAT/Data Analysis/Individual.md",
     "BIO/Prevegen Example/Step 5 - Explanation.md",

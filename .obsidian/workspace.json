@@ -11,8 +11,13 @@
             "id": "b3506eac9009e879",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BIO/Biology.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           },
           {
@@ -54,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +105,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -121,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/2 - Intra-Variance.md",
+                "file": "BIO/Biology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/2 - Intra-Variance.md",
+                "file": "BIO/Biology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/2 - Intra-Variance.md"
+                "file": "BIO/Biology.md"
               }
             }
           }
@@ -186,13 +191,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "edce34fdad845ae6",
+  "active": "b3506eac9009e879",
   "lastOpenFiles": [
-    "BIO/Measuring Variation within a Population and Sample/1 - Bean Example.md",
     "BIO/Measuring Variation within a Population and Sample/2 - Intra-Variance.md",
+    "BIO/Measuring Variation within a Population and Sample/1 - Bean Example.md",
+    "BIO/Biology.md",
     "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
     "BIO/Measuring Variation within a Population and Sample/Normal Distribution.md",
-    "BIO/Biology.md",
     "BIO/Measuring Variation within a Population and Sample/Mutant.md",
     "BIO/AP/Chemistry of Life.md",
     "BIO/Prevegen Example/Denatured Amino Acids.md",

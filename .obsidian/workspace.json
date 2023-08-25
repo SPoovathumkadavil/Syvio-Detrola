@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/Biology.md",
+                "file": "STAT/Data Analysis/Categorical Data.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -59,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/Biology.md",
+                "file": "BIO/Measuring Variation within a Population and Sample/1 - Bean Example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/Biology.md",
+                "file": "BIO/Measuring Variation within a Population and Sample/1 - Bean Example.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/Biology.md"
+                "file": "BIO/Measuring Variation within a Population and Sample/1 - Bean Example.md"
               }
             }
           }
@@ -191,11 +192,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b3506eac9009e879",
+  "active": "c8e121157e0e74af",
   "lastOpenFiles": [
+    "STAT/Data Analysis/Categorical Data.md",
+    "BIO/Biology.md",
     "BIO/Measuring Variation within a Population and Sample/2 - Intra-Variance.md",
     "BIO/Measuring Variation within a Population and Sample/1 - Bean Example.md",
-    "BIO/Biology.md",
     "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
     "BIO/Measuring Variation within a Population and Sample/Normal Distribution.md",
     "BIO/Measuring Variation within a Population and Sample/Mutant.md",
@@ -218,7 +220,6 @@
     "STAT/Data Analysis/Individual.md",
     "BIO/Prevegen Example/Step 5 - Explanation.md",
     "Templates/Left Alignment.md",
-    "Templates/Right Align.md",
     "Templates",
     "Excalidraw",
     "Screenshot 2023-08-23 at 5.13.56 PM.png",

@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/AP/Chemistry of Life.md",
+                "file": "Templates/Left Alignment.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74633c3b2ce33309",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIO/Prevegen Example/Step 5 - Explanation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -71,32 +84,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6ebdc3d8f8ea156f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/Normal Distribution.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a28ddb710c12733e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-08-24 19.19.44.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-24 19.19.44.excalidraw.md",
+                "file": "BIO/Prevegen Example/Step 5 - Explanation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-24 19.19.44.excalidraw.md",
+                "file": "BIO/Prevegen Example/Step 5 - Explanation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-24 19.19.44.excalidraw.md"
+                "file": "BIO/Prevegen Example/Step 5 - Explanation.md"
               }
             }
           }
@@ -223,26 +213,31 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "a28ddb710c12733e",
+  "active": "74633c3b2ce33309",
   "lastOpenFiles": [
+    "Templates/Left Alignment.md",
+    "BIO/Prevegen Example/Step 5 - Explanation.md",
+    "Templates/Right Align.md",
+    "Templates/Center Alignment.md",
+    "BIO/Prevegen Example/Step 3 - Claim.md",
+    "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
+    "Templates",
     "BIO/Measuring Variation within a Population and Sample/Normal Distribution.md",
-    "Excalidraw/Drawing 2023-08-24 19.19.44.excalidraw.md",
+    "Excalidraw/Standard Deviation Percents.md",
+    "BIO/AP/Chemistry of Life.md",
     "Excalidraw",
     "BIO/Measuring Variation within a Population and Sample/Mutant.md",
     "BIO/Measuring Variation within a Population and Sample/Population.md",
     "BIO/Measuring Variation within a Population and Sample/Sample.md",
     "BIO/Measuring Variation within a Population and Sample/Variance.md",
-    "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
     "BIO/Measuring Variation within a Population and Sample/Bean Example.md",
     "BIO/Prevegen Example/Step 1 - Question.md",
-    "BIO/Prevegen Example/Step 5 - Explanation.md",
     "BIO/Prevegen Example/Step 4 - Reasoning.md",
-    "BIO/Prevegen Example/Step 3 - Claim.md",
     "BIO/Prevegen Example/Step 2 - Evidence.md",
-    "BIO/AP/Chemistry of Life.md",
     "BIO/AP/Ecology.md",
     "BIO/AP/Natural Selection.md",
     "BIO/AP/Gene Expression and Regulation.md",
@@ -252,9 +247,6 @@
     "BIO/AP/Cellular Energetics.md",
     "BIO/Prevegen Example/Amino Acid Dissolving.md",
     "BIO/Prevegen Example/Amino Acids.md",
-    "BIO/Prevegen Example/Denatured Amino Acids.md",
-    "Excalidraw/Drawing 2023-08-24 18.12.10.excalidraw.md",
-    "STAT/Data Analysis/Introduction Exercises.md",
     "Screenshot 2023-08-23 at 5.13.56 PM.png",
     "BIO/AP",
     "BIO/Measuring Variation within a Population and Sample",
@@ -263,7 +255,6 @@
     "CSA",
     "PRECALBC",
     "BIO",
-    "STAT/Data Analysis",
-    "STAT"
+    "STAT/Data Analysis"
   ]
 }

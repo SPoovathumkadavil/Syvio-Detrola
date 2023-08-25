@@ -2,5 +2,8 @@
   "accentColor": "",
   "cssTheme": "Minimal",
   "translucency": false,
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "align"
+  ]
 }

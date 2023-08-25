@@ -12,5 +12,3 @@ type: Concept
 $\large\mu$ In this case refers to the mean or expectation of the distribution.
 $\large\sigma$ Refers to the [[Standard Deviation]] of the distribution.
 The [[Variance]] of a standard or normal distribution is $\large\sigma^2$.
-
-

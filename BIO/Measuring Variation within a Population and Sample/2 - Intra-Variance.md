@@ -14,4 +14,8 @@ _Does this variation influence our ability to make a scientific [[Step 3 - Claim
 
 [[Independent Variable]]: [[Individual|What are you investigating]]? - For this data #Important 
 - e.g. Men and Women
-[[Dependent Variable]]: The Data 
+[[Dependent Variable]]: [[Variable|The data you observe]]. - For this data
+
+If two [[Normal Distribution|normal distributions]] overlap, then their difference in not significant.
+
+![[Intra Variance | center]]

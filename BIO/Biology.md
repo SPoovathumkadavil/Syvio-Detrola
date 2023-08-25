@@ -26,7 +26,7 @@ WHERE type = "Guideline"
 >>TABLE importance
 >>FROM "BIO/Prevegen Example"
 >>WHERE type = "Concept"
->>SORT 
+>>SORT importance DESC
 >>```
 
 # 1 - Measuring Variation within a Population and Sample

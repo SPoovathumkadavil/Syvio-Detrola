@@ -15,5 +15,5 @@ type: "Practice"
 	1. Amusement Park
 	2. Roller Coaster - C, Type - C, Height - Q, Design - C, Speed - Q, Duration - Q
 5. Protecting Wood: Type of wood - C, Type of Repellent - C, Paint Thickness - Q, Paint Color - C, Weathering Time - Q
-7. Ranking Colleges: Grade in Class - Q, Student Rating - Q, 
+7. Ranking Colleges: Grade in Class - Q, Student Rating - Q
 

@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/Mutant.md",
+                "file": "BIO/Biology.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Detrola Tracker.md",
+                "file": "BIO/Biology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Detrola Tracker.md",
+                "file": "BIO/Biology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Detrola Tracker.md"
+                "file": "BIO/Biology.md"
               }
             }
           }
@@ -173,8 +173,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "79cb12f3aee0586f",
+  "active": "c8e121157e0e74af",
   "lastOpenFiles": [
+    "BIO/Prevegen Example/Amino Acid Dissolving.md",
+    "BIO/Prevegen Example/Amino Acids.md",
+    "BIO/Measuring Variation within a Population and Sample/Population.md",
+    "BIO/Measuring Variation within a Population and Sample/Normal Distribution.md",
+    "BIO/Measuring Variation within a Population and Sample/Bean Example.md",
+    "BIO/Biology.md",
     "BIO/Measuring Variation within a Population and Sample/Mutant.md",
     "Detrola Tracker.md",
     "BIO/Prevegen Example/Step 4 - Reasoning.md",
@@ -187,13 +193,8 @@
     "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
     "Excalidraw/Standard Deviation Variations.md",
     "Excalidraw/Drawing 2023-08-24 20.16.45.excalidraw.md",
-    "BIO/Measuring Variation within a Population and Sample/Bean Example.md",
-    "BIO/Measuring Variation within a Population and Sample/Normal Distribution.md",
-    "BIO/Measuring Variation within a Population and Sample/Population.md",
-    "BIO/Prevegen Example/Amino Acids.md",
     "BIO/Prevegen Example/Effects of Heat on Amino Acids.md",
     "STAT/Data Analysis/Individual.md",
-    "BIO/Biology.md",
     "BIO/Prevegen Example/Step 5 - Explanation.md",
     "Templates/Left Alignment.md",
     "Templates/Right Align.md",
@@ -202,7 +203,6 @@
     "BIO/AP/Chemistry of Life.md",
     "Excalidraw",
     "BIO/AP/Ecology.md",
-    "BIO/AP/Natural Selection.md",
     "Screenshot 2023-08-23 at 5.13.56 PM.png",
     "BIO/AP",
     "BIO/Measuring Variation within a Population and Sample",

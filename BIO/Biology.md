@@ -29,3 +29,8 @@ WHERE type = "Guideline"
 >>```
 
 # 1 - Measuring Variation within a Population and Sample
+```dataview
+LIST
+FROM "BIO/Measuring Variation within a Population and Sample"
+WHERE type="Example" OR type=""
+```

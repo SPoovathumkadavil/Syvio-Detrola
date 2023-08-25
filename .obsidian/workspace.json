@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "403517ce8d58c08c",
+            "id": "fe6d4f4cb8d0516d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/Normal Distribution.md",
+                "file": "BIO/Prevegen Example/Step 1 - Question.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +34,46 @@
             }
           },
           {
-            "id": "fe6d4f4cb8d0516d",
+            "id": "4d964bd526ac3548",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIO/Prevegen Example/Step 2 - Evidence.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59eef5c3a9ed26f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIO/Prevegen Example/Step 3 - Claim.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8bab9063d180942b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIO/Prevegen Example/Step 4 - Reasoning.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ebdc3d8f8ea156f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -47,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -177,11 +216,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "403517ce8d58c08c",
+  "active": "6ebdc3d8f8ea156f",
   "lastOpenFiles": [
-    "BIO/Measuring Variation within a Population and Sample/Mutant.md",
-    "BIO/Measuring Variation within a Population and Sample/Normal Distribution.md",
     "BIO/Measuring Variation within a Population and Sample/Bean Example.md",
+    "BIO/Prevegen Example/Step 1 - Question.md",
+    "BIO/Prevegen Example/Step 5 - Explanation.md",
+    "BIO/Prevegen Example/Step 4 - Reasoning.md",
+    "BIO/Prevegen Example/Step 3 - Claim.md",
+    "BIO/Prevegen Example/Step 2 - Evidence.md",
+    "BIO/Measuring Variation within a Population and Sample/Normal Distribution.md",
+    "BIO/Measuring Variation within a Population and Sample/Mutant.md",
     "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
     "BIO/Measuring Variation within a Population and Sample/Population.md",
     "BIO/Measuring Variation within a Population and Sample/Sample.md",
@@ -193,7 +237,6 @@
     "BIO/AP/Cell Structure and Function.md",
     "BIO/AP/Cell Communication and Cell Cycle.md",
     "BIO/AP/Cellular Energetics.md",
-    "BIO/Prevegen Example/Step 1 - Question.md",
     "BIO/Prevegen Example/Amino Acid Dissolving.md",
     "BIO/Prevegen Example/Amino Acids.md",
     "BIO/Prevegen Example/Denatured Amino Acids.md",
@@ -202,11 +245,7 @@
     "Excalidraw",
     "Screenshot 2023-08-23 at 5.13.56 PM.png",
     "BIO/Biology.md",
-    "BIO/Prevegen Example/Step 2 - Evidence.md",
-    "BIO/Prevegen Example/Step 4 - Reasoning.md",
-    "BIO/Prevegen Example/Step 5 - Explanation.md",
     "2023-08-23.md",
-    "STAT/Data Analysis/Categorical Data.md",
     "BIO/AP",
     "BIO/Measuring Variation within a Population and Sample",
     "BIO/Prevegen Example",

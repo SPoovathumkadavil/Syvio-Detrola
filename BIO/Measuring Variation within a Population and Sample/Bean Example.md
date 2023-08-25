@@ -21,4 +21,4 @@ This is because a size of 30 is enough to see [[Normal Distribution|normal distr
 
 Keep in mind that we are not sampling for all attributes of a sample, only for one [[Variable|response]].
 
-A [[Variable]] that is at the extremes(More than 2 [[Standard Deviation|STDEVs]] away) is a [[Mutant]]
+A [[Variable]] that is at the extremes(More than 2 [[Standard Deviation|STDEVs]] away) is a [[Mutant]] #Important 

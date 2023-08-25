@@ -2,7 +2,7 @@
 alias: "Bean Example"
 subject: "Science"
 subset: "Biology"
-importance: 5
+importance: 6
 type: "Example"
 order: 1
 ---

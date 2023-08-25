@@ -2,6 +2,6 @@
 alias: "Population"
 subject: "Science"
 subset: "Biology"
-importance: 9
+importance: 8
 type: Concept
 ---

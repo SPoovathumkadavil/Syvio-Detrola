@@ -12,3 +12,9 @@
   display: block;
   text-align: left;
 }
+
+img[alt*="center"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

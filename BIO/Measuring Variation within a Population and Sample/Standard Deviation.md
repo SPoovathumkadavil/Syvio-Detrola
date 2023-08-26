@@ -18,3 +18,5 @@ Standard Deviation is calculated by performing a square root operation on the [[
 $$\large \sigma = \sqrt{\frac{\sum{(x_i-\bar{x})}^2}{n-1}}$$
 $$\large \sigma^2 = \frac{\sum{(x_i-\bar{x})}^2}{n-1}$$
 Check [[Variance|variance explanation]] for more detail on the right side of the equation.
+
+- [ ] Add Info about Standard Error and Confidence Interval

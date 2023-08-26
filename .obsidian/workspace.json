@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/Variance.md",
+                "file": "BIO/AP/Cell Structure and Function.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/Variance.md",
+                "file": "BIO/AP/Cell Structure and Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/Variance.md",
+                "file": "BIO/AP/Cell Structure and Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/Variance.md"
+                "file": "BIO/AP/Cell Structure and Function.md"
               }
             }
           }
@@ -209,7 +209,9 @@
   },
   "active": "b3506eac9009e879",
   "lastOpenFiles": [
+    "BIO/AP/Ecology.md",
     "BIO/Biology.md",
+    "BIO/Measuring Variation within a Population and Sample/Variance.md",
     "STAT/Data Analysis/Categorical Data.md",
     "STAT/Data Analysis/Untitled.md",
     "Excalidraw/Standard Deviation Percents.md",
@@ -233,8 +235,6 @@
     "BIO/Prevegen Example/Step 1 - Question.md",
     "BIO/Prevegen Example/Amino Acid Dissolving.md",
     "BIO/Prevegen Example/Amino Acids.md",
-    "BIO/Measuring Variation within a Population and Sample/Population.md",
-    "Detrola Tracker.md",
     "Templates",
     "Excalidraw",
     "Screenshot 2023-08-23 at 5.13.56 PM.png",

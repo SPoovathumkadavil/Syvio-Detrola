@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT/Data Analysis/Categorical Data.md",
+                "file": "BIO/Measuring Variation within a Population and Sample/Variance.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT/Data Analysis/Categorical Data.md",
+                "file": "BIO/Measuring Variation within a Population and Sample/Variance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STAT/Data Analysis/Categorical Data.md",
+                "file": "BIO/Measuring Variation within a Population and Sample/Variance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT/Data Analysis/Categorical Data.md"
+                "file": "BIO/Measuring Variation within a Population and Sample/Variance.md"
               }
             }
           }
@@ -209,11 +209,13 @@
   },
   "active": "b3506eac9009e879",
   "lastOpenFiles": [
+    "BIO/Biology.md",
+    "STAT/Data Analysis/Categorical Data.md",
+    "STAT/Data Analysis/Untitled.md",
     "Excalidraw/Standard Deviation Percents.md",
     "Excalidraw/Intra Variance.md",
     "BIO/Measuring Variation within a Population and Sample/1 - Bean Example.md",
     "BIO/AP/Chemistry of Life.md",
-    "BIO/Biology.md",
     "BIO/Measuring Variation within a Population and Sample/2 - Intra-Variance.md",
     "BIO/Measuring Variation within a Population and Sample/Dependent Variable.md",
     "BIO/Prevegen Example/Effects of Heat on Amino Acids.md",
@@ -224,7 +226,6 @@
     "BIO/Measuring Variation within a Population and Sample/Mutant.md",
     "Excalidraw/Drawing 2023-08-25 14.51.59.excalidraw.md",
     "STAT/Data Analysis/Individual.md",
-    "STAT/Data Analysis/Categorical Data.md",
     "STAT/Data Analysis/Introduction Exercises.md",
     "BIO/Prevegen Example/Step 2 - Evidence.md",
     "Excalidraw/Standard Deviation Variations.md",
@@ -234,7 +235,6 @@
     "BIO/Prevegen Example/Amino Acids.md",
     "BIO/Measuring Variation within a Population and Sample/Population.md",
     "Detrola Tracker.md",
-    "BIO/Prevegen Example/Step 4 - Reasoning.md",
     "Templates",
     "Excalidraw",
     "Screenshot 2023-08-23 at 5.13.56 PM.png",

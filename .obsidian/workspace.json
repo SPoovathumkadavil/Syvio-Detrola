@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/AP/Chemistry of Life.md",
+                "file": "BIO/AP/Heredity.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/AP/Chemistry of Life.md",
+                "file": "BIO/AP/Heredity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/AP/Chemistry of Life.md",
+                "file": "BIO/AP/Heredity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/AP/Chemistry of Life.md"
+                "file": "BIO/AP/Heredity.md"
               }
             }
           }
@@ -210,6 +210,7 @@
   },
   "active": "425f794abac32cd5",
   "lastOpenFiles": [
+    "BIO/AP/Chemistry of Life.md",
     "BIO/AP/Ecology.md",
     "BIO/Measuring Variation within a Population and Sample/2 - Intra-Variance.md",
     "BIO/Measuring Variation within a Population and Sample/Dependent Variable.md",
@@ -233,7 +234,6 @@
     "BIO/Biology.md",
     "BIO/Measuring Variation within a Population and Sample/Variance.md",
     "STAT/Data Analysis/Untitled.md",
-    "BIO/AP/Chemistry of Life.md",
     "BIO/Prevegen Example/Effects of Heat on Amino Acids.md",
     "Excalidraw/Drawing 2023-08-25 14.58.47.excalidraw.md",
     "Templates",

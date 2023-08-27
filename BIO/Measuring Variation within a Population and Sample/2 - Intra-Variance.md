@@ -19,3 +19,4 @@ _Does this variation influence our ability to make a scientific [[Step 3 - Claim
 If two [[Normal Distribution|normal distributions]] overlap, then their difference in not significant.
 
 ![[Intra Variance | center]]
+On a bar graph, check the error lines to tell if there is overlap.

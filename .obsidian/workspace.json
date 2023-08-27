@@ -11,9 +11,12 @@
             "id": "b3506eac9009e879",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Intra Variance.md"
+                "file": "BIO/Measuring Variation within a Population and Sample/2 - Intra-Variance.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -76,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/AP/Heredity.md",
+                "file": "BIO/Measuring Variation within a Population and Sample/2 - Intra-Variance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/AP/Heredity.md",
+                "file": "BIO/Measuring Variation within a Population and Sample/2 - Intra-Variance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/AP/Heredity.md"
+                "file": "BIO/Measuring Variation within a Population and Sample/2 - Intra-Variance.md"
               }
             }
           }
@@ -208,31 +210,31 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "425f794abac32cd5",
+  "active": "b3506eac9009e879",
   "lastOpenFiles": [
+    "BIO/Measuring Variation within a Population and Sample/Dependent Variable.md",
+    "BIO/Measuring Variation within a Population and Sample/Independent Variable.md",
+    "BIO/Measuring Variation within a Population and Sample/Mutant.md",
+    "BIO/Measuring Variation within a Population and Sample/Normal Distribution.md",
+    "BIO/Measuring Variation within a Population and Sample/Population.md",
+    "BIO/Measuring Variation within a Population and Sample/Sample.md",
+    "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
+    "BIO/Measuring Variation within a Population and Sample/Variance.md",
+    "Excalidraw/Intra Variance.md",
+    "BIO/AP/Heredity.md",
     "BIO/AP/Chemistry of Life.md",
     "BIO/AP/Ecology.md",
     "BIO/Measuring Variation within a Population and Sample/2 - Intra-Variance.md",
-    "BIO/Measuring Variation within a Population and Sample/Dependent Variable.md",
-    "Excalidraw/Intra Variance.md",
     "Excalidraw/Standard Deviation Percents.md",
     "BIO/Measuring Variation within a Population and Sample/1 - Bean Example.md",
-    "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
-    "BIO/Measuring Variation within a Population and Sample/Normal Distribution.md",
-    "BIO/Measuring Variation within a Population and Sample/Population.md",
-    "BIO/Measuring Variation within a Population and Sample/Mutant.md",
-    "BIO/Measuring Variation within a Population and Sample/Independent Variable.md",
     "BIO/AP/Natural Selection.md",
     "Detrola Tracker.md",
     "Templates/Center Alignment.md",
     "STAT/Data Analysis/Quantitative Data.md",
     "STAT/Data Analysis/Categorical Data.md",
     "STAT/Data Analysis/Variable.md",
-    "BIO/Measuring Variation within a Population and Sample/Sample.md",
-    "BIO/AP/Heredity.md",
     "BIO/AP/Cell Structure and Function.md",
     "BIO/Biology.md",
-    "BIO/Measuring Variation within a Population and Sample/Variance.md",
     "STAT/Data Analysis/Untitled.md",
     "BIO/Prevegen Example/Effects of Heat on Amino Acids.md",
     "Excalidraw/Drawing 2023-08-25 14.58.47.excalidraw.md",

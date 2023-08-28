@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/2 - Intra-Variance.md",
+                "file": "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/2 - Intra-Variance.md",
+                "file": "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/2 - Intra-Variance.md",
+                "file": "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/2 - Intra-Variance.md"
+                "file": "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md"
               }
             }
           }
@@ -212,6 +212,15 @@
   },
   "active": "b3506eac9009e879",
   "lastOpenFiles": [
+    "BIO/Measuring Variation within a Population and Sample/1 - Bean Example.md",
+    "BIO/Biology.md",
+    "STAT/Data Analysis/1.1 - The Science and Art of Data.md",
+    "STAT/Data Analysis/Quantitative Data.md",
+    "STAT/Data Analysis/Categorical Data.md",
+    "STAT/Data Analysis/Individual.md",
+    "STAT/Data Analysis/Variable.md",
+    "STAT/Statistics.md",
+    "BIO/Measuring Variation within a Population and Sample/2 - Intra-Variance.md",
     "BIO/Measuring Variation within a Population and Sample/Dependent Variable.md",
     "BIO/Measuring Variation within a Population and Sample/Independent Variable.md",
     "BIO/Measuring Variation within a Population and Sample/Mutant.md",
@@ -224,20 +233,11 @@
     "BIO/AP/Heredity.md",
     "BIO/AP/Chemistry of Life.md",
     "BIO/AP/Ecology.md",
-    "BIO/Measuring Variation within a Population and Sample/2 - Intra-Variance.md",
     "Excalidraw/Standard Deviation Percents.md",
-    "BIO/Measuring Variation within a Population and Sample/1 - Bean Example.md",
     "BIO/AP/Natural Selection.md",
     "Detrola Tracker.md",
     "Templates/Center Alignment.md",
-    "STAT/Data Analysis/Quantitative Data.md",
-    "STAT/Data Analysis/Categorical Data.md",
-    "STAT/Data Analysis/Variable.md",
     "BIO/AP/Cell Structure and Function.md",
-    "BIO/Biology.md",
-    "STAT/Data Analysis/Untitled.md",
-    "BIO/Prevegen Example/Effects of Heat on Amino Acids.md",
-    "Excalidraw/Drawing 2023-08-25 14.58.47.excalidraw.md",
     "Templates",
     "Excalidraw",
     "Screenshot 2023-08-23 at 5.13.56 PM.png",

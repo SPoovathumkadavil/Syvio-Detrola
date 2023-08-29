@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/AP/Cell Structure and Function.md",
+                "file": "BIO/Measuring Variation within a Population and Sample/Dependent Variable.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b3903c0ffc0c85b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIO/Measuring Variation within a Population and Sample/Standard Error of Mean.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -24,9 +37,12 @@
             "id": "c8e121157e0e74af",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Standard Deviation Percents.md"
+                "file": "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -79,7 +95,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/AP/Cell Structure and Function.md",
+                "file": "BIO/Measuring Variation within a Population and Sample/Standard Error of Mean.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/AP/Cell Structure and Function.md",
+                "file": "BIO/Measuring Variation within a Population and Sample/Standard Error of Mean.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/AP/Cell Structure and Function.md"
+                "file": "BIO/Measuring Variation within a Population and Sample/Standard Error of Mean.md"
               }
             }
           }
@@ -210,10 +227,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b3506eac9009e879",
+  "active": "2b3903c0ffc0c85b",
   "lastOpenFiles": [
-    "BIO/AP/Chemistry of Life.md",
+    "BIO/Measuring Variation within a Population and Sample/95% Confidence Interval.md",
+    "BIO/Measuring Variation within a Population and Sample/Dependent Variable.md",
+    "Excalidraw/Standard Deviation Percents.md",
+    "BIO/AP/Heredity.md",
     "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
+    "BIO/Measuring Variation within a Population and Sample/Standard Error of Mean.md",
+    "BIO/Measuring Variation within a Population and Sample/Independent Variable.md",
+    "BIO/Measuring Variation within a Population and Sample/2 - Intra-Variance.md",
+    "BIO/AP/Cell Structure and Function.md",
+    "BIO/AP/Chemistry of Life.md",
     "BIO/Measuring Variation within a Population and Sample/1 - Bean Example.md",
     "BIO/Biology.md",
     "STAT/Data Analysis/1.1 - The Science and Art of Data.md",
@@ -222,22 +247,14 @@
     "STAT/Data Analysis/Individual.md",
     "STAT/Data Analysis/Variable.md",
     "STAT/Statistics.md",
-    "BIO/Measuring Variation within a Population and Sample/2 - Intra-Variance.md",
-    "BIO/Measuring Variation within a Population and Sample/Dependent Variable.md",
-    "BIO/Measuring Variation within a Population and Sample/Independent Variable.md",
     "BIO/Measuring Variation within a Population and Sample/Mutant.md",
     "BIO/Measuring Variation within a Population and Sample/Normal Distribution.md",
     "BIO/Measuring Variation within a Population and Sample/Population.md",
     "BIO/Measuring Variation within a Population and Sample/Sample.md",
     "BIO/Measuring Variation within a Population and Sample/Variance.md",
     "Excalidraw/Intra Variance.md",
-    "BIO/AP/Heredity.md",
     "BIO/AP/Ecology.md",
-    "Excalidraw/Standard Deviation Percents.md",
     "BIO/AP/Natural Selection.md",
-    "Detrola Tracker.md",
-    "Templates/Center Alignment.md",
-    "BIO/AP/Cell Structure and Function.md",
     "Templates",
     "Excalidraw",
     "Screenshot 2023-08-23 at 5.13.56 PM.png",

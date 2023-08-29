@@ -1,12 +1,12 @@
 ---
+alias: "Standard Error of Mean"
+subject: "Math"
+subset: "Statistics"
+importance: 8
+type: "Concept"
 ---
 
 The Standard Deviation of the means
 # How to calculate
 $$\large\frac{s}{\sqrt{n}}$$
-$$\large \sqrt\frac{\frac{\sum (x_i -\bar{x})^2}{n-1}}{n}$$
-# Organization
-Amerucan story
-Backstory into intro
-body paras are going to be about tretay
-pennsylvania gazelle to conclusion
+$$\large \sqrt\frac{\dfrac{\sum (x_i -\bar{x})^2}{n-1}}{n}$$

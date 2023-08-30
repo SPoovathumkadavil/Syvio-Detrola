@@ -303,4 +303,4 @@ Meiosis is likely to produce sorts of **variations** than is mitosis, which ther
     
 - Either one can lead to **aneuploidy**, or the presence of an abnormal number of chromosomes.
 
-Next: [[Gene Expression and Regulation]]
+Next: [[7 - Gene Expression and Regulation]]

@@ -333,4 +333,4 @@ structural genes, promoter genes, the operator, and the regulatory gene:
     
 - DNA sequencing allows scientists to determine the order of nucleotides in a DNA molecule. Scientists could design their own DNA plasmid and use it to study a gene of interest.
 
-Next: [[Natural Selection]]
+Next: [[7 - Natural Selection]]

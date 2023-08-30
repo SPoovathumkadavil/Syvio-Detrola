@@ -230,4 +230,4 @@ order: 1
     
 - DNA contains the hereditary “**blueprints**” of all life. RNA is essential for protein synthesis
 
-Next: [[Cell Structure and Function]]
+Next: [[2 - Cell Structure and Function]]

@@ -415,4 +415,4 @@ You will also want to make sure you remember the major steps of cell respiration
     
 - **Pyruvic acid produced** from glycolysis is converted to lactic acid.
 
-Next: [[Cell Communication and Cell Cycle]]
+Next: [[4 - Cell Communication and Cell Cycle]]

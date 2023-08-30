@@ -92,7 +92,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/Cell Structure and Function/Bacterial Structure and Functions.md",
+                "file": "BIO/Cell Structure and Function/Bacteria.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -118,7 +118,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/Cell Structure and Function/Bacterial Structure and Functions.md",
+                "file": "BIO/Cell Structure and Function/Prokaryotic Cells.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -126,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -192,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/Cell Structure and Function/Bacterial Structure and Functions.md",
+                "file": "BIO/Cell Structure and Function/Bacteria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/Cell Structure and Function/Bacterial Structure and Functions.md",
+                "file": "BIO/Cell Structure and Function/Bacteria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/Cell Structure and Function/Bacterial Structure and Functions.md"
+                "file": "BIO/Cell Structure and Function/Bacteria.md"
               }
             }
           }
@@ -257,39 +257,39 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "79cb12f3aee0586f",
+  "active": "922697755ffe5920",
   "lastOpenFiles": [
+    "BIO/Biology.md",
+    "BIO/AP/7 - Natural Selection.md",
+    "BIO/AP/5 - Heredity.md",
+    "BIO/AP/7 - Gene Expression and Regulation.md",
+    "BIO/AP/8 - Ecology.md",
+    "BIO/AP/3 - Cellular Energetics.md",
+    "BIO/AP/2 - Cell Structure and Function.md",
+    "BIO/AP/4 - Cell Communication and Cell Cycle.md",
+    "BIO/AP/1 - Chemistry of Life.md",
+    "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
+    "BIO/Cell Structure and Function/Organelles.md",
+    "BIO/Cell Structure and Function/Innate Immune System.md",
+    "BIO/Cell Structure and Function/Peptidoglycans.md",
+    "BIO/Cell Structure and Function/Cell Wall.md",
+    "BIO/Cell Structure and Function/Cell Envelope.md",
+    "BIO/Cell Structure and Function/Golgi Complexes.md",
+    "BIO/Cell Structure and Function/Endoplasmic Reticulum.md",
+    "BIO/Cell Structure and Function/Mitochondria.md",
+    "BIO/Cell Structure and Function/Nucleus.md",
+    "BIO/Cell Structure and Function/Eukaryotic Cells.md",
+    "BIO/Cell Structure and Function/Large Intestine.md",
+    "BIO/Cell Structure and Function/Bacteria.md",
+    "BIO/Cell Structure and Function/Prokaryotic Cells.md",
     "Detrola Tracker.md",
-    "BIO/Cell Structure and Function/Bacterial Structure and Functions.md",
     "Excalidraw/Cell Wall Variable Shapes.md",
     "Excalidraw/Standard Deviation Percents.md",
-    "BIO/AP/Gene Expression and Regulation.md",
-    "BIO/Measuring Variation within a Population and Sample/95% Confidence Interval.md",
     "prokaryotic cell.jpg",
     "Screenshot 2023-08-30 at 5.12.09 PM.png",
-    "BIO/Measuring Variation within a Population and Sample/2 - Intra-Variance.md",
-    "Excalidraw/Intra Variance.md",
-    "Excalidraw/Drawing 2023-08-30 17.07.08.excalidraw.md",
-    "Excalidraw/Standard Deviation Variations.md",
     "Pasted Image 20230830170710_623.png",
     "Screenshot 2023-08-30 at 4.41.47 PM.png",
     "BIO/Cell Structure and Function",
-    "BIO/AP/Heredity.md",
-    "BIO/Measuring Variation within a Population and Sample/Dependent Variable.md",
-    "BIO/Measuring Variation within a Population and Sample/Untitled.md",
-    "BIO/AP/Ecology.md",
-    "BIO/AP/Cellular Energetics.md",
-    "BIO/AP/Cell Structure and Function.md",
-    "BIO/AP/Cell Communication and Cell Cycle.md",
-    "BIO/Measuring Variation within a Population and Sample/Standard Error of Mean.md",
-    "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
-    "BIO/Measuring Variation within a Population and Sample/Variance.md",
-    "BIO/Measuring Variation within a Population and Sample/Normal Distribution.md",
-    "BIO/Measuring Variation within a Population and Sample/Independent Variable.md",
-    "BIO/AP/Chemistry of Life.md",
-    "BIO/Measuring Variation within a Population and Sample/1 - Bean Example.md",
-    "BIO/Biology.md",
-    "STAT/Data Analysis/1.1 - The Science and Art of Data.md",
     "Templates",
     "Excalidraw",
     "Screenshot 2023-08-23 at 5.13.56 PM.png",

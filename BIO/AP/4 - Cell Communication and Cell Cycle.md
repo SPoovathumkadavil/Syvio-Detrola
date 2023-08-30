@@ -155,4 +155,4 @@ A positive feedback pathway also involves an end product playing a role, but ins
     
 - The impetus to divide occurs because an organism needs to grow, a tissue needs repair, or asexual reproduction must take place.
 
-Next: [[Heredity]]
+Next: [[5 - Heredity]]

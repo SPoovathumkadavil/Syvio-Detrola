@@ -50,12 +50,9 @@
             "id": "7cd64b5576ac874d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "BIO/Bacterial Structure and Functions.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Excalidraw/Cell Wall Variable Shapes.md"
               }
             }
           },
@@ -65,7 +62,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-30 16.44.35.excalidraw.md"
+                "file": "Excalidraw/Cell Wall Variable Shapes.md"
               }
             }
           },
@@ -75,10 +72,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/AP/Heredity.md",
+                "file": "BIO/Cell Structure and Function/Bacterial Structure and Functions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "36fdd78f9f0f183c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-08-30 17.07.08.excalidraw.md"
               }
             }
           },
@@ -119,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -185,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-30 16.44.35.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-08-30 17.07.08.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-30 16.44.35.excalidraw.md",
+                "file": "Excalidraw/Drawing 2023-08-30 17.07.08.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-30 16.44.35.excalidraw.md"
+                "file": "Excalidraw/Drawing 2023-08-30 17.07.08.excalidraw.md"
               }
             }
           }
@@ -250,14 +257,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c81b47bfbaaf632d",
+  "active": "36fdd78f9f0f183c",
   "lastOpenFiles": [
-    "BIO/Bacterial Structure and Functions.md",
-    "Excalidraw/Drawing 2023-08-30 16.44.35.excalidraw.md",
-    "Screenshot 2023-08-30 at 4.41.47 PM.png",
+    "Pasted Image 20230830170710_623.png",
+    "BIO/Cell Structure and Function/Bacterial Structure and Functions.md",
+    "Excalidraw/Drawing 2023-08-30 17.07.08.excalidraw.md",
+    "BIO/Cell Structure and Function",
+    "Excalidraw/Cell Wall Variable Shapes.md",
+    "Excalidraw/Intra Variance.md",
     "BIO/Measuring Variation within a Population and Sample/2 - Intra-Variance.md",
-    "BIO/Measuring Variation within a Population and Sample/Untitled.md",
+    "Excalidraw/Standard Deviation Percents.md",
     "BIO/AP/Heredity.md",
+    "BIO/Measuring Variation within a Population and Sample/Dependent Variable.md",
+    "Screenshot 2023-08-30 at 4.41.47 PM.png",
+    "BIO/Measuring Variation within a Population and Sample/Untitled.md",
     "BIO/AP/Ecology.md",
     "BIO/AP/Cellular Energetics.md",
     "BIO/AP/Cell Structure and Function.md",
@@ -267,8 +280,6 @@
     "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
     "BIO/Measuring Variation within a Population and Sample/Variance.md",
     "BIO/Measuring Variation within a Population and Sample/Normal Distribution.md",
-    "BIO/Measuring Variation within a Population and Sample/Dependent Variable.md",
-    "Excalidraw/Standard Deviation Percents.md",
     "BIO/Measuring Variation within a Population and Sample/Independent Variable.md",
     "BIO/AP/Chemistry of Life.md",
     "BIO/Measuring Variation within a Population and Sample/1 - Bean Example.md",
@@ -276,9 +287,6 @@
     "STAT/Data Analysis/1.1 - The Science and Art of Data.md",
     "STAT/Data Analysis/Quantitative Data.md",
     "STAT/Data Analysis/Categorical Data.md",
-    "STAT/Data Analysis/Individual.md",
-    "STAT/Data Analysis/Variable.md",
-    "STAT/Statistics.md",
     "Templates",
     "Excalidraw",
     "Screenshot 2023-08-23 at 5.13.56 PM.png",
@@ -288,7 +296,6 @@
     "LIT",
     "CSA",
     "PRECALBC",
-    "BIO",
-    "STAT/Data Analysis"
+    "BIO"
   ]
 }

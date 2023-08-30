@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/Normal Distribution.md",
+                "file": "BIO/Measuring Variation within a Population and Sample/Standard Error of Mean.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/Normal Distribution.md",
+                "file": "BIO/Measuring Variation within a Population and Sample/Standard Error of Mean.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/Normal Distribution.md",
+                "file": "BIO/Measuring Variation within a Population and Sample/Standard Error of Mean.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/Normal Distribution.md"
+                "file": "BIO/Measuring Variation within a Population and Sample/Standard Error of Mean.md"
               }
             }
           }
@@ -230,6 +230,8 @@
   "active": "2b3903c0ffc0c85b",
   "lastOpenFiles": [
     "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
+    "BIO/Measuring Variation within a Population and Sample/Variance.md",
+    "BIO/Measuring Variation within a Population and Sample/Normal Distribution.md",
     "BIO/Measuring Variation within a Population and Sample/Standard Error of Mean.md",
     "BIO/Measuring Variation within a Population and Sample/95% Confidence Interval.md",
     "BIO/Measuring Variation within a Population and Sample/Dependent Variable.md",
@@ -248,10 +250,8 @@
     "STAT/Data Analysis/Variable.md",
     "STAT/Statistics.md",
     "BIO/Measuring Variation within a Population and Sample/Mutant.md",
-    "BIO/Measuring Variation within a Population and Sample/Normal Distribution.md",
     "BIO/Measuring Variation within a Population and Sample/Population.md",
     "BIO/Measuring Variation within a Population and Sample/Sample.md",
-    "BIO/Measuring Variation within a Population and Sample/Variance.md",
     "Excalidraw/Intra Variance.md",
     "BIO/AP/Ecology.md",
     "BIO/AP/Natural Selection.md",

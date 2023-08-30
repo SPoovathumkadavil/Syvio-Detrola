@@ -20,3 +20,8 @@ $$\large \sigma^2 = \frac{\sum{(x_i-\bar{x})}^2}{n-1}$$
 Check [[Variance|variance explanation]] for more detail on the right side of the equation.
 
 - [ ] Add Info about Standard Error and Confidence Interval
+
+```dataview
+LIST
+WHERE subject="Science"
+```

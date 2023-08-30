@@ -1,6 +1,6 @@
 ---
 alias: "Standard Error of Mean"
-subject: "Math"
+subject: "Biology"
 subset: "Statistics"
 importance: 8
 type: "Concept"

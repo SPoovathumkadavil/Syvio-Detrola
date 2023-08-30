@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/95% Confidence Interval.md",
+                "file": "BIO/AP/Heredity.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/95% Confidence Interval.md",
+                "file": "BIO/AP/Heredity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/95% Confidence Interval.md",
+                "file": "BIO/AP/Heredity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/95% Confidence Interval.md"
+                "file": "BIO/AP/Heredity.md"
               }
             }
           }
@@ -229,17 +229,20 @@
   },
   "active": "2b3903c0ffc0c85b",
   "lastOpenFiles": [
+    "BIO/AP/Ecology.md",
+    "BIO/AP/Cellular Energetics.md",
+    "BIO/AP/Cell Structure and Function.md",
+    "BIO/AP/Cell Communication and Cell Cycle.md",
+    "BIO/Measuring Variation within a Population and Sample/95% Confidence Interval.md",
     "BIO/Measuring Variation within a Population and Sample/Standard Error of Mean.md",
     "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
     "BIO/Measuring Variation within a Population and Sample/Variance.md",
     "BIO/Measuring Variation within a Population and Sample/Normal Distribution.md",
-    "BIO/Measuring Variation within a Population and Sample/95% Confidence Interval.md",
     "BIO/Measuring Variation within a Population and Sample/Dependent Variable.md",
     "Excalidraw/Standard Deviation Percents.md",
     "BIO/AP/Heredity.md",
     "BIO/Measuring Variation within a Population and Sample/Independent Variable.md",
     "BIO/Measuring Variation within a Population and Sample/2 - Intra-Variance.md",
-    "BIO/AP/Cell Structure and Function.md",
     "BIO/AP/Chemistry of Life.md",
     "BIO/Measuring Variation within a Population and Sample/1 - Bean Example.md",
     "BIO/Biology.md",
@@ -252,9 +255,6 @@
     "BIO/Measuring Variation within a Population and Sample/Mutant.md",
     "BIO/Measuring Variation within a Population and Sample/Population.md",
     "BIO/Measuring Variation within a Population and Sample/Sample.md",
-    "Excalidraw/Intra Variance.md",
-    "BIO/AP/Ecology.md",
-    "BIO/AP/Natural Selection.md",
     "Templates",
     "Excalidraw",
     "Screenshot 2023-08-23 at 5.13.56 PM.png",

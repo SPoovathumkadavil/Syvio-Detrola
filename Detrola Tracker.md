@@ -1,10 +1,12 @@
 # Field Tasks
 
-- [x] Finish 🛫 2023-08-24 Notes ✅ 2023-08-26
-- [ ] Prepare for Ap Comp Sci A Progress Check
-- [ ] Complete Working Robot Code for Activities Fair
-- [ ] GOV Email Send
 - [ ] Complete BIO notes up to 🛫 2023-08-25
+- [ ] Finish up BIO notes
+- [ ] Work on Stat notes
+- [ ] Finish Comp Sci A conc questions
+- [ ] ENG finish up essay
+- [ ] GOV finish google doc
+- [ ] Precal HW
 
 # File Tasks
 ```dataview

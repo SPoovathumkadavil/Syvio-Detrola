@@ -1,7 +1,9 @@
-[[Prokaryotic Cells]], cause health and disease, Live on skin and objects around us. [[Bacteria]] live within organisms as well. For example, our [[Large Intestine|large intestine]] is a bacterial ecosystem with at least dozens of unique species taking residence.
+# [[Prokaryotic Cells]]
 
-[[Prokaryotic Cells]] are less complex than [[Eukaryotic Cells]]
-They have no [[Nucleus|nucleus]] or membrane bound [[Organelles|organelles]] like [[Mitochondria]], [[Endoplasmic Reticulum|E. R.]], [[Golgi Complexes]]
+[[Prokaryotic Cells]] cause health and disease, and they live on skin and objects around us. [[Bacteria]] live within organisms as well. For example, our [[Large Intestine|large intestine]] is a bacterial ecosystem with at least dozens of unique species taking residence.
+
+[[Prokaryotic Cells]] are less complex than [[Eukaryotic Cells]].
+- They have no [[Nucleus|nucleus]] or membrane bound [[Organelles|organelles]] like [[Mitochondria]], [[Endoplasmic Reticulum|E. R.]], [[Golgi Complexes]]
 
 [[Cell Envelope]] - layers of the outer structure of the cell.
 - [[Cell Wall]] - The outer surface of a prokaryote, acts as protection, contains [[Peptidoglycans|peptidoglycan]] (determines [[Gram Positive Bacteria|gram positive]] or [[Gram Negative Bacteria|gram negative]]). 
@@ -10,13 +12,17 @@ They have no [[Nucleus|nucleus]] or membrane bound [[Organelles|organelles]] lik
 - Some bacteria are covered by a [[Capsule|capsule]](outermost layer), these act as shields to adhere and protect.
 	- The [[Capsule|bacterial capsule]] is also considered a [[Virulence Factor|virulence factor]] as it enhances the ability of bacteria to cause disease by preventing [[Phagocytosis|phagocytosis]].
 		- [[Phagocytosis]] is often performed by white blood cells called [[Phagocytes|phagocytes]], cells that are part of [[Innate Immune System|the non-specific immune response]].
+- The [[Plasma Membranes|plasma membrane]] is the innermost layer and most important. It contains [[Cytoplasm|cytoplasm]] which consists of water, cell components, [[Enzymes|enzymes]], and molecules. 
+	- If there is no membrane, the contents of the cytoplasm will spill
+	- The [[Plasma Membranes|plasma membrane]] is responsible for [[4 - Cell Communication and Cell Cycle|communication with the outside world]].
+	- It is also responsible for acquiring nutrients, eliminating waste, and maintaining a constant organized state.
+	- It is 
+
 ![[Cell Wall Variable Shapes | center | 1000]]
 E-Coli are rod shaped bacilli
 
 
-Plasma membrane innermost most important. Contains cytoplasm which is water, cell components, enzymes, molecules. 
-If no membrane, contents spill.
-Plasma membrane is responsible for communication with outside world. Aquire nutieients eliminate waste, mamahe constant organized state
+
 selectivly permeable, respiration, photosynthesis, systhesis of lipids and cell comonents.
 There are species of bacteria that perform photosynthesis. ALL cells perform a version of cellular respiration.
 In cytoplasm there are ribosomes, sites of protein synthesis. if in cytoplasm free, Make proteins that stay in the cell, if attached on the plasma membrane, make proteins for cell and outside. The second kind is called Plasma membrane associated robosomes.

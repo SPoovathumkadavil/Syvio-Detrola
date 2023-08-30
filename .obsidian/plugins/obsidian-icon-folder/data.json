@@ -3,9 +3,15 @@
     "migrated": true,
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
     "fontSize": 16,
-    "emojiStyle": "none",
+    "emojiStyle": "twemoji",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "📚",
+      "🖊",
+      "💽",
+      "🌳",
+      "💊"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -15,5 +21,14 @@
       "left": 0
     },
     "iconInTabsEnabled": false
-  }
+  },
+  "BIO": "🍃",
+  "BIO/AP": "🏫",
+  "BIO/Cell Structure and Function": "🔎",
+  "BIO/Measuring Variation within a Population and Sample": "🗂",
+  "BIO/Prevegen Example": "💊",
+  "BIO/Biology.md": "🌳",
+  "CSA": "💽",
+  "Excalidraw": "🖊",
+  "LIT": "📚"
 }

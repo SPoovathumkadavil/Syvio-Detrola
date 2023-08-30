@@ -35,7 +35,6 @@ order: 4
 - For signaling molecules that cannot enter the cell, a plasma **membrane receptor is required.**
     
 - Plasma membrane receptors form an important class of integral membrane proteins that transmit signals from the **extracellular space into the cytoplasm**. Each receptor binds a particular molecule in a highly specific way.
-    
 
 ### ==There are three classes of membrane receptors==.
 

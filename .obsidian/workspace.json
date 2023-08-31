@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Syvio Detrola.md",
+                "file": "BIO/Cell Structure and Function/Cell Envelope.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT/AP/5 - Sampling Distributions.md",
+                "file": "BIO/Cell Structure and Function/Cell Envelope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STAT/AP/5 - Sampling Distributions.md",
+                "file": "BIO/Cell Structure and Function/Cell Envelope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,11 +192,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT/AP/5 - Sampling Distributions.md"
+                "file": "BIO/Cell Structure and Function/Cell Envelope.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -212,25 +213,28 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "92b22d0356a5247c",
+  "active": "d47e5f442d932c90",
   "lastOpenFiles": [
-    "STAT/AP/4 - Probability, Random Variables, and Probability Distributions.md",
+    "BIO/Cell Structure and Function/Capsule.md",
+    "BIO/Cell Structure and Function/Bacteria.md",
+    "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
+    "BIO/Prevegen Example/Step 4 - Reasoning.md",
+    "BIO/Prevegen Example/Step 5 - Explanation.md",
+    "BIO/Resources/Images/prokaryotic cell.jpg",
+    "Syvio Detrola.md",
     "STAT/AP/5 - Sampling Distributions.md",
+    "STAT/AP/4 - Probability, Random Variables, and Probability Distributions.md",
     "STAT/AP/3 - Collecting Data.md",
     "STAT/AP/2 - Exploring 2-Variable Data.md",
-    "Syvio Detrola.md",
     "STAT/AP/1 - Exploring One-Variable Data.md",
-    "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
     "STAT/AP",
-    "BIO/Prevegen Example/Step 5 - Explanation.md",
     "BIO/Measuring Variation within a Population and Sample/1 - Bean Example.md",
     "BIO/Measuring Variation within a Population and Sample/Variance.md",
-    "BIO/Resources/Images/prokaryotic cell.jpg",
     "BIO/Resources/Images",
     "BIO/Resources",
     "BIO/Measuring Variation within a Population and Sample/Standard Error of Mean.md",
@@ -245,10 +249,7 @@
     "BIO/Measuring Variation within a Population and Sample/3 - Errors.md",
     "BIO/Measuring Variation within a Population and Sample/2 - Intra-Variance.md",
     "BIO/Biology.md",
-    "BIO/Cell Structure and Function/Capsule.md",
-    "BIO/Cell Structure and Function/Bacteria.md",
     "BIO/Prevegen Example/Amino Acids.md",
-    "BIO/Prevegen Example/Effects of Heat on Amino Acids.md",
     "Screenshot 2023-08-30 at 4.41.47 PM.png",
     "Pasted Image 20230830170710_623.png",
     "Screenshot 2023-08-30 at 5.12.09 PM.png",

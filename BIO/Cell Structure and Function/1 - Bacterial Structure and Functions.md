@@ -5,7 +5,6 @@ subset: "Biology"
 importance: 9
 type: "Bearing"
 ---
-
 # [[Prokaryotic Cells]]
 
 [[Prokaryotic Cells]] cause health and disease, and they live on skin and objects around us. [[Bacteria]] live within organisms as well. For example, our [[Large Intestine|large intestine]] is a bacterial ecosystem with at least dozens of unique species taking residence.
@@ -37,13 +36,13 @@ There are 4 main shapes of Prokaryotic cells. These are formed by the [[Cell Wal
 		- It is selectively permeable, helps with [[Cellular Respiration|cell respiration]], [[Photosynthesis|photosynthesis]], and synthesis of [[Lipids|lipids]] and cell components.
 			- There are species of bacteria that perform [[Photosynthesis|photosynthesis]]. ALL [[Cells|cells]] perform a version of [[Cellular Respiration|cellular respiration]].
 
+[[Ribosomes]] are the sites of [[Protein Synthesis|protein synthesis]]. If the ribosome is free in the [[Cytoplasm|cytoplasm]], then the [[Protein|proteins]] made will stay in the cell. Alternately, if the [[Ribosomes|ribosome]] is attached to the [[Plasma Membranes|plasma membrane]], the [[Protein|proteins]] made can stay in the the bacteria or travel out. This second type of ribosomes are called [[Plasma Membrane Associated Ribosomes|Plasma membrane associated ribosomes]].
 
-plasmids Small ds-DNA that are independant, Cna be circular or linear few genes, not nessesary, usually confer selective advantages such as resistance to antibiotics.
-Bacteria can more or attach itself to other surfaces, they have pili, hair like surfaces, fimbriae(smaller hairs). Can have flagella, tail like thing for movement. 
+The [[Nucleoid]] contains chromosomes, mostly [[Single Circle ds-DNA|single circle ds-DNA]]. Some can have linear structure and more than one chromosome.
 
-[[Ribosomes]] are the sites of [[Protein Synthesis|protein synthesis]]. If the ribosome is free in the [[Cytoplasm|cytoplasm]], then the [[Protein|proteins]] made will stay in the cell. Alternately, if the ribosome is attached to the plasma membrane, the proteins made can stay in the the bacteria or travel out. This second type of ribosomes are called [[Plasma Membrane Associated Ribosomes|Plasma membrane associated ribosomes]].
+[[Plasmids]] are small [[Double Stranded DNA|ds-DNA]] molecules that are independent. The [[DNA]] can be circular or linear. It only contains a few genes, but these are often genes that give the bacteria an advantage such as resistance to antibiotics.
 
-The [[Nucleoid]] contains chromosomes, mostly [[Single Circle ds-DNA|single circle ds-DNA]] that are independent. Some can have linear structure and more than one chromosome.
-
+[[Bacteria]] can more or attach itself to other surfaces. they have pili and fimbriae. They can also have flagella, a tail like thing for movement. 
+While the fimbriae are bristle-like short fibers occurring on the bacterial surface, Pili are long hair-like tubular microfibers found on the surface of bacteria. [BYJUS](https://byjus.com/neet/fimbriae-and-pili/#:~:text=While%20the%20fimbriae%20are%20bristle,negative%20and%20gram%2Dpositive%20bacteria.)
 
 ![[prokaryotic cell.jpg| center | 1000]]

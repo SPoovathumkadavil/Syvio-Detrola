@@ -4,89 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "a1a6a65343b34c60",
+        "id": "e0dd4a54f1d37826",
         "type": "tabs",
         "children": [
           {
-            "id": "922697755ffe5920",
+            "id": "0801d412720cb8a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT/AP/5 - Sampling Distributions.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5bb1bdef2c29baf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "STAT/AP/6 - Inference for Categorical Data, Proportions.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86c40503d074e4ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "STAT/AP/7 - Inference for Quantitative Data, Means.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58456a8b36ac735a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "STAT/AP/8 - Inference for Categorical  Data, Chi-Square.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "495f6ed5d55cd78a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "STAT/AP/3 - Collecting Data.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42901f89fe87126f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/4 - Lab 1 - Natural Variation.md",
+                "file": "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/4 - Lab 1 - Natural Variation.md",
+                "file": "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/4 - Lab 1 - Natural Variation.md",
+                "file": "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/4 - Lab 1 - Natural Variation.md"
+                "file": "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md"
               }
             }
           }
@@ -219,13 +153,25 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "42901f89fe87126f",
+  "active": "0801d412720cb8a4",
   "lastOpenFiles": [
-    "BIO/Measuring Variation within a Population and Sample/Question.md",
-    "BIO/Measuring Variation within a Population and Sample/4 - Lab 1 - Natural Variation.md",
+    "BIO/Measuring Variation within a Population and Sample/mean.md",
+    "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
+    "BIO/Measuring Variation within a Population and Sample/Normal Distribution.md",
+    "BIO/Measuring Variation within a Population and Sample/Mutant.md",
+    "BIO/Measuring Variation within a Population and Sample/1 - Bean Example.md",
+    "STAT/Data Analysis/Variable.md",
+    "BIO/Measuring Variation within a Population and Sample/2 - Intra-Variance.md",
+    "BIO/Measuring Variation within a Population and Sample/Dependent Variable.md",
+    "BIO/Measuring Variation within a Population and Sample/Independent Variable.md",
+    "BIO/Measuring Variation within a Population and Sample/95% Confidence Interval.md",
     "BIO/Measuring Variation within a Population and Sample/3 - Errors.md",
-    "BIO/Cell Structure and Function/Surface Membranes.md",
+    "BIO/Measuring Variation within a Population and Sample/4 - Lab 1 - Natural Variation.md",
+    "STAT/AP/3 - Collecting Data.md",
     "BIO/Cell Structure and Function/Virulence Factor.md",
+    "BIO/Prevegen Example/Step 5 - Explanation.md",
+    "BIO/Measuring Variation within a Population and Sample/Question.md",
+    "BIO/Cell Structure and Function/Surface Membranes.md",
     "BIO/Cell Structure and Function/Bacilli.md",
     "BIO/Cell Structure and Function/Bacteria.md",
     "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
@@ -238,18 +184,6 @@
     "BIO/AP/1 - Chemistry of Life.md",
     "STAT/AP/4 - Probability, Random Variables, and Probability Distributions.md",
     "Syvio Detrola.md",
-    "Detrola Tracker.md",
-    "STAT/AP/9 - Inference for Quantitative Data, Slopes.md",
-    "STAT/AP/8 - Inference for Categorical  Data, Chi-Square.md",
-    "STAT/AP/7 - Inference for Quantitative Data, Means.md",
-    "STAT/AP/6 - Inference for Categorical Data, Proportions.md",
-    "STAT/AP/5 - Sampling Distributions.md",
-    "STAT/AP/3 - Collecting Data.md",
-    "STAT/AP/2 - Exploring 2-Variable Data.md",
-    "STAT/AP/1 - Exploring One-Variable Data.md",
-    "BIO/Measuring Variation within a Population and Sample/95% Confidence Interval.md",
-    "BIO/Measuring Variation within a Population and Sample/Variance.md",
-    "BIO/Cell Structure and Function/Ribosomes.md",
     "BIO/Resources/Images/prokaryotic cell.jpg",
     "STAT/AP",
     "BIO/Resources/Images",

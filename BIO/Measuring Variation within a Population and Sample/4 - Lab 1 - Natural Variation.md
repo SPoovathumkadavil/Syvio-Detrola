@@ -69,7 +69,7 @@ Yes, the compass position of a leaf on a tree will have a significant effect on 
 ![[Leaf Length Mean Comparison.png]]
 This data concerns 2 samples, which were received from measuring the leaves from the north and south sides of a swamp white oak tree. Each sample consists of 30 leaf lengths. The south sample’s 30 measurements range from 6.8cm to 18.4cm. The measurements had an average of 13.9cm and a median of 14.2cm. The south side’s measurements were clustered mainly between 13cm and 17cm, with a relatively small standard deviation of 2.4cm. There is a 95% chance that the confidence interval of the south side of the trees, 0.869, contains the population mean of leaves.
 The north side of the data ranges from 6.0cm to 21.0cm, with an average of 14.4cm and a median of 15.0cm. The data is more spread out, with a higher standard deviation of 3.4cm. There is a 95% chance that the confidence interval of the north side of the trees, 1.216, contains the population mean.
-# Reasoning
+# [[Step 4 - Reasoning|Reasoning]]
 
 - Naturally occurring diversity among and between components within biological systems affects interactions with the environment. 
 - The level of variation in a population affects population dynamics.
@@ -77,4 +77,4 @@ The north side of the data ranges from 6.0cm to 21.0cm, with an average of 14.4c
 - This data was taken in the Northern Hemisphere, where the sun is mostly to the south.
 - The sun provides differing amounts of sunlight depending on where it is.
 
-# Explanation
+# [[Step 5 - Explanation|Explanation]]

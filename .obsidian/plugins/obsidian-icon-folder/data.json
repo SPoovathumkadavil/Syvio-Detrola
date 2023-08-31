@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "‼",
-      "🌉",
-      "🖼",
-      "🗄",
-      "📚"
+      "🎼",
+      "📅",
+      "🎵",
+      "🚉",
+      "🧑‍🏫"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,5 +34,10 @@
   "BIO/Resources": "🗄",
   "BIO/Resources/Images": "🖼",
   "PRECALBC": "🌉",
-  "STAT": "‼"
+  "STAT": "‼",
+  "STAT/AP": "🏫",
+  "STAT/Data Analysis": "🧑‍🏫",
+  "STAT/Statistics.md": "🚉",
+  "Detrola Tracker.md": "📅",
+  "Syvio Detrola.md": "🎼"
 }

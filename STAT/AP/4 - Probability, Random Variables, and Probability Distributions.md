@@ -1,3 +1,12 @@
+---
+alias: "Probability, Random Variables, and Probability Distributions"
+subject: "Math"
+subset: "Statistics"
+importance: 7
+type: "AP Guide"
+order: 4
+---
+
 ## The Law of Large Numbers
 
 - **_Law of large numbers -_** states that when an experiment is performed a large number of times, the relative frequency of an event tends to become closer to the true probability of the event; that is, _probability is long-run relative frequency__._ There is a sense of predictability about the long run.

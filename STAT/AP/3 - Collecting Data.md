@@ -1,3 +1,12 @@
+---
+alias: "Collecting Data"
+subject: "Math"
+subset: "Statistics"
+importance: 7
+type: "AP Guide"
+order: 3
+---
+
 ## Retrospective Versus Prospective Observational Studies
 
 - **_Observational studies_** aim to gather information about a population without disturbing the population.

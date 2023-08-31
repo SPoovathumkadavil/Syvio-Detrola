@@ -52,10 +52,20 @@ WHERE type = "Bearing" OR type = "Guideline" OR type = "Example"
 SORT order
 ```
 > [!tip]- Structure and Function Concepts
-> ```dataview
-> TABLE importance
-> FROM "BIO/Cell Structure and Function"
-> WHERE type = "Concept"
-> SORT im
-```
+>> ```dataview
+>> TABLE importance
+>> FROM "BIO/Cell Structure and Function"
+>> WHERE type = "Concept"
+>> SORT importance DESC
+>>```
+
+> [!example]- Structure and Function Artifacts
+> >```dataview
+> >TABLE importance
+> >FROM "BIO/Cell Structure and Function"
+> >WHERE type = "Artifact"
+> >SORT importance DESC
+>>```
+
+
 

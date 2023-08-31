@@ -1,3 +1,12 @@
+---
+alias: "Exploring 2-Variable Data"
+subject: "Math"
+subset: "Statistics"
+importance: 7
+type: "AP Guide"
+order: 2
+---
+
 ## Two Categorical Variables
 
 - Qualitative data often encompass two categorical variables that may or may not have a dependent relationship. These data can be displayed in a **_two-way table_** (also called a **_contingency table_**).

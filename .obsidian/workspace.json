@@ -13,7 +13,59 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT/AP/2 - Exploring 2-Variable Data.md",
+                "file": "STAT/AP/5 - Sampling Distributions.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5bb1bdef2c29baf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STAT/AP/6 - Inference for Categorical Data, Proportions.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86c40503d074e4ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STAT/AP/7 - Inference for Quantitative Data, Means.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58456a8b36ac735a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STAT/AP/8 - Inference for Categorical  Data, Chi-Square.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "495f6ed5d55cd78a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STAT/AP/3 - Collecting Data.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT/AP/3 - Collecting Data.md",
+                "file": "STAT/Statistics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -40,45 +92,6 @@
               "type": "markdown",
               "state": {
                 "file": "STAT/AP/4 - Probability, Random Variables, and Probability Distributions.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92b22d0356a5247c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "STAT/AP/5 - Sampling Distributions.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1122ea009b7ec569",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/Variance.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d47e5f442d932c90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIO/Biology.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -152,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/Biology.md",
+                "file": "STAT/Statistics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/Biology.md",
+                "file": "STAT/Statistics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/Biology.md"
+                "file": "STAT/Statistics.md"
               }
             }
           }
@@ -218,10 +231,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d47e5f442d932c90",
+  "active": "42901f89fe87126f",
   "lastOpenFiles": [
-    "BIO/Cell Structure and Function/Capsule.md",
     "BIO/Biology.md",
+    "STAT/Statistics.md",
+    "Syvio Detrola.md",
+    "Detrola Tracker.md",
+    "STAT/AP/9 - Inference for Quantitative Data, Slopes.md",
+    "STAT/AP/8 - Inference for Categorical  Data, Chi-Square.md",
+    "STAT/AP/7 - Inference for Quantitative Data, Means.md",
+    "STAT/AP/6 - Inference for Categorical Data, Proportions.md",
+    "STAT/AP/5 - Sampling Distributions.md",
+    "STAT/AP/4 - Probability, Random Variables, and Probability Distributions.md",
+    "STAT/AP/3 - Collecting Data.md",
+    "STAT/AP/2 - Exploring 2-Variable Data.md",
+    "STAT/AP/1 - Exploring One-Variable Data.md",
+    "BIO/AP/1 - Chemistry of Life.md",
+    "BIO/Cell Structure and Function/Bacilli.md",
+    "BIO/Measuring Variation within a Population and Sample/95% Confidence Interval.md",
+    "BIO/Measuring Variation within a Population and Sample/Variance.md",
+    "BIO/Cell Structure and Function/Ribosomes.md",
+    "BIO/Cell Structure and Function/Capsule.md",
     "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
     "BIO/Cell Structure and Function/Bacteria.md",
     "BIO/Cell Structure and Function/DNA.md",
@@ -229,23 +259,6 @@
     "BIO/Cell Structure and Function/Plasmids.md",
     "BIO/Cell Structure and Function/Plasma Membrane Associated Ribosomes.md",
     "BIO/Cell Structure and Function/Single Circle ds-DNA.md",
-    "BIO/Cell Structure and Function/Nucleoid.md",
-    "BIO/Cell Structure and Function/Plasma Membranes.md",
-    "BIO/Cell Structure and Function/Protein.md",
-    "BIO/Cell Structure and Function/Protein Synthesis.md",
-    "BIO/Cell Structure and Function/Ribosomes.md",
-    "BIO/Measuring Variation within a Population and Sample/Variance.md",
-    "STAT/AP/5 - Sampling Distributions.md",
-    "STAT/AP/4 - Probability, Random Variables, and Probability Distributions.md",
-    "STAT/AP/3 - Collecting Data.md",
-    "STAT/AP/2 - Exploring 2-Variable Data.md",
-    "BIO/Cell Structure and Function/Cells.md",
-    "BIO/Cell Structure and Function/Photosynthesis.md",
-    "BIO/Cell Structure and Function/Cellular Respiration.md",
-    "BIO/Cell Structure and Function/E-Coli.md",
-    "BIO/Cell Structure and Function/Pleomorphic.md",
-    "BIO/Cell Structure and Function/Spirilla.md",
-    "BIO/Cell Structure and Function/Bacilli.md",
     "BIO/Resources/Images/prokaryotic cell.jpg",
     "STAT/AP",
     "BIO/Resources/Images",

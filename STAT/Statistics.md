@@ -8,6 +8,12 @@ type: "Course"
 
 _The science of collecting, analyzing, presenting, and interpreting data_
 
+# AP Units
+```dataview
+LIST
+FROM "STAT/AP"
+SORT order
+```
 # 1 - Data Analysis
 ```dataview
 LIST

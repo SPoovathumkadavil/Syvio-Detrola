@@ -1,3 +1,12 @@
+---
+alias: "Exploring One-Variable Data"
+subject: "Math"
+subset: "Statistics"
+importance: 7
+type: "AP Guide"
+order: 1
+---
+
 # Unit 1: Exploring One-Variable Data
 
 ## Categorical Variables

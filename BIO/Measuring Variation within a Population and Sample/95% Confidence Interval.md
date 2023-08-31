@@ -2,7 +2,7 @@
 alias: "95% Confidence Interval"
 subject: "Math"
 subset: "Biology"
-importance: 7
+importance: 8
 type: "Concept"
 ---
 

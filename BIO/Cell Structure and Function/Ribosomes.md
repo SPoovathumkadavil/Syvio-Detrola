@@ -2,6 +2,6 @@
 alias: "Ribosomes"
 subject: "Science"
 subset: "Biology"
-importance: 7
+importance: 8
 type: "Artifact"
 --- 

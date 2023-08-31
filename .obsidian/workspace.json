@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
+                "file": "BIO/Biology.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
+                "file": "BIO/Biology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
+                "file": "BIO/Biology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md"
+                "file": "BIO/Biology.md"
               }
             }
           }
@@ -156,6 +156,10 @@
   "active": "0801d412720cb8a4",
   "lastOpenFiles": [
     "BIO/Cell Structure and Function/Bacteria.md",
+    "BIO/Biology.md",
+    "BIO/Cell Structure and Function/Single Circle ds-DNA.md",
+    "BIO/Measuring Variation within a Population and Sample/3 - Errors.md",
+    "BIO/Measuring Variation within a Population and Sample/4 - Lab 1 - Natural Variation.md",
     "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
     "BIO/Cell Structure and Function/Plasma Membrane Associated Ribosomes.md",
     "BIO/Measuring Variation within a Population and Sample/Sample.md",
@@ -172,15 +176,11 @@
     "BIO/Measuring Variation within a Population and Sample/Dependent Variable.md",
     "BIO/Measuring Variation within a Population and Sample/Independent Variable.md",
     "BIO/Measuring Variation within a Population and Sample/95% Confidence Interval.md",
-    "BIO/Measuring Variation within a Population and Sample/3 - Errors.md",
-    "BIO/Measuring Variation within a Population and Sample/4 - Lab 1 - Natural Variation.md",
     "STAT/AP/3 - Collecting Data.md",
     "BIO/Cell Structure and Function/Virulence Factor.md",
     "BIO/Prevegen Example/Step 5 - Explanation.md",
     "BIO/Measuring Variation within a Population and Sample/Question.md",
     "BIO/Cell Structure and Function/Surface Membranes.md",
-    "BIO/Cell Structure and Function/Bacilli.md",
-    "STAT/Statistics.md",
     "Leaf Length Mean Comparison.png",
     "North Frequency vs Leaf Length (1).png",
     "BIO/Resources/Images/South Frequency vs Leaf Length (1).png",

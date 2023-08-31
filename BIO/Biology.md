@@ -33,7 +33,7 @@ WHERE type = "Guideline"
 ```dataview
 LIST
 FROM "BIO/Measuring Variation within a Population and Sample"
-WHERE type="Example" OR type="Guideline" OR type="Bearing"
+WHERE type="Example" OR type="Guideline" OR type="Bearing" OR type="Lab"
 SORT order
 ```
 >[!tip]- Variation Concepts
@@ -48,7 +48,7 @@ SORT order
 ```dataview
 LIST
 FROM "BIO/Cell Structure and Function"
-WHERE type = "Bearing" OR type = "Guideline" OR type = "Example"
+WHERE type="Bearing" OR type="Guideline" OR type="Example" OR type="Lab"
 SORT order
 ```
 > [!tip]- Structure and Function Concepts

@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT/AP/4 - Probability, Random Variables, and Probability Distributions.md",
+                "file": "BIO/AP/2 - Cell Structure and Function.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT/AP/4 - Probability, Random Variables, and Probability Distributions.md",
+                "file": "BIO/AP/2 - Cell Structure and Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STAT/AP/4 - Probability, Random Variables, and Probability Distributions.md",
+                "file": "BIO/AP/2 - Cell Structure and Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT/AP/4 - Probability, Random Variables, and Probability Distributions.md"
+                "file": "BIO/AP/2 - Cell Structure and Function.md"
               }
             }
           }
@@ -233,6 +233,9 @@
   },
   "active": "84e034ed6483f0e2",
   "lastOpenFiles": [
+    "BIO/AP/1 - Chemistry of Life.md",
+    "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
+    "STAT/AP/4 - Probability, Random Variables, and Probability Distributions.md",
     "STAT/Statistics.md",
     "BIO/Biology.md",
     "Syvio Detrola.md",
@@ -242,17 +245,14 @@
     "STAT/AP/7 - Inference for Quantitative Data, Means.md",
     "STAT/AP/6 - Inference for Categorical Data, Proportions.md",
     "STAT/AP/5 - Sampling Distributions.md",
-    "STAT/AP/4 - Probability, Random Variables, and Probability Distributions.md",
     "STAT/AP/3 - Collecting Data.md",
     "STAT/AP/2 - Exploring 2-Variable Data.md",
     "STAT/AP/1 - Exploring One-Variable Data.md",
-    "BIO/AP/1 - Chemistry of Life.md",
     "BIO/Cell Structure and Function/Bacilli.md",
     "BIO/Measuring Variation within a Population and Sample/95% Confidence Interval.md",
     "BIO/Measuring Variation within a Population and Sample/Variance.md",
     "BIO/Cell Structure and Function/Ribosomes.md",
     "BIO/Cell Structure and Function/Capsule.md",
-    "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
     "BIO/Cell Structure and Function/Bacteria.md",
     "BIO/Cell Structure and Function/DNA.md",
     "BIO/Cell Structure and Function/Double Stranded DNA.md",

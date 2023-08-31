@@ -1,7 +1,7 @@
 ---
-alias: "Large Intestine"
+alias: "Photosynthesis"
 subject: "Science"
 subset: "Biology"
 importance: 8
-type: "Artifact"
+type: "Concept"
 ---

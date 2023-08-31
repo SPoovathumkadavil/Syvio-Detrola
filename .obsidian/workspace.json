@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/Cell Structure and Function/Cell Envelope.md",
+                "file": "BIO/Biology.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/Cell Structure and Function/Cell Envelope.md",
+                "file": "BIO/Biology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/Cell Structure and Function/Cell Envelope.md",
+                "file": "BIO/Biology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/Cell Structure and Function/Cell Envelope.md"
+                "file": "BIO/Biology.md"
               }
             }
           }
@@ -221,35 +221,35 @@
   "active": "d47e5f442d932c90",
   "lastOpenFiles": [
     "BIO/Cell Structure and Function/Capsule.md",
-    "BIO/Cell Structure and Function/Bacteria.md",
+    "BIO/Biology.md",
     "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
-    "BIO/Prevegen Example/Step 4 - Reasoning.md",
-    "BIO/Prevegen Example/Step 5 - Explanation.md",
-    "BIO/Resources/Images/prokaryotic cell.jpg",
-    "Syvio Detrola.md",
+    "BIO/Cell Structure and Function/Bacteria.md",
+    "BIO/Cell Structure and Function/DNA.md",
+    "BIO/Cell Structure and Function/Double Stranded DNA.md",
+    "BIO/Cell Structure and Function/Plasmids.md",
+    "BIO/Cell Structure and Function/Plasma Membrane Associated Ribosomes.md",
+    "BIO/Cell Structure and Function/Single Circle ds-DNA.md",
+    "BIO/Cell Structure and Function/Nucleoid.md",
+    "BIO/Cell Structure and Function/Plasma Membranes.md",
+    "BIO/Cell Structure and Function/Protein.md",
+    "BIO/Cell Structure and Function/Protein Synthesis.md",
+    "BIO/Cell Structure and Function/Ribosomes.md",
+    "BIO/Measuring Variation within a Population and Sample/Variance.md",
     "STAT/AP/5 - Sampling Distributions.md",
     "STAT/AP/4 - Probability, Random Variables, and Probability Distributions.md",
     "STAT/AP/3 - Collecting Data.md",
     "STAT/AP/2 - Exploring 2-Variable Data.md",
-    "STAT/AP/1 - Exploring One-Variable Data.md",
+    "BIO/Cell Structure and Function/Cells.md",
+    "BIO/Cell Structure and Function/Photosynthesis.md",
+    "BIO/Cell Structure and Function/Cellular Respiration.md",
+    "BIO/Cell Structure and Function/E-Coli.md",
+    "BIO/Cell Structure and Function/Pleomorphic.md",
+    "BIO/Cell Structure and Function/Spirilla.md",
+    "BIO/Cell Structure and Function/Bacilli.md",
+    "BIO/Resources/Images/prokaryotic cell.jpg",
     "STAT/AP",
-    "BIO/Measuring Variation within a Population and Sample/1 - Bean Example.md",
-    "BIO/Measuring Variation within a Population and Sample/Variance.md",
     "BIO/Resources/Images",
     "BIO/Resources",
-    "BIO/Measuring Variation within a Population and Sample/Standard Error of Mean.md",
-    "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
-    "BIO/Measuring Variation within a Population and Sample/Sample.md",
-    "BIO/Measuring Variation within a Population and Sample/Population.md",
-    "BIO/Measuring Variation within a Population and Sample/Normal Distribution.md",
-    "BIO/Measuring Variation within a Population and Sample/Mutant.md",
-    "BIO/Measuring Variation within a Population and Sample/Independent Variable.md",
-    "BIO/Measuring Variation within a Population and Sample/Dependent Variable.md",
-    "BIO/Measuring Variation within a Population and Sample/95% Confidence Interval.md",
-    "BIO/Measuring Variation within a Population and Sample/3 - Errors.md",
-    "BIO/Measuring Variation within a Population and Sample/2 - Intra-Variance.md",
-    "BIO/Biology.md",
-    "BIO/Prevegen Example/Amino Acids.md",
     "Screenshot 2023-08-30 at 4.41.47 PM.png",
     "Pasted Image 20230830170710_623.png",
     "Screenshot 2023-08-30 at 5.12.09 PM.png",

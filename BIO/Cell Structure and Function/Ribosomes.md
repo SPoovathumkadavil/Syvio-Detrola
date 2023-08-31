@@ -1,7 +1,7 @@
 ---
-alias: "Large Intestine"
+alias: "Ribosomes"
 subject: "Science"
 subset: "Biology"
-importance: 8
+importance: 7
 type: "Artifact"
----
+--- 

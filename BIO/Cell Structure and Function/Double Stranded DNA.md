@@ -1,7 +1,7 @@
 ---
-alias: "Large Intestine"
+alias: "Double Stranded DNA"
 subject: "Science"
 subset: "Biology"
-importance: 8
+importance: 9
 type: "Artifact"
 ---

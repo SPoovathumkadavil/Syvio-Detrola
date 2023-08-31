@@ -1,5 +1,5 @@
 ---
-alias: "Large Intestine"
+alias: "Nucleoid"
 subject: "Science"
 subset: "Biology"
 importance: 8

@@ -43,3 +43,19 @@ SORT order
 >>WHERE type="Concept"
 >>SORT importance DESC
 >>```
+
+# 2 - Cell Structure and Function
+```dataview
+LIST
+FROM "BIO/Cell Structure and Function"
+WHERE type = "Bearing" OR type = "Guideline" OR type = "Example"
+SORT order
+```
+> [!tip]- Structure and Function Concepts
+> ```dataview
+> TABLE importance
+> FROM "BIO/Cell Structure and Function"
+> WHERE type = "Concept"
+> SORT im
+```
+

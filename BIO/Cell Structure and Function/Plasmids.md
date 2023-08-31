@@ -1,5 +1,5 @@
 ---
-alias: "Large Intestine"
+alias: "Plasmids"
 subject: "Science"
 subset: "Biology"
 importance: 8

@@ -1,5 +1,5 @@
 ---
-alias: "Large Intestine"
+alias: "E-Coli"
 subject: "Science"
 subset: "Biology"
 importance: 8

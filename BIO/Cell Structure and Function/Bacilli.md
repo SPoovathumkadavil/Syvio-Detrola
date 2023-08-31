@@ -1,5 +1,5 @@
 ---
-alias: "Protein Synthesis"
+alias: "Bacilli"
 subject: "Science"
 subset: "Biology"
 importance: 7

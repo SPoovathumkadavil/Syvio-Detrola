@@ -7,11 +7,15 @@ type: "Lab"
 order: 4
 ---
 
-# Question
+# [[Step 1 - Question|Question]]
 
-# Claim
+Does the compass position(North or South) of a leaf on a tree have a significant impact on its length?
 
-# Evidence
+# [[Step 3 - Claim|Claim]]
+
+Yes, the compass position of a leaf on a tree will have a significant effect on its length.
+
+# [[Step 2 - Evidence|Evidence]]
 
 |   |   |   |   |   |
 |---|---|---|---|---|
@@ -50,18 +54,27 @@ order: 4
 
 |   |   |   |   |   |
 |---|---|---|---|---|
-|South Side of Tree|   ||North Side of Tree|   |
-|Average/Mean|13.9||Average/Mean|14.4|
-|Median|14.2||Median|15.0|
-|Standard Deviation|2.429124056||Standard Deviation|3.399163183|
-|SEM|0.4434953468||SEM|0.6205994507|
-|95% CI|0.8692508797||95% CI|1.216374923|
-|Minimum|6.8||Minimum|6.0|
-|Maximum|18.4||Maximum|21.0|
-|Count|30||Count|30|
+|South Side of Tree|   |North Side of Tree|   |
+|Average/Mean|13.9|Average/Mean|14.4|
+|Median|14.2|Median|15.0|
+|Standard Deviation|2.429124056|Standard Deviation|3.399163183|
+|SEM|0.4434953468|SEM|0.6205994507|
+|95% CI|0.8692508797|95% CI|1.216374923|
+|Minimum|6.8|Minimum|6.0|
+|Maximum|18.4|Maximum|21.0|
+|Count|30|Count|30|
 
 ![[South Frequency vs Leaf Length (1).png]]
-
+![[North Frequency vs Leaf Length (1).png]]
+![[Leaf Length Mean Comparison.png]]
+This data concerns 2 samples, which were received from measuring the leaves from the north and south sides of a swamp white oak tree. Each sample consists of 30 leaf lengths. The south sample’s 30 measurements range from 6.8cm to 18.4cm. The measurements had an average of 13.9cm and a median of 14.2cm. The south side’s measurements were clustered mainly between 13cm and 17cm, with a relatively small standard deviation of 2.4cm. There is a 95% chance that the confidence interval of the south side of the trees, 0.869, contains the population mean of leaves.
+The north side of the data ranges from 6.0cm to 21.0cm, with an average of 14.4cm and a median of 15.0cm. The data is more spread out, with a higher standard deviation of 3.4cm. There is a 95% chance that the confidence interval of the north side of the trees, 1.216, contains the population mean.
 # Reasoning
+
+- Naturally occurring diversity among and between components within biological systems affects interactions with the environment. 
+- The level of variation in a population affects population dynamics.
+- The closeness between the mean and median of both samples signifies a symmetrical distribution of data.
+- This data was taken in the Northern Hemisphere, where the sun is mostly to the south.
+- The sun provides differing amounts of sunlight depending on where it is.
 
 # Explanation

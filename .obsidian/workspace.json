@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
+                "file": "BIO/Cell Structure and Function/Bacteria.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
+                "file": "BIO/Cell Structure and Function/Bacteria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
+                "file": "BIO/Cell Structure and Function/Bacteria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md"
+                "file": "BIO/Cell Structure and Function/Bacteria.md"
               }
             }
           }
@@ -155,8 +155,8 @@
   },
   "active": "0801d412720cb8a4",
   "lastOpenFiles": [
-    "BIO/Cell Structure and Function/Plasma Membrane Associated Ribosomes.md",
     "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
+    "BIO/Cell Structure and Function/Plasma Membrane Associated Ribosomes.md",
     "BIO/Measuring Variation within a Population and Sample/Sample.md",
     "STAT/Data Analysis/Introduction Exercises.md",
     "STAT/Data Analysis/Categorical Data.md",

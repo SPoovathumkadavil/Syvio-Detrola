@@ -13,7 +13,46 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
+                "file": "STAT/AP/2 - Exploring 2-Variable Data.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42901f89fe87126f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STAT/AP/3 - Collecting Data.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84e034ed6483f0e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STAT/AP/4 - Probability, Random Variables, and Probability Distributions.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92b22d0356a5247c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STAT/AP/5 - Sampling Distributions.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -46,7 +85,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
+                "file": "STAT/AP/5 - Sampling Distributions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
+                "file": "STAT/AP/5 - Sampling Distributions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md"
+                "file": "STAT/AP/5 - Sampling Distributions.md"
               }
             }
           }
@@ -177,10 +217,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "922697755ffe5920",
+  "active": "92b22d0356a5247c",
   "lastOpenFiles": [
-    "BIO/Prevegen Example/Step 5 - Explanation.md",
+    "STAT/AP/4 - Probability, Random Variables, and Probability Distributions.md",
+    "STAT/AP/5 - Sampling Distributions.md",
+    "STAT/AP/3 - Collecting Data.md",
+    "STAT/AP/2 - Exploring 2-Variable Data.md",
     "Syvio Detrola.md",
+    "STAT/AP/1 - Exploring One-Variable Data.md",
+    "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
+    "STAT/AP",
+    "BIO/Prevegen Example/Step 5 - Explanation.md",
     "BIO/Measuring Variation within a Population and Sample/1 - Bean Example.md",
     "BIO/Measuring Variation within a Population and Sample/Variance.md",
     "BIO/Resources/Images/prokaryotic cell.jpg",
@@ -198,16 +245,10 @@
     "BIO/Measuring Variation within a Population and Sample/3 - Errors.md",
     "BIO/Measuring Variation within a Population and Sample/2 - Intra-Variance.md",
     "BIO/Biology.md",
-    "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
     "BIO/Cell Structure and Function/Capsule.md",
     "BIO/Cell Structure and Function/Bacteria.md",
     "BIO/Prevegen Example/Amino Acids.md",
     "BIO/Prevegen Example/Effects of Heat on Amino Acids.md",
-    "BIO/Prevegen Example/Denatured Amino Acids.md",
-    "BIO/Prevegen Example/Amino Acid Dissolving.md",
-    "BIO/Cell Structure and Function/Protein Synthesis.md",
-    "BIO/Cell Structure and Function/Cell Envelope.md",
-    "BIO/Cell Structure and Function/Lipids.md",
     "Screenshot 2023-08-30 at 4.41.47 PM.png",
     "Pasted Image 20230830170710_623.png",
     "Screenshot 2023-08-30 at 5.12.09 PM.png",
@@ -218,7 +259,6 @@
     "BIO/AP",
     "BIO/Measuring Variation within a Population and Sample",
     "BIO/Prevegen Example",
-    "LIT",
-    "CSA"
+    "LIT"
   ]
 }

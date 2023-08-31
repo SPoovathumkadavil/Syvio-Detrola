@@ -1,7 +1,7 @@
 ---
 alias: "Standard Deviation"
 subject: "Math"
-subset: "Statistics"
+subset: "Biology"
 importance: 9
 type: "Concept"
 ---

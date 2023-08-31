@@ -37,11 +37,13 @@ There are 4 main shapes of Prokaryotic cells. These are formed by the [[Cell Wal
 		- It is selectively permeable, helps with [[Cellular Respiration|cell respiration]], [[Photosynthesis|photosynthesis]], and synthesis of [[Lipids|lipids]] and cell components.
 			- There are species of bacteria that perform [[Photosynthesis|photosynthesis]]. ALL [[Cells|cells]] perform a version of [[Cellular Respiration|cellular respiration]].
 
-In cytoplasm there are ribosomes, sites of protein synthesis. if in cytoplasm free, Make proteins that stay in the cell, if attached on the plasma membrane, make proteins for cell and outside. The second kind is called Plasma membrane associated robosomes.
+
 Nucleoid contains chromozomes, mostly single circle ds-DNA. Some can have linear & more than one chromosome. 
 plasmids Small ds-DNA that are independant, Cna be circular or linear few genes, not nessesary, usually confer selective advantages such as resistance to antibiotics.
 Bacteria can more or attach itself to other surfaces, they have pili, hair like surfaces, fimbriae(smaller hairs). Can have flagella, tail like thing for movement. 
 
 [[Ribosomes]] are the sites of [[Protein Synthesis|protein synthesis]]. If the ribosome is free in the [[Cytoplasm|cytoplasm]], then the [[Protein|proteins]] made will stay in the cell. Alternately, if the ribosome is attached to the plasma membrane, the proteins made can stay in the the bacteria or travel out. This second type of ribosomes are called [[Plasma Membrane Associated Ribosomes|Plasma membrane associated ribosomes]].
 
-![[prokaryotic cell 1.jpg | center | 1000]]
+The Nucleoid contains chromosomes, mostly [[Single Circle ds-DNA|single circle ds-DNA]] that are independent. 
+
+![[prokaryotic cell.jpg| center | 1000]]

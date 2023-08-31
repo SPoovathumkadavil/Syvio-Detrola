@@ -1,7 +1,7 @@
 ---
 alias: "Variance"
 subject: "Math"
-subset: "Statistics"
+subset: "Biology"
 importance: 8
 type: "Concept"
 ---

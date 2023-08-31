@@ -1,4 +1,9 @@
 ---
+alias: "95% Confidence Interval"
+subject: "Math"
+subset: "Biology"
+importance: 7
+type: "Concept"
 ---
 
 _The 95% confidence interval defines a range of values that you can be 95% certain contains the population mean._

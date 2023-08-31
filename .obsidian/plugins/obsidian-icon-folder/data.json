@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "📚",
-      "🖊",
-      "💽",
-      "🌳",
-      "💊"
+      "‼",
+      "🌉",
+      "🖼",
+      "🗄",
+      "📚"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -30,5 +30,9 @@
   "BIO/Biology.md": "🌳",
   "CSA": "💽",
   "Excalidraw": "🖊",
-  "LIT": "📚"
+  "LIT": "📚",
+  "BIO/Resources": "🗄",
+  "BIO/Resources/Images": "🖼",
+  "PRECALBC": "🌉",
+  "STAT": "‼"
 }

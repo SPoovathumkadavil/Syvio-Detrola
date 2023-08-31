@@ -1,6 +1,6 @@
 ---
 alias: "Sample"
-subject: "Science"
+subject: "Math"
 subset: "Biology"
 importance: 8
 type: Concept

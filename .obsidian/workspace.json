@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
+                "file": "STAT/Data Analysis/Introduction Exercises.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
+                "file": "STAT/Data Analysis/Introduction Exercises.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
+                "file": "STAT/Data Analysis/Introduction Exercises.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md"
+                "file": "STAT/Data Analysis/Introduction Exercises.md"
               }
             }
           }
@@ -155,8 +155,10 @@
   },
   "active": "0801d412720cb8a4",
   "lastOpenFiles": [
-    "BIO/Measuring Variation within a Population and Sample/mean.md",
+    "STAT/Data Analysis/Categorical Data.md",
+    "STAT/Data Analysis/1.1 - The Science and Art of Data.md",
     "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
+    "BIO/Measuring Variation within a Population and Sample/mean.md",
     "BIO/Measuring Variation within a Population and Sample/Normal Distribution.md",
     "BIO/Measuring Variation within a Population and Sample/Mutant.md",
     "BIO/Measuring Variation within a Population and Sample/1 - Bean Example.md",
@@ -182,8 +184,6 @@
     "BIO/Biology.md",
     "BIO/AP/2 - Cell Structure and Function.md",
     "BIO/AP/1 - Chemistry of Life.md",
-    "STAT/AP/4 - Probability, Random Variables, and Probability Distributions.md",
-    "Syvio Detrola.md",
     "BIO/Resources/Images/prokaryotic cell.jpg",
     "STAT/AP",
     "BIO/Resources/Images",

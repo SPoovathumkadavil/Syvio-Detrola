@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT/Statistics.md",
+                "file": "STAT/AP/4 - Probability, Random Variables, and Probability Distributions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STAT/Statistics.md",
+                "file": "STAT/AP/4 - Probability, Random Variables, and Probability Distributions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT/Statistics.md"
+                "file": "STAT/AP/4 - Probability, Random Variables, and Probability Distributions.md"
               }
             }
           }
@@ -231,10 +231,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "42901f89fe87126f",
+  "active": "84e034ed6483f0e2",
   "lastOpenFiles": [
-    "BIO/Biology.md",
     "STAT/Statistics.md",
+    "BIO/Biology.md",
     "Syvio Detrola.md",
     "Detrola Tracker.md",
     "STAT/AP/9 - Inference for Quantitative Data, Slopes.md",

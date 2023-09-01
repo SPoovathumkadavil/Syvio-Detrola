@@ -25,7 +25,7 @@ There are 4 main shapes of Prokaryotic cells. These are formed by the [[Cell Wal
 [[Cell Envelope]] - layers of the outer structure of the cell.
 - [[Cell Wall]] - The outer surface of a prokaryote, acts as protection, contains [[Peptidoglycans|peptidoglycan]] (determines [[Gram Positive Bacteria|gram positive]] or [[Gram Negative Bacteria|gram negative]]). 
 	- If [[Peptidoglycans|peptidoglycan]] is above the plasma membrane, it can retain dye. [[Gram Negative Bacteria|Negative bacteria]] have a thinner layer sandwiched between the [[Surface Membranes|surface membrane]] and [[Plasma Membranes|plasma membranes]]. These can't retain dye.
-		- "Gram staining"
+		- "[[Gram Staining]]"
 - Some bacteria are covered by a [[Capsule|capsule]](outermost layer), these act as shields to adhere and protect.
 	- The [[Capsule|bacterial capsule]] is also considered a [[Virulence Factor|virulence factor]] as it enhances the ability of bacteria to cause disease by preventing [[Phagocytosis|phagocytosis]].
 		- [[Phagocytosis]] is often performed by white blood cells called [[Phagocytes|phagocytes]], cells that are part of [[Innate Immune System|the non-specific immune response]].
@@ -46,3 +46,6 @@ The [[Nucleoid]] contains chromosomes, mostly [[Single Circle ds-DNA|single circ
 While the fimbriae are bristle-like short fibers occurring on the bacterial surface, Pili are long hair-like tubular microfibers found on the surface of bacteria. [BYJUS](https://byjus.com/neet/fimbriae-and-pili/#:~:text=While%20the%20fimbriae%20are%20bristle,negative%20and%20gram%2Dpositive%20bacteria.)
 
 ![[prokaryotic cell.jpg| center | 1000]]
+ - - -
+$$\large sources$$
+[Edpuzzle](https://edpuzzle.com/assignments/64ef1e4ded6ee5401e545d38/watch)

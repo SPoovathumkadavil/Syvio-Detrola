@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/Cell Structure and Function/Bacilli.md",
+                "file": "BIO/Cell Structure and Function/Biochemical Classification of Bacteria.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/Cell Structure and Function/Bacilli.md",
+                "file": "BIO/Cell Structure and Function/Biochemical Classification of Bacteria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/Cell Structure and Function/Bacilli.md",
+                "file": "BIO/Cell Structure and Function/Biochemical Classification of Bacteria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/Cell Structure and Function/Bacilli.md"
+                "file": "BIO/Cell Structure and Function/Biochemical Classification of Bacteria.md"
               }
             }
           }
@@ -155,10 +155,18 @@
   },
   "active": "0801d412720cb8a4",
   "lastOpenFiles": [
+    "BIO/Cell Structure and Function/Capsule.md",
+    "BIO/Cell Structure and Function/Cell Envelope.md",
+    "BIO/Cell Structure and Function/Eukaryotic Cells.md",
+    "BIO/Cell Structure and Function/Gelatinase.md",
+    "BIO/Cell Structure and Function/Biochemical Classification of Bacteria.md",
     "BIO/Cell Structure and Function/Bacteria.md",
     "BIO/Cell Structure and Function/Bacilli.md",
-    "BIO/Cell Structure and Function/Capsule.md",
+    "BIO/Cell Structure and Function/Morphologic Classification of Bacteria.md",
     "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
+    "BIO/Cell Structure and Function/Gram Staining.md",
+    "BIO/Cell Structure and Function/Polypeptides.md",
+    "BIO/Cell Structure and Function/Endospores.md",
     "BIO/Biology.md",
     "BIO/Cell Structure and Function/Single Circle ds-DNA.md",
     "BIO/Measuring Variation within a Population and Sample/3 - Errors.md",
@@ -173,14 +181,6 @@
     "BIO/Measuring Variation within a Population and Sample/Normal Distribution.md",
     "BIO/Measuring Variation within a Population and Sample/Mutant.md",
     "BIO/Measuring Variation within a Population and Sample/1 - Bean Example.md",
-    "STAT/Data Analysis/Variable.md",
-    "BIO/Measuring Variation within a Population and Sample/2 - Intra-Variance.md",
-    "BIO/Measuring Variation within a Population and Sample/Dependent Variable.md",
-    "BIO/Measuring Variation within a Population and Sample/Independent Variable.md",
-    "BIO/Measuring Variation within a Population and Sample/95% Confidence Interval.md",
-    "STAT/AP/3 - Collecting Data.md",
-    "BIO/Cell Structure and Function/Virulence Factor.md",
-    "BIO/Prevegen Example/Step 5 - Explanation.md",
     "Leaf Length Mean Comparison.png",
     "North Frequency vs Leaf Length (1).png",
     "BIO/Resources/Images/South Frequency vs Leaf Length (1).png",

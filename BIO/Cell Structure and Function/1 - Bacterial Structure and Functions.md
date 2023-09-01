@@ -46,6 +46,3 @@ The [[Nucleoid]] contains chromosomes, mostly [[Single Circle ds-DNA|single circ
 While the fimbriae are bristle-like short fibers occurring on the bacterial surface, Pili are long hair-like tubular microfibers found on the surface of bacteria. [BYJUS](https://byjus.com/neet/fimbriae-and-pili/#:~:text=While%20the%20fimbriae%20are%20bristle,negative%20and%20gram%2Dpositive%20bacteria.)
 
 ![[prokaryotic cell.jpg| center | 1000]]
- - - -
-$$\large sources$$
-[Edpuzzle](https://edpuzzle.com/assignments/64ef1e4ded6ee5401e545d38/watch)

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e0dd4a54f1d37826",
+        "id": "6885bda6d832bba2",
         "type": "tabs",
         "children": [
           {
-            "id": "0801d412720cb8a4",
+            "id": "a1e8f71feac4cc69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/Cell Structure and Function/Capsule.md",
+                "file": "BIO/AP/2 - Cell Structure and Function.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/Cell Structure and Function/Capsule.md",
+                "file": "BIO/AP/2 - Cell Structure and Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/Cell Structure and Function/Capsule.md",
+                "file": "BIO/AP/2 - Cell Structure and Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/Cell Structure and Function/Capsule.md"
+                "file": "BIO/AP/2 - Cell Structure and Function.md"
               }
             }
           }
@@ -153,17 +153,20 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "0801d412720cb8a4",
+  "active": "a1e8f71feac4cc69",
   "lastOpenFiles": [
-    "BIO/Cell Structure and Function/Biochemical Classification of Bacteria.md",
+    "BIO/AP/1 - Chemistry of Life.md",
+    "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
+    "BIO/Cell Structure and Function/Cell Wall.md",
     "BIO/Cell Structure and Function/Capsule.md",
+    "BIO/Cell Structure and Function/Cells.md",
     "BIO/Cell Structure and Function/Cell Envelope.md",
-    "BIO/Cell Structure and Function/Eukaryotic Cells.md",
-    "BIO/Cell Structure and Function/Gelatinase.md",
     "BIO/Cell Structure and Function/Bacteria.md",
     "BIO/Cell Structure and Function/Bacilli.md",
+    "BIO/Cell Structure and Function/Biochemical Classification of Bacteria.md",
+    "BIO/Cell Structure and Function/Eukaryotic Cells.md",
+    "BIO/Cell Structure and Function/Gelatinase.md",
     "BIO/Cell Structure and Function/Morphologic Classification of Bacteria.md",
-    "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
     "BIO/Cell Structure and Function/Gram Staining.md",
     "BIO/Cell Structure and Function/Polypeptides.md",
     "BIO/Cell Structure and Function/Endospores.md",
@@ -178,9 +181,6 @@
     "STAT/Data Analysis/1.1 - The Science and Art of Data.md",
     "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
     "BIO/Measuring Variation within a Population and Sample/mean.md",
-    "BIO/Measuring Variation within a Population and Sample/Normal Distribution.md",
-    "BIO/Measuring Variation within a Population and Sample/Mutant.md",
-    "BIO/Measuring Variation within a Population and Sample/1 - Bean Example.md",
     "Leaf Length Mean Comparison.png",
     "North Frequency vs Leaf Length (1).png",
     "BIO/Resources/Images/South Frequency vs Leaf Length (1).png",

@@ -25,7 +25,7 @@ order: 2
 - There are two distinct types of cells: prokaryotic cells and eukaryotic cells.
     
 
-### ==Prokaryotic cell==
+### ==[[Prokaryotic Cells|Prokaryotic cell]]==
 
 - It is a lot **smaller** than a eukaryotic cell and simpler. Bacteria and archaea are examples of prokaryotes.
     
@@ -33,7 +33,7 @@ order: 2
     
 - The genetic material in a prokaryote is one continuous, circular DNA molecule that is found free in the cell in the nucleoid.
     
-- Most prokaryotes have a cell wall composed of peptidoglycans that surrounds a lipid layer called the plasma membrane.
+- Most prokaryotes have a cell wall composed of [[Peptidoglycans|peptidoglycans]] that surrounds a [[Lipids|lipid]] layer called the plasma membrane.
     
 - Prokaryotes also have small **ribosomes**.
     

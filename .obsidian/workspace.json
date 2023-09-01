@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/AP/2 - Cell Structure and Function.md",
+                "file": "BIO/Cell Structure and Function/Capsule.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/AP/2 - Cell Structure and Function.md",
+                "file": "BIO/Cell Structure and Function/Capsule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/AP/2 - Cell Structure and Function.md",
+                "file": "BIO/Cell Structure and Function/Capsule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/AP/2 - Cell Structure and Function.md"
+                "file": "BIO/Cell Structure and Function/Capsule.md"
               }
             }
           }
@@ -155,10 +155,13 @@
   },
   "active": "a1e8f71feac4cc69",
   "lastOpenFiles": [
-    "BIO/AP/1 - Chemistry of Life.md",
-    "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
-    "BIO/Cell Structure and Function/Cell Wall.md",
+    "BIO/Cell Structure and Function/Phagocytosis.md",
     "BIO/Cell Structure and Function/Capsule.md",
+    "BIO/Cell Structure and Function/Virulance Factor.md",
+    "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
+    "BIO/AP/2 - Cell Structure and Function.md",
+    "BIO/AP/1 - Chemistry of Life.md",
+    "BIO/Cell Structure and Function/Cell Wall.md",
     "BIO/Cell Structure and Function/Cells.md",
     "BIO/Cell Structure and Function/Cell Envelope.md",
     "BIO/Cell Structure and Function/Bacteria.md",
@@ -178,9 +181,6 @@
     "BIO/Measuring Variation within a Population and Sample/Sample.md",
     "STAT/Data Analysis/Introduction Exercises.md",
     "STAT/Data Analysis/Categorical Data.md",
-    "STAT/Data Analysis/1.1 - The Science and Art of Data.md",
-    "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
-    "BIO/Measuring Variation within a Population and Sample/mean.md",
     "Leaf Length Mean Comparison.png",
     "North Frequency vs Leaf Length (1).png",
     "BIO/Resources/Images/South Frequency vs Leaf Length (1).png",

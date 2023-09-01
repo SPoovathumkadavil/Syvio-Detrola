@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/Cell Structure and Function/Biochemical Classification of Bacteria.md",
+                "file": "BIO/Cell Structure and Function/Capsule.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/Cell Structure and Function/Biochemical Classification of Bacteria.md",
+                "file": "BIO/Cell Structure and Function/Capsule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/Cell Structure and Function/Biochemical Classification of Bacteria.md",
+                "file": "BIO/Cell Structure and Function/Capsule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/Cell Structure and Function/Biochemical Classification of Bacteria.md"
+                "file": "BIO/Cell Structure and Function/Capsule.md"
               }
             }
           }
@@ -155,11 +155,11 @@
   },
   "active": "0801d412720cb8a4",
   "lastOpenFiles": [
+    "BIO/Cell Structure and Function/Biochemical Classification of Bacteria.md",
     "BIO/Cell Structure and Function/Capsule.md",
     "BIO/Cell Structure and Function/Cell Envelope.md",
     "BIO/Cell Structure and Function/Eukaryotic Cells.md",
     "BIO/Cell Structure and Function/Gelatinase.md",
-    "BIO/Cell Structure and Function/Biochemical Classification of Bacteria.md",
     "BIO/Cell Structure and Function/Bacteria.md",
     "BIO/Cell Structure and Function/Bacilli.md",
     "BIO/Cell Structure and Function/Morphologic Classification of Bacteria.md",

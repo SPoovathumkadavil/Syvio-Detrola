@@ -35,11 +35,11 @@ order: 2
     
 - Most prokaryotes have a cell wall composed of [[Peptidoglycans|peptidoglycans]] that surrounds a [[Lipids|lipid]] layer called the plasma membrane.
     
-- Prokaryotes also have small **ribosomes**.
+- Prokaryotes also have small **[[Ribosomes|ribosomes]]**.
     
 - Some bacteria may also have one or more flagella, which are used for motility and they might have a thick capsule outside their cell wall for extra protection.
     
-- Prokaryotes do not have any membrane-bound organelles. Their only membrane is the **plasma membrane**
+- Prokaryotes do not have any membrane-bound organelles. Their only membrane is the **[[Plasma Membrane|plasma membrane]]**
     
 
 ### ==Eukaryotic cell==

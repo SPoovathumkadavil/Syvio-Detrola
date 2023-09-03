@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LIT/Comp. 1/Ideas.md",
+                "file": "LIT/Comp. 1/Split.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIT/Comp. 1/Ideas.md",
+                "file": "LIT/Comp. 1/Split.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIT/Comp. 1/Ideas.md",
+                "file": "LIT/Comp. 1/Split.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIT/Comp. 1/Ideas.md"
+                "file": "LIT/Comp. 1/Split.md"
               }
             }
           }
@@ -167,10 +167,10 @@
       "notion-like-tables:Create new loom": false
     }
   },
-  "active": "bcbe1c0334088c64",
+  "active": "bdbccdb2ef044794",
   "lastOpenFiles": [
     "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
-    "LIT/Comp. 1/Ideas.md",
+    "LIT/Comp. 1/Split.md",
     "LIT/Comp. 1",
     "BIO/Cell Structure and Function/Cell Wall.md",
     "BIO/Cell Structure and Function/Cells.md",

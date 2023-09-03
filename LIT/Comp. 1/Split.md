@@ -32,4 +32,8 @@ When America confronted Natives in the east, it took to a throne of lies.
 
 ## Evidence 1 with Lead-In
 
-The treaty with the Delawares upraised the Lenape people, giving then impressions of friendship and equal footing. This could not have been further from the truth as the United States made unfulfilled promises for protection. During the American Revolution, native tribes were forced to pick sides among the United States and the British. Many tended to ally with the British, knowing first-hand the cruelty of intruding colonists. Article one of the treaty stated no hard feelings, that "offenses or acts of hostility...mutually forgiven"(Treaty with the Delawares, 1778). Just five years prior, Indians in the west had 
+The treaty with the Delawares upraised the Lenape people, giving then impressions of friendship and equal footing. This could not have been further from the truth as the United States made unfulfilled promises for protection. During the American Revolution, native tribes were forced to pick sides among the United States and the British. Many tended to ally with the British, knowing first-hand the cruelty of intruding colonists. Article one of the treaty stated no hard feelings, that "offenses or acts of hostility...mutually forgiven"(Treaty with the Delawares, 1778).
+
+## Analysis 1
+
+The juxtaposition between the words and actions of the United States show deeper meaning to this seemingly reciprocal behavior. 

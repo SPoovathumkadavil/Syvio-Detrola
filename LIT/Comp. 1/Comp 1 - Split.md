@@ -48,7 +48,8 @@ The treaty with the Delawares upraised the Lenape people, giving then impression
 
 ## Analysis 1
 
-The juxtaposition between the words and predicament of the United States show deeper meaning to this seemingly reciprocal behavior. 
+The juxtaposition between the words and predicament of the United States show deeper meaning to this seemingly reciprocal behavior. Although America claims friendship and peace with the Delawares, anti-Indian sentiment was continually on the rise. America is willing to temporarily disregard the differences between the colonists and Indians to secure independence from the British. This individualistic behavior is commonly seen throughout America's history and it plays an important role in the forming of it's moral compass. The Delaware people were still attacked without question in 1782 by Pennsylvanian militia. 
 
 ## Evidence 2 with Lead-In
 
+Clauses formed under the treaty were in favor of bot

@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f0e85f5f19df2cd5",
@@ -130,9 +129,17 @@
                 "file": "LIT/Comp. 1/Comp 1 - Split.md"
               }
             }
+          },
+          {
+            "id": "b09dc24b7e41de42",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -156,6 +163,9 @@
   },
   "active": "7ab0a98d33d84560",
   "lastOpenFiles": [
+    "a.md",
+    "Untitled.loom",
+    "LIT/Comp. 1/Comp 1 - Split.md",
     "BIO/Prevegen Example/Step 5 - Explanation.md",
     "BIO/Prevegen Example/Step 4 - Reasoning.md",
     "BIO/Prevegen Example/Step 3 - Claim.md",
@@ -165,7 +175,6 @@
     "BIO/Prevegen Example/Amino Acids.md",
     "BIO/Prevegen Example/Amino Acid Dissolving.md",
     "BIO/Prevegen Example/Denatured Amino Acids.md",
-    "LIT/Comp. 1/Comp 1 - Split.md",
     "Excalidraw/Cell Wall Variable Shapes.md",
     "Syvio Detrola.md",
     "BIO/Resources/Images/North Frequency vs Leaf Length (1).png",
@@ -183,8 +192,6 @@
     "BIO/Cell Structure and Function/Virulance Factor.md",
     "BIO/AP/2 - Cell Structure and Function.md",
     "BIO/AP/1 - Chemistry of Life.md",
-    "BIO/Cell Structure and Function/Bacilli.md",
-    "BIO/Cell Structure and Function/Eukaryotic Cells.md",
     "BIO/Resources/Images/South Frequency vs Leaf Length (1).png",
     "BIO/Resources/Images/prokaryotic cell.jpg",
     "STAT/AP",
@@ -198,7 +205,6 @@
     "Excalidraw",
     "Screenshot 2023-08-23 at 5.13.56 PM.png",
     "BIO/AP",
-    "BIO/Measuring Variation within a Population and Sample",
-    "BIO/Prevegen Example"
+    "BIO/Measuring Variation within a Population and Sample"
   ]
 }

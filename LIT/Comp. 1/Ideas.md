@@ -1,3 +1,23 @@
 # Intro
 
 ## Hook
+
+The Treaty With the Delawares signed on September 17, 1778 reveals an often forgotten fragment of America—a tale of diplomacy, strife, and shared destiny.
+
+## Background 1
+
+The newly formed Continental Congress approached the Lenape people for the first and last time with promises of peace and friendship. The Lenape people were persuaded to relocate from their ancestral homes to regions in present-day Pittsburgh and Detroit. 
+
+## Background 2
+
+From the time of the events in 1778 onward, the government has continuously put pressure on Native Americans. The Homestead Act, which allowed any adult American to own property in the west for just $10, was adopted by the United States in 1862. White settlers descended onto Native American settlements lured by the land and began a slaughter that claimed thousands of native lives. Government officials in the United States declared that Indians needed to be eliminated or relocated to desolate areas. They believed "only dead Indians are good Indians." Native Americans were slaughtered by American troops who considered it as normal and even an honor to kill Indians(Chinese Foreign Affairs). 
+
+## Background 3
+
+During the 19th century, when most natives were in reservations, the US government enforced cultural assimilation of native children. This involved boarding schools that these children were forced into. These children were stripped of their names, beliefs and anything that made them Native American. Children sent to these boarding schools were often separated from their families and leased to white families as indentured servants(Equal Justice Initiative).
+
+## Background 4
+
+Much of America's sentiment toward Native Americans can be recalled through Michael Cresap's story. Cresap was a colonist from Maryland who took part in armed conflict west of the Proclamation of 1763, the British-established boundary for America. In 1772, Shawnee Indians were seeking to retake the Fort Pitt when colonists in the fort waged war against them. When Cresap and his soldiers learned of this, they went to the Ohio River to kill two innocent Native Americans who were canoe fishing. This incident encouraged further settlers to join them in the senseless act of killing Indians. This bloodshed set off a prolonged summer of bloody struggle that is now known as Dunmore's war. Once the bloodshed ceased, Cresap and his men were regarded brutes who partook in unnecessary violence. Sentiment around the group changed, however, as they marched toward Lexington and Concord. This news was controlled by the continental press to fabricate the idea of savagery for their own good.(Anti-Indian Propaganda, Smith, Cole)
+
+## Thesis Pre

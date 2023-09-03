@@ -52,4 +52,4 @@ The juxtaposition between the words and predicament of the United States show de
 
 ## Evidence 2 with Lead-In
 
-Clauses formed under the treaty were in favor of bot
+One of the more impactful clauses of the treaty was to provide the Delawares statehood and equal representation in government. 

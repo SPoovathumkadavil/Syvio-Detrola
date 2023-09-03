@@ -18,7 +18,7 @@ Much of America's sentiment toward Native Americans during the time of the treat
 
 ## Thesis Pre
 
-The same Continental Congress that humanized Cresap's violence had gone to the belittled Natives in their time of need. The treaty with the Delawares is the result of this necessity. The Lenape people were approached with an air of friendship and equal-footing. The Lenape people were persuaded to relocate from their ancestral homes to regions in present-day Pittsburgh and Detroit. 
+The same Continental Congress that humanized Cresap's violence had gone to the belittled Natives in their time of need. The treaty with the Delawares is the result of this necessity. The Lenape people were persuaded to relocate from their ancestral homes to regions in present-day Pittsburgh and Detroit. 
 
 ## Thesis
 
@@ -28,7 +28,8 @@ It is ingrained in American culture that the process of securing one's own freed
 
 ## Topic Sentence
 
-When America confronted Native Americans in the east, it took to a throne of lies.
+When America confronted Natives in the east, it took to a throne of lies.
 
 ## Evidence 1 with Lead-In
 
+The treaty with the Delawares upraised the Lenape people, giving then impressions of friendship and equal footing. This could not have been further from the truth as the United States made unfulfilled promises for protection. During the American Revolution, native tribes were forced to pick sides among the United States and the British. Many tended to ally with the British, knowing first-hand the cruelty of intruding colonists. Article one of the treaty stated no hard feelings, that "offenses or acts of hostility...mutually forgiven"(Treaty with the Delawares, 1778). Just five years prior, Indians in the west had 

@@ -1,3 +1,15 @@
+---
+alias: "Comp 1 - Split"
+subject: "Language"
+subset: "English"
+importance: 6
+type: "Guideline"
+---
+
+# Prompt
+
+identify a story that your text tells about America/Americans.
+
 # Intro
 
 ## Hook

@@ -36,4 +36,4 @@ The treaty with the Delawares upraised the Lenape people, giving then impression
 
 ## Analysis 1
 
-The juxtaposition between the words and actions of the United States show deeper meaning to this seemingly reciprocal behavior. 
+The juxtaposition between the words and predicament of the United States show deeper meaning to this seemingly reciprocal behavior. 

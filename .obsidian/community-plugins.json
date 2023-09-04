@@ -12,5 +12,7 @@
   "templater-obsidian",
   "obsidian-list-callouts",
   "obsidian-wakatime",
-  "notion-like-tables"
+  "notion-like-tables",
+  "obsidian-prozen",
+  "cycle-through-panes"
 ]

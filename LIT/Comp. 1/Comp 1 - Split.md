@@ -51,4 +51,8 @@ The juxtaposition between the words and predicament of the United States show de
 
 ## Evidence 2 with Lead-In
 
-One of the more impactful clauses of the treaty was to provide the Delawares statehood and equal representation in government. 
+One of the more impactful clauses of the treaty was to provide the Delawares statehood, for tribes "to join the present confederation, and to form a state whereof the Delaware nation shall be the head, and have a representation in Congress"(Treaty With the Delawares, 1778)
+
+## Analysis 2
+
+Strictly speaking, this was a truly revolutionary idea. Coincidentally, this was one of many clauses completely undermined by the United States. After the death of one of the Native American signers of the treaty, the air around the treaty completely changed. 

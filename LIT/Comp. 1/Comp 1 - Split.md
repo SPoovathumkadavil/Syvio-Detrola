@@ -73,4 +73,4 @@ The writers made it seem like the Native Americans were getting mutual protectio
 
 ## Analysis
 
-The protection that the Natives were hoping for never arrived, as most had to flee from the British invasion in the east. The statement of the 'United State's expense' hints at the power dynamics at play between the United States and 
+The protection that the Natives were hoping for never arrived, as most had to flee from the British invasion in the east. The statement of the 'State's expense' hints at the power dynamics at play between the United States and Native Tribes. Natives often received immense pressure and had limited leverage when negotiating. The tone of the text implies 'American generosity' through these giving of 'gifts'. 

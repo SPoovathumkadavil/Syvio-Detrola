@@ -73,4 +73,12 @@ The writers made it seem like the Native Americans were getting mutual protectio
 
 ## Analysis
 
-The protection that the Natives were hoping for never arrived, forcing most to flee from the British invasion in the east. The statement of the 'State's expense' hints at the power dynamics at play between the United States and Native Tribes. Natives often received immense pressure and had limited leverage when negotiating. The tone of the text implies 'American generosity' through these giving of 'gifts'. This excerpt is from Article IV, the longest article in the treaty. This article consists of all that is expected from the Delawares during wartime, including free passage and care for American soldiers. The protection is provided as payment for this 
+The protection that the Natives were hoping for never arrived, forcing most to flee from the British invasion in the east. The statement of the 'State's expense' hints at the power dynamics at play between the United States and Native Tribes. Natives often received immense pressure and had limited leverage when negotiating. The tone of the text implies 'American generosity' through these giving of 'gifts'. This excerpt is from Article III, the longest article in the treaty. This article consists of all that is expected from the Delawares during wartime, including free passage and care for American soldiers. This shows the objective of the treaty, to secure support during the Revolutionary War.
+
+## Evidence 2 with Lead-In
+
+The wording of the treaty also introduced it's own purpose as that of eternal peace, clarifying "...for the better peace and friendship now entered into by contracting parties..."(Treaty With the Delawares, 1778)
+
+## Analysis 2
+
+By referencing the 'common good', the writers take the edge off the commanding tone of Article III. By following up right after the promise of the fort, the writers aimed to create a sense of inclusion to the natives, though they were treated as expendable support for their troops. 

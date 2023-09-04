@@ -1,9 +1,10 @@
 {
   "accentColor": "",
-  "cssTheme": "Obsidianotion",
+  "cssTheme": "Pink Topaz",
   "translucency": false,
   "theme": "moonstone",
   "enabledCssSnippets": [
     "align"
-  ]
+  ],
+  "nativeMenus": true
 }

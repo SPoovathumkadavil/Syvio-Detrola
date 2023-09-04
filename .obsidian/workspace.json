@@ -13,27 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LIT/Comp. 1/Comp 1 - Split.md",
+                "file": "BIO/Biology.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "a0c3d7074b0608cf",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "26db11b5bac757b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LIT/Comp. 1/Comp 1 - Split.md",
-                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -105,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIT/Comp. 1/Comp 1 - Split.md",
+                "file": "BIO/Biology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIT/Comp. 1/Comp 1 - Split.md",
+                "file": "BIO/Biology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIT/Comp. 1/Comp 1 - Split.md"
+                "file": "BIO/Biology.md"
               }
             }
           },
@@ -183,8 +164,9 @@
   },
   "active": "bdbccdb2ef044794",
   "lastOpenFiles": [
-    "Untitled",
+    "LIT/Untitled",
     "LIT/Comp. 1/Comp 1 - Split.md",
+    "Untitled",
     "BIO/Biology.md",
     "a.md",
     "Untitled.loom",
@@ -225,7 +207,6 @@
     "Templates",
     "Excalidraw",
     "Screenshot 2023-08-23 at 5.13.56 PM.png",
-    "BIO/AP",
-    "BIO/Measuring Variation within a Population and Sample"
+    "BIO/AP"
   ]
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/Biology.md",
+                "file": "LIT/Disquiet/Disquiet Planning.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/Biology.md",
+                "file": "LIT/Disquiet/Disquiet Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/Biology.md",
+                "file": "LIT/Disquiet/Disquiet Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/Biology.md"
+                "file": "LIT/Disquiet/Disquiet Planning.md"
               }
             }
           },
@@ -162,12 +162,13 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "bdbccdb2ef044794",
+  "active": "5f1d9068a66f9369",
   "lastOpenFiles": [
-    "LIT/Untitled",
+    "BIO/Biology.md",
+    "LIT/Disquiet/Disquiet Planning.md",
+    "LIT/Disquiet",
     "LIT/Comp. 1/Comp 1 - Split.md",
     "Untitled",
-    "BIO/Biology.md",
     "a.md",
     "Untitled.loom",
     "BIO/Prevegen Example/Step 5 - Explanation.md",
@@ -206,7 +207,6 @@
     "BIO/Cell Structure and Function",
     "Templates",
     "Excalidraw",
-    "Screenshot 2023-08-23 at 5.13.56 PM.png",
-    "BIO/AP"
+    "Screenshot 2023-08-23 at 5.13.56 PM.png"
   ]
 }

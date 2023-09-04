@@ -69,4 +69,8 @@ The language used in the Treaty With the Delawares provide powerful connotation 
 
 ## Evidence 1 with Lead-In
 
-The author made it seem like the Native Americans were getting mutual protection or benefit from the deal, claiming "...then that each shall assist the other in due proportion to their ability..."(Treaty With the Delawares, 1778). 
+The writers made it seem like the Native Americans were getting mutual protection or benefit from the deal, claiming "...then that each shall assist the other in due proportion to their ability..."(Treaty With the Delawares, 1778). The Natives were also promised "that a fort of sufficient strength and capacity be built at the expense of the said States"(Treaty With the Delawares, 1778)
+
+## Analysis
+
+The protection that the Natives were hoping for never arrived, as most had to flee from the British invasion in the east. The statement of the 'United State's expense' hints at the power dynamics at play between the United States and 

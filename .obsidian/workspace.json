@@ -65,6 +65,16 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "4f0784e8a25768b8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "com.maxymillion.zen",
+              "state": {},
+              "pinned": true
+            }
           }
         ]
       }
@@ -156,8 +166,8 @@
       "random-note:Open random note": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "notion-like-tables:Create new loom": false
+      "notion-like-tables:Create new loom": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "7ab0a98d33d84560",

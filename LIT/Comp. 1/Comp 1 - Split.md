@@ -55,4 +55,12 @@ One of the more impactful clauses of the treaty was to provide the Delawares sta
 
 ## Analysis 2
 
-Strictly speaking, this was a truly revolutionary idea. Coincidentally, this was one of many clauses completely undermined by the United States. After the death of one of the Native American signers of the treaty, the air around the treaty completely changed. 
+Strictly speaking, this was a truly revolutionary idea. Coincidentally, this was one of many clauses completely undermined by the United States. After the death of one of the Native American signers of the treaty, the air around the treaty completely changed. As the Delaware people raised their grievances about their allegedly killed signer, the Continental Congress proceeded to ignore them. In March of 1782, Pennsylvanian militia killed around 96 Delaware natives who returned to their homes. They returned to salvage what they could from the rubble left behind from the British who ransacked their homes.(Zotigh, 2018)
+
+## Concluding Sentence
+Human nature itself can be inferred from the actions of the United States as it developed a need to focus on one's own freedom while denying rights to perceived unequals.
+
+# Body Paragraph #2 
+
+## Thesis
+

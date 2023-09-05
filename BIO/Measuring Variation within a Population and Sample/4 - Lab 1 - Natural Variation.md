@@ -78,3 +78,4 @@ The north side of the data ranges from 6.0cm to 21.0cm, with an average of 14.4c
 - The sun provides differing amounts of sunlight depending on where it is.
 
 # [[Step 5 - Explanation|Explanation]]
+

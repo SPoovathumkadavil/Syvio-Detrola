@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
+                "file": "LIT/Disquiet/Disquiet Planning.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
+                "file": "LIT/Disquiet/Disquiet Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
+                "file": "LIT/Disquiet/Disquiet Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md"
+                "file": "LIT/Disquiet/Disquiet Planning.md"
               }
             }
           },
@@ -164,6 +164,8 @@
   },
   "active": "9e9b6092f36307b7",
   "lastOpenFiles": [
+    "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
+    "combined.md",
     "LIT/Disquiet/Disquiet Planning.md",
     "BIO/Biology.md",
     "LIT/Disquiet",
@@ -184,7 +186,6 @@
     "Syvio Detrola.md",
     "BIO/Resources/Images/North Frequency vs Leaf Length (1).png",
     "BIO/Resources/Images/Leaf Length Mean Comparison.png",
-    "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
     "LIT/Comp. 1",
     "BIO/Cell Structure and Function/Cell Wall.md",
     "BIO/Cell Structure and Function/Cells.md",
@@ -195,7 +196,6 @@
     "BIO/Cell Structure and Function/Bacteria.md",
     "BIO/Cell Structure and Function/Phagocytosis.md",
     "BIO/Cell Structure and Function/Virulance Factor.md",
-    "BIO/AP/2 - Cell Structure and Function.md",
     "BIO/Resources/Images/South Frequency vs Leaf Length (1).png",
     "BIO/Resources/Images/prokaryotic cell.jpg",
     "STAT/AP",

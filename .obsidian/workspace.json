@@ -11,8 +11,13 @@
             "id": "9e2faca82d89dc68",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Detrola Tracker.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Detrola Tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Detrola Tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Detrola Tracker.md"
+              }
             }
           },
           {
@@ -155,6 +164,10 @@
   },
   "active": "9e2faca82d89dc68",
   "lastOpenFiles": [
+    "STAT/Statistics.md",
+    "STAT/Data Analysis/Individual.md",
+    "STAT/Data Analysis/Categorical Data.md",
+    "STAT/Data Analysis/1.1 - The Science and Art of Data.md",
     "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
     "BIO/Cell Structure and Function/Cellular Respiration.md",
     "BIO/Cell Structure and Function/Prokaryotic Cells.md",
@@ -180,13 +193,9 @@
     "BIO/Prevegen Example/Amino Acid Dissolving.md",
     "BIO/Prevegen Example/Denatured Amino Acids.md",
     "Excalidraw/Cell Wall Variable Shapes.md",
-    "Syvio Detrola.md",
     "BIO/Resources/Images/North Frequency vs Leaf Length (1).png",
     "BIO/Resources/Images/Leaf Length Mean Comparison.png",
     "LIT/Comp. 1",
-    "BIO/Cell Structure and Function/Cell Wall.md",
-    "BIO/Cell Structure and Function/Cells.md",
-    "BIO/Cell Structure and Function/Cell Envelope.md",
     "BIO/Resources/Images/South Frequency vs Leaf Length (1).png",
     "BIO/Resources/Images/prokaryotic cell.jpg",
     "STAT/AP",

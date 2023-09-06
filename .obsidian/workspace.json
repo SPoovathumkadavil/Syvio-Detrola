@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9dd9f4d72fb5d61b",
+        "id": "580773552a4060f5",
         "type": "tabs",
         "children": [
           {
-            "id": "9e9b6092f36307b7",
+            "id": "9e2faca82d89dc68",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,10 +153,10 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "9e9b6092f36307b7",
+  "active": "9e2faca82d89dc68",
   "lastOpenFiles": [
-    "BIO/Cell Structure and Function/Cellular Respiration.md",
     "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
+    "BIO/Cell Structure and Function/Cellular Respiration.md",
     "BIO/Cell Structure and Function/Prokaryotic Cells.md",
     "BIO/Cell Structure and Function/Capsule.md",
     "BIO/Cell Structure and Function/Virulence Factor.md",

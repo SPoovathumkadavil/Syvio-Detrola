@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Syvio Detrola.md",
+                "file": "BIO/Cell Structure and Function/Bacilli.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Syvio Detrola.md",
+                "file": "BIO/Cell Structure and Function/Bacilli.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Syvio Detrola.md",
+                "file": "BIO/Cell Structure and Function/Bacilli.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Syvio Detrola.md"
+                "file": "BIO/Cell Structure and Function/Bacilli.md"
               }
             }
           },
@@ -164,18 +164,20 @@
   },
   "active": "9e2faca82d89dc68",
   "lastOpenFiles": [
+    "BIO/Cell Structure and Function/Bacteria.md",
+    "BIO/Cell Structure and Function/Bacilli.md",
+    "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
+    "Syvio Detrola.md",
     "Detrola Tracker.md",
     "STAT/Statistics.md",
     "STAT/Data Analysis/Individual.md",
     "STAT/Data Analysis/Categorical Data.md",
     "STAT/Data Analysis/1.1 - The Science and Art of Data.md",
-    "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
     "BIO/Cell Structure and Function/Cellular Respiration.md",
     "BIO/Cell Structure and Function/Prokaryotic Cells.md",
     "BIO/Cell Structure and Function/Capsule.md",
     "BIO/Cell Structure and Function/Virulence Factor.md",
     "BIO/Measuring Variation within a Population and Sample/4 - Lab 1 - Natural Variation.md",
-    "BIO/Cell Structure and Function/Bacteria.md",
     "BIO/Biology.md",
     "LIT/Disquiet/Disquiet Planning.md",
     "combined.md",
@@ -191,8 +193,6 @@
     "BIO/Prevegen Example/Step 1 - Question.md",
     "BIO/Prevegen Example/Effects of Heat on Amino Acids.md",
     "BIO/Prevegen Example/Amino Acids.md",
-    "BIO/Prevegen Example/Amino Acid Dissolving.md",
-    "BIO/Prevegen Example/Denatured Amino Acids.md",
     "BIO/Resources/Images/North Frequency vs Leaf Length (1).png",
     "BIO/Resources/Images/Leaf Length Mean Comparison.png",
     "LIT/Comp. 1",

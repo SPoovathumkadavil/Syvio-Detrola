@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Detrola Tracker.md",
+                "file": "Syvio Detrola.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Detrola Tracker.md",
+                "file": "Syvio Detrola.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Detrola Tracker.md",
+                "file": "Syvio Detrola.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Detrola Tracker.md"
+                "file": "Syvio Detrola.md"
               }
             }
           },
@@ -164,6 +164,7 @@
   },
   "active": "9e2faca82d89dc68",
   "lastOpenFiles": [
+    "Detrola Tracker.md",
     "STAT/Statistics.md",
     "STAT/Data Analysis/Individual.md",
     "STAT/Data Analysis/Categorical Data.md",
@@ -192,7 +193,6 @@
     "BIO/Prevegen Example/Amino Acids.md",
     "BIO/Prevegen Example/Amino Acid Dissolving.md",
     "BIO/Prevegen Example/Denatured Amino Acids.md",
-    "Excalidraw/Cell Wall Variable Shapes.md",
     "BIO/Resources/Images/North Frequency vs Leaf Length (1).png",
     "BIO/Resources/Images/Leaf Length Mean Comparison.png",
     "LIT/Comp. 1",

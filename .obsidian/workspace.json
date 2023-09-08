@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/95% Confidence Interval.md",
+                "file": "BIO/Measuring Variation within a Population and Sample/Standard Error of Mean.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/95% Confidence Interval.md",
+                "file": "BIO/Measuring Variation within a Population and Sample/Standard Error of Mean.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/95% Confidence Interval.md",
+                "file": "BIO/Measuring Variation within a Population and Sample/Standard Error of Mean.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/95% Confidence Interval.md"
+                "file": "BIO/Measuring Variation within a Population and Sample/Standard Error of Mean.md"
               }
             }
           },
@@ -178,6 +178,7 @@
   },
   "active": "e5f90eb9fd0ebc56",
   "lastOpenFiles": [
+    "BIO/Measuring Variation within a Population and Sample/95% Confidence Interval.md",
     "BIO/Measuring Variation within a Population and Sample/Standard Error of Mean.md",
     "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
     "BIO/Measuring Variation within a Population and Sample/Sample.md",
@@ -185,7 +186,6 @@
     "BIO/Measuring Variation within a Population and Sample/Normal Distribution.md",
     "BIO/Measuring Variation within a Population and Sample/Mutant.md",
     "BIO/Measuring Variation within a Population and Sample/Dependent Variable.md",
-    "BIO/Measuring Variation within a Population and Sample/95% Confidence Interval.md",
     "BIO/Cell Structure and Function/PC Prep - 1.md",
     "Screenshot 2023-09-07 at 8.59.15 PM.png",
     "BIO/Biology.md",

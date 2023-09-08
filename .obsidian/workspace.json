@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/Cell Structure and Function/Biochemical Classification of Bacteria.md",
+                "file": "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5f90eb9fd0ebc56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIO/Cell Structure and Function/PC Prep - 1.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/Cell Structure and Function/Biochemical Classification of Bacteria.md",
+                "file": "BIO/Cell Structure and Function/PC Prep - 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/Cell Structure and Function/Biochemical Classification of Bacteria.md",
+                "file": "BIO/Cell Structure and Function/PC Prep - 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/Cell Structure and Function/Biochemical Classification of Bacteria.md"
+                "file": "BIO/Cell Structure and Function/PC Prep - 1.md"
               }
             }
           },
@@ -162,11 +176,19 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "9e2faca82d89dc68",
+  "active": "e5f90eb9fd0ebc56",
   "lastOpenFiles": [
+    "Screenshot 2023-09-07 at 8.59.15 PM.png",
+    "BIO/Biology.md",
+    "Screenshot 2023-09-07 at 8.58.48 PM.png",
+    "BIO/Measuring Variation within a Population and Sample/4 - Lab 1 - Natural Variation.md",
+    "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
+    "BIO/Cell Structure and Function/PC Prep - 1.md",
+    "Screenshot 2023-09-07 at 8.51.49 PM.png",
+    "Screenshot 2023-09-07 at 8.54.43 PM.png",
+    "BIO/Cell Structure and Function/Biochemical Classification of Bacteria.md",
     "BIO/Cell Structure and Function/Bacilli.md",
     "BIO/Cell Structure and Function/Bacteria.md",
-    "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
     "Syvio Detrola.md",
     "Detrola Tracker.md",
     "STAT/Statistics.md",
@@ -177,8 +199,6 @@
     "BIO/Cell Structure and Function/Prokaryotic Cells.md",
     "BIO/Cell Structure and Function/Capsule.md",
     "BIO/Cell Structure and Function/Virulence Factor.md",
-    "BIO/Measuring Variation within a Population and Sample/4 - Lab 1 - Natural Variation.md",
-    "BIO/Biology.md",
     "LIT/Disquiet/Disquiet Planning.md",
     "combined.md",
     "LIT/Disquiet",
@@ -190,9 +210,6 @@
     "BIO/Prevegen Example/Step 4 - Reasoning.md",
     "BIO/Prevegen Example/Step 3 - Claim.md",
     "BIO/Prevegen Example/Step 2 - Evidence.md",
-    "BIO/Prevegen Example/Step 1 - Question.md",
-    "BIO/Prevegen Example/Effects of Heat on Amino Acids.md",
-    "BIO/Prevegen Example/Amino Acids.md",
     "BIO/Resources/Images/North Frequency vs Leaf Length (1).png",
     "BIO/Resources/Images/Leaf Length Mean Comparison.png",
     "LIT/Comp. 1",
@@ -206,7 +223,6 @@
     "Screenshot 2023-08-30 at 5.12.09 PM.png",
     "BIO/Cell Structure and Function",
     "Templates",
-    "Excalidraw",
-    "Screenshot 2023-08-23 at 5.13.56 PM.png"
+    "Excalidraw"
   ]
 }

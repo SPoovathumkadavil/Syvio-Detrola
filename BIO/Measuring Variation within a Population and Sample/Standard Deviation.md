@@ -8,6 +8,8 @@ type: "Concept"
 
 In statistics, the standard deviation is a measure of the amount of variation or dispersion of a set of values. A low standard deviation indicates that the values tend to be close to the [[Mean|mean]] (also called the expected value) of the set, while a high standard deviation indicates that the values are spread out over a wider range.
 
+Standard deviation (SD) measures the amount of variability, or dispersion, from the individual data values to the mean. SD is a frequently-cited statistic in many applications from math and statistics to finance and investing.
+
 ## The Empirical Rule
 The image below shows parts of the graph covered by venturing out particular standard deviations. For example, +/- 1SD would cover about 67% of the [[Population|population]], while +/- 2SD covers about 95%.
 ![[Standard Deviation Percents | center]]

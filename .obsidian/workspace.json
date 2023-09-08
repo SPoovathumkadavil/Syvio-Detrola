@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/Cell Structure and Function/PC Prep - 1.md",
+                "file": "BIO/Measuring Variation within a Population and Sample/95% Confidence Interval.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/Cell Structure and Function/PC Prep - 1.md",
+                "file": "BIO/Measuring Variation within a Population and Sample/95% Confidence Interval.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/Cell Structure and Function/PC Prep - 1.md",
+                "file": "BIO/Measuring Variation within a Population and Sample/95% Confidence Interval.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/Cell Structure and Function/PC Prep - 1.md"
+                "file": "BIO/Measuring Variation within a Population and Sample/95% Confidence Interval.md"
               }
             }
           },
@@ -178,12 +178,20 @@
   },
   "active": "e5f90eb9fd0ebc56",
   "lastOpenFiles": [
+    "BIO/Measuring Variation within a Population and Sample/Standard Error of Mean.md",
+    "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
+    "BIO/Measuring Variation within a Population and Sample/Sample.md",
+    "BIO/Measuring Variation within a Population and Sample/Population.md",
+    "BIO/Measuring Variation within a Population and Sample/Normal Distribution.md",
+    "BIO/Measuring Variation within a Population and Sample/Mutant.md",
+    "BIO/Measuring Variation within a Population and Sample/Dependent Variable.md",
+    "BIO/Measuring Variation within a Population and Sample/95% Confidence Interval.md",
+    "BIO/Cell Structure and Function/PC Prep - 1.md",
     "Screenshot 2023-09-07 at 8.59.15 PM.png",
     "BIO/Biology.md",
     "Screenshot 2023-09-07 at 8.58.48 PM.png",
     "BIO/Measuring Variation within a Population and Sample/4 - Lab 1 - Natural Variation.md",
     "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
-    "BIO/Cell Structure and Function/PC Prep - 1.md",
     "Screenshot 2023-09-07 at 8.51.49 PM.png",
     "Screenshot 2023-09-07 at 8.54.43 PM.png",
     "BIO/Cell Structure and Function/Biochemical Classification of Bacteria.md",
@@ -200,16 +208,9 @@
     "BIO/Cell Structure and Function/Capsule.md",
     "BIO/Cell Structure and Function/Virulence Factor.md",
     "LIT/Disquiet/Disquiet Planning.md",
-    "combined.md",
     "LIT/Disquiet",
-    "LIT/Comp. 1/Comp 1 - Split.md",
     "Untitled",
-    "a.md",
     "Untitled.loom",
-    "BIO/Prevegen Example/Step 5 - Explanation.md",
-    "BIO/Prevegen Example/Step 4 - Reasoning.md",
-    "BIO/Prevegen Example/Step 3 - Claim.md",
-    "BIO/Prevegen Example/Step 2 - Evidence.md",
     "BIO/Resources/Images/North Frequency vs Leaf Length (1).png",
     "BIO/Resources/Images/Leaf Length Mean Comparison.png",
     "LIT/Comp. 1",
@@ -220,7 +221,6 @@
     "BIO/Resources",
     "Screenshot 2023-08-30 at 4.41.47 PM.png",
     "Pasted Image 20230830170710_623.png",
-    "Screenshot 2023-08-30 at 5.12.09 PM.png",
     "BIO/Cell Structure and Function",
     "Templates",
     "Excalidraw"

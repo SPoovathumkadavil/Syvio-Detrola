@@ -32,6 +32,7 @@
       {
         "id": "fd014e1ea02a6bbb",
         "type": "tabs",
+        "dimension": 43.160377358490564,
         "children": [
           {
             "id": "9e2faca82d89dc68",
@@ -46,6 +47,7 @@
       {
         "id": "d089258346dd1b65",
         "type": "tabs",
+        "dimension": 56.839622641509436,
         "children": [
           {
             "id": "bdbccdb2ef044794",
@@ -176,13 +178,18 @@
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
     }
   },
-  "active": "52d045e6dff2cfa0",
+  "active": "9f2129e092b5fdad",
   "lastOpenFiles": [
+    "STAT/Data Analysis/1.1 - The Science and Art of Data.md",
+    "STAT/Data Analysis/Categorical Data.md",
+    "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
+    "BIO/Cell Structure and Function/Cellular Respiration.md",
+    "BIO/Cell Structure and Function/2 -.md",
+    "Excalidraw/Cell Wall Variable Shapes.md",
     "BIO/Cell Structure and Function/Bacteria.md",
     "BIO/Cell Structure and Function/Biochemical Classification of Bacteria.md",
     "BIO/Cell Structure and Function/Bacilli.md",
     "BIO/Cell Structure and Function/Gram Negative Bacteria.md",
-    "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
     "BIO/Cell Structure and Function/PC Prep - 1.md",
     "BIO/Measuring Variation within a Population and Sample/Standard Error of Mean.md",
     "BIO/Measuring Variation within a Population and Sample/95% Confidence Interval.md",
@@ -202,12 +209,7 @@
     "Detrola Tracker.md",
     "STAT/Statistics.md",
     "STAT/Data Analysis/Individual.md",
-    "STAT/Data Analysis/Categorical Data.md",
-    "STAT/Data Analysis/1.1 - The Science and Art of Data.md",
-    "BIO/Cell Structure and Function/Cellular Respiration.md",
     "BIO/Cell Structure and Function/Prokaryotic Cells.md",
-    "BIO/Cell Structure and Function/Capsule.md",
-    "BIO/Cell Structure and Function/Virulence Factor.md",
     "LIT/Disquiet",
     "Untitled",
     "Untitled.loom",

@@ -3,7 +3,7 @@ alias:
 ---
 Antibiotics attack [[Prokaryotic Cells|prokaryotes]], bacteria, not our own [[Eukaryotic Cells|eukaryotic cells]].
 
-## Antibiotic Resistance and Natural Selection
+## Antibiotic Resistance and [[Natural Selection]]
 Natural variety even in same species. [[Fitness|Natural fitness]] is there.  Overtime, higher fitness 
 Evolution(change over time), nat selec is mechanism.
 The alleasle could still be recessive

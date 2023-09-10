@@ -4,32 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "ee8da88e2f89bd8a",
+        "id": "2024df94b7a57dc8",
         "type": "tabs",
         "children": [
           {
-            "id": "222baec7a0d4159a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "92f03211d0a3dead",
+            "id": "b621fbeb3a5fe340",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-09-10.md",
+                "file": "Daily Notes/2023-09-10.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "a23b12a4a5dbad7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da610888ed8f3b7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIO/Cell Structure and Function/Natural Selection.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-09-10.md",
+                "file": "Daily Notes/2023-09-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-09-10.md",
+                "file": "Daily Notes/2023-09-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-09-10.md"
+                "file": "Daily Notes/2023-09-10.md"
               }
             }
           },
@@ -212,10 +222,12 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "51ee88dc3d4082ae",
+  "active": "b621fbeb3a5fe340",
   "lastOpenFiles": [
-    "2023-09-10.md",
     "BIO/Cell Structure and Function/2 - Introduction to Natural Selection.md",
+    "Daily Notes",
+    "BIO/Cell Structure and Function/Natural Selection.md",
+    "Daily Notes/2023-09-10.md",
     "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
     "BIO/Cell Structure and Function/Gram Negative Bacteria.md",
     "BIO/Cell Structure and Function/Innate Immune System.md",
@@ -239,13 +251,10 @@
     "BIO/Measuring Variation within a Population and Sample/Mutant.md",
     "BIO/Measuring Variation within a Population and Sample/Dependent Variable.md",
     "Screenshot 2023-09-07 at 8.59.15 PM.png",
-    "BIO/Biology.md",
     "Screenshot 2023-09-07 at 8.58.48 PM.png",
-    "BIO/Measuring Variation within a Population and Sample/4 - Lab 1 - Natural Variation.md",
     "Screenshot 2023-09-07 at 8.51.49 PM.png",
     "Screenshot 2023-09-07 at 8.54.43 PM.png",
     "LIT/Disquiet",
-    "Untitled",
     "Untitled.loom",
     "BIO/Resources/Images/North Frequency vs Leaf Length (1).png",
     "BIO/Resources/Images/Leaf Length Mean Comparison.png",

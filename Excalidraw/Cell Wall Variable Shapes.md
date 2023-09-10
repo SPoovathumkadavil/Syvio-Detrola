@@ -26,8 +26,8 @@ Pleomorphic ^w1o9Mj8A
 	"elements": [
 		{
 			"type": "ellipse",
-			"version": 116,
-			"versionNonce": 882126362,
+			"version": 118,
+			"versionNonce": 127098842,
 			"isDeleted": false,
 			"id": "-PscXgqIaWK1oQn0pmzhd",
 			"fillStyle": "hachure",
@@ -38,8 +38,8 @@ Pleomorphic ^w1o9Mj8A
 			"angle": 0,
 			"x": -261.6730878893418,
 			"y": -100.68657053874733,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#a5d8ff",
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 69.56201703706745,
 			"height": 53.32462555741033,
 			"seed": 1430146658,
@@ -49,14 +49,14 @@ Pleomorphic ^w1o9Mj8A
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1694372814593,
+			"updated": 1694373122125,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 154,
-			"versionNonce": 815847558,
+			"version": 156,
+			"versionNonce": 1974903494,
 			"isDeleted": false,
 			"id": "XBlHOaeQrk6LanAOuo-39",
 			"fillStyle": "hachure",
@@ -67,8 +67,8 @@ Pleomorphic ^w1o9Mj8A
 			"angle": 0,
 			"x": -174.80265258748815,
 			"y": -64.3420192682004,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#a5d8ff",
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 65.52025902311333,
 			"height": 77.27028280449255,
 			"seed": 1202719010,
@@ -78,14 +78,14 @@ Pleomorphic ^w1o9Mj8A
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1694372814593,
+			"updated": 1694373122125,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 83,
-			"versionNonce": 1222335194,
+			"version": 85,
+			"versionNonce": 1619940506,
 			"isDeleted": false,
 			"id": "zOah4sBaIv0Gn8gM9I9kh",
 			"fillStyle": "hachure",
@@ -96,8 +96,8 @@ Pleomorphic ^w1o9Mj8A
 			"angle": 0,
 			"x": -264.5031002704857,
 			"y": -27.262602904207256,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#a5d8ff",
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 61.079797607395825,
 			"height": 81.71074422021005,
 			"seed": 1462404322,
@@ -107,14 +107,14 @@ Pleomorphic ^w1o9Mj8A
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1694372814593,
+			"updated": 1694373122126,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 102,
-			"versionNonce": 1228920774,
+			"version": 104,
+			"versionNonce": 1973574150,
 			"isDeleted": false,
 			"id": "QAR_K14OCRJ9fvLN7AUKg",
 			"fillStyle": "hachure",
@@ -125,8 +125,8 @@ Pleomorphic ^w1o9Mj8A
 			"angle": 0,
 			"x": -330.140625,
 			"y": 28.02426880697962,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#a5d8ff",
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 57.616550411686575,
 			"height": 57.50710241904565,
 			"seed": 1996157282,
@@ -136,14 +136,14 @@ Pleomorphic ^w1o9Mj8A
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1694372814593,
+			"updated": 1694373122126,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 156,
-			"versionNonce": 1293873050,
+			"version": 158,
+			"versionNonce": 1875685722,
 			"isDeleted": false,
 			"id": "rGIOFh4T71t6qoi_hqUp-",
 			"fillStyle": "hachure",
@@ -154,8 +154,8 @@ Pleomorphic ^w1o9Mj8A
 			"angle": 0,
 			"x": -189.16379276472944,
 			"y": 35.33383117264137,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#a5d8ff",
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 74.25264529310705,
 			"height": 54.0907615058968,
 			"seed": 241397026,
@@ -165,14 +165,14 @@ Pleomorphic ^w1o9Mj8A
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1694372814593,
+			"updated": 1694373122126,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 116,
-			"versionNonce": 1279061766,
+			"version": 118,
+			"versionNonce": 1167403334,
 			"isDeleted": false,
 			"id": "zDx3Y6CU",
 			"fillStyle": "hachure",
@@ -183,8 +183,8 @@ Pleomorphic ^w1o9Mj8A
 			"angle": 0,
 			"x": -263.42425577159656,
 			"y": -197.15715833796204,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#a5d8ff",
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 96.88836669921875,
 			"height": 50.03336806442253,
 			"seed": 1046829282,
@@ -192,7 +192,7 @@ Pleomorphic ^w1o9Mj8A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1694372814593,
+			"updated": 1694373122126,
 			"link": null,
 			"locked": false,
 			"fontSize": 40.02669445153803,
@@ -208,8 +208,8 @@ Pleomorphic ^w1o9Mj8A
 		},
 		{
 			"type": "rectangle",
-			"version": 138,
-			"versionNonce": 1435626586,
+			"version": 140,
+			"versionNonce": 1755411994,
 			"isDeleted": false,
 			"id": "8xHh-k_2Uh0DoFyeLPC2F",
 			"fillStyle": "hachure",
@@ -220,8 +220,8 @@ Pleomorphic ^w1o9Mj8A
 			"angle": 0.5661780009655217,
 			"x": 23.509292364106614,
 			"y": -63.45079989955289,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#a5d8ff",
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 82.28143732469488,
 			"height": 23.640766410439646,
 			"seed": 1401221758,
@@ -231,14 +231,14 @@ Pleomorphic ^w1o9Mj8A
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1694372814593,
+			"updated": 1694373122126,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 217,
-			"versionNonce": 1981095494,
+			"version": 219,
+			"versionNonce": 82579590,
 			"isDeleted": false,
 			"id": "lJN3PxPNJFJpW3Lbxip9B",
 			"fillStyle": "hachure",
@@ -249,8 +249,8 @@ Pleomorphic ^w1o9Mj8A
 			"angle": 1.6925386503071431,
 			"x": 102.86690474253675,
 			"y": -53.88191825723206,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#a5d8ff",
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 76.9575742540899,
 			"height": 24.586709775407638,
 			"seed": 119390946,
@@ -260,14 +260,14 @@ Pleomorphic ^w1o9Mj8A
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1694372814593,
+			"updated": 1694373122126,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 180,
-			"versionNonce": 2013745434,
+			"version": 182,
+			"versionNonce": 469738202,
 			"isDeleted": false,
 			"id": "8yd90kqutYzi71UHy9PpO",
 			"fillStyle": "hachure",
@@ -278,8 +278,8 @@ Pleomorphic ^w1o9Mj8A
 			"angle": 0.3206076977513552,
 			"x": 19.967868030796694,
 			"y": -8.625173300209866,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#a5d8ff",
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 77.39536622465361,
 			"height": 26.65840392182513,
 			"seed": 1704797310,
@@ -289,14 +289,14 @@ Pleomorphic ^w1o9Mj8A
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1694372814593,
+			"updated": 1694373122126,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 155,
-			"versionNonce": 1806001542,
+			"version": 157,
+			"versionNonce": 1600393158,
 			"isDeleted": false,
 			"id": "ASb5qNYIU1wz6Qbye-mf6",
 			"fillStyle": "hachure",
@@ -307,8 +307,8 @@ Pleomorphic ^w1o9Mj8A
 			"angle": 0,
 			"x": 120.69129211548727,
 			"y": 19.8156693589103,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#a5d8ff",
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 64.32414881782321,
 			"height": 26.642768494305,
 			"seed": 1715335294,
@@ -318,14 +318,14 @@ Pleomorphic ^w1o9Mj8A
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1694372814593,
+			"updated": 1694373122126,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "rectangle",
-			"version": 197,
-			"versionNonce": 401743322,
+			"version": 199,
+			"versionNonce": 1148860314,
 			"isDeleted": false,
 			"id": "FgewCrF4PaMT4MzQhG54T",
 			"fillStyle": "hachure",
@@ -336,8 +336,8 @@ Pleomorphic ^w1o9Mj8A
 			"angle": 0.45996422416802574,
 			"x": 38.33949536695184,
 			"y": 66.07308167722096,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#a5d8ff",
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 87.1753261384962,
 			"height": 22.75736475555219,
 			"seed": 739569918,
@@ -347,14 +347,14 @@ Pleomorphic ^w1o9Mj8A
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1694372814593,
+			"updated": 1694373122126,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 81,
-			"versionNonce": 774554822,
+			"version": 83,
+			"versionNonce": 18491142,
 			"isDeleted": false,
 			"id": "joXSXSfj",
 			"fillStyle": "hachure",
@@ -365,8 +365,8 @@ Pleomorphic ^w1o9Mj8A
 			"angle": 0,
 			"x": -2.8207675797957563,
 			"y": -167.82509631019434,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#a5d8ff",
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 114.45713806152344,
 			"height": 50.03336806442253,
 			"seed": 839281470,
@@ -374,7 +374,7 @@ Pleomorphic ^w1o9Mj8A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1694372814593,
+			"updated": 1694373122126,
 			"link": null,
 			"locked": false,
 			"fontSize": 40.02669445153803,
@@ -390,8 +390,8 @@ Pleomorphic ^w1o9Mj8A
 		},
 		{
 			"type": "freedraw",
-			"version": 301,
-			"versionNonce": 845501082,
+			"version": 303,
+			"versionNonce": 1380201562,
 			"isDeleted": false,
 			"id": "ZNVE3Hd3ZamvLhIZ8RNgq",
 			"fillStyle": "hachure",
@@ -402,8 +402,8 @@ Pleomorphic ^w1o9Mj8A
 			"angle": 0,
 			"x": 301.1689543111406,
 			"y": -99.39909028644185,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#a5d8ff",
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 49.777056566300466,
 			"height": 174.99517306202836,
 			"seed": 398575522,
@@ -411,7 +411,7 @@ Pleomorphic ^w1o9Mj8A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1694372814593,
+			"updated": 1694373122126,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -998,8 +998,8 @@ Pleomorphic ^w1o9Mj8A
 		},
 		{
 			"type": "freedraw",
-			"version": 353,
-			"versionNonce": 255998982,
+			"version": 355,
+			"versionNonce": 176903750,
 			"isDeleted": false,
 			"id": "p66qLX1g5fPcvOjGWg0Wh",
 			"fillStyle": "hachure",
@@ -1010,8 +1010,8 @@ Pleomorphic ^w1o9Mj8A
 			"angle": 0,
 			"x": 309.44365115307005,
 			"y": -106.26060044967441,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#a5d8ff",
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 35.031920088576605,
 			"height": 176.26615227620226,
 			"seed": 1426612066,
@@ -1019,7 +1019,7 @@ Pleomorphic ^w1o9Mj8A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1694372814593,
+			"updated": 1694373122126,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1786,8 +1786,8 @@ Pleomorphic ^w1o9Mj8A
 		},
 		{
 			"type": "freedraw",
-			"version": 241,
-			"versionNonce": 705949530,
+			"version": 243,
+			"versionNonce": 925931802,
 			"isDeleted": false,
 			"id": "ibvha87Vju-zE5D8Qyuw_",
 			"fillStyle": "hachure",
@@ -1798,8 +1798,8 @@ Pleomorphic ^w1o9Mj8A
 			"angle": 0,
 			"x": 314.04761781700086,
 			"y": -54.32376801593162,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#a5d8ff",
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 11.483252760228586,
 			"height": 22.379899729299986,
 			"seed": 1113305506,
@@ -1807,7 +1807,7 @@ Pleomorphic ^w1o9Mj8A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1694372814593,
+			"updated": 1694373122126,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1824,7 +1824,7 @@ Pleomorphic ^w1o9Mj8A
 					1.1554356492490065
 				],
 				[
-					1.4576265113602853,
+					1.4576265113602858,
 					2.0353443359847887
 				],
 				[
@@ -1856,7 +1856,7 @@ Pleomorphic ^w1o9Mj8A
 					4.843941760313142
 				],
 				[
-					2.861925223524462,
+					2.8619252235244623,
 					5.119468722826366
 				],
 				[
@@ -1864,7 +1864,7 @@ Pleomorphic ^w1o9Mj8A
 					5.723850447048925
 				],
 				[
-					2.861925223524463,
+					2.861925223524464,
 					6.32823217127148
 				],
 				[
@@ -1904,11 +1904,11 @@ Pleomorphic ^w1o9Mj8A
 					11.118846132388516
 				],
 				[
-					5.0661409236302575,
-					12.220953982441412
+					5.066140923630256,
+					12.220953982441413
 				],
 				[
-					5.341667886143482,
+					5.34166788614348,
 					12.220953982441412
 				],
 				[
@@ -1920,11 +1920,11 @@ Pleomorphic ^w1o9Mj8A
 					12.772007907467863
 				],
 				[
-					6.443775736196381,
-					13.047534869981087
+					6.4437757361963826,
+					13.047534869981085
 				],
 				[
-					6.994829661222832,
+					6.994829661222835,
 					13.323061832494314
 				],
 				[
@@ -1932,11 +1932,11 @@ Pleomorphic ^w1o9Mj8A
 					13.598588795007537
 				],
 				[
-					7.270356623736058,
-					13.598588795007537
+					7.27035662373606,
+					13.598588795007538
 				],
 				[
-					7.270356623736053,
+					7.270356623736051,
 					13.874115757520762
 				],
 				[
@@ -1948,7 +1948,7 @@ Pleomorphic ^w1o9Mj8A
 					15.056215306367825
 				],
 				[
-					8.727983135096341,
+					8.727983135096345,
 					15.331742268881044
 				],
 				[
@@ -1960,7 +1960,7 @@ Pleomorphic ^w1o9Mj8A
 					16.15832315642072
 				],
 				[
-					9.279037060122795,
+					9.279037060122798,
 					16.433850118933947
 				],
 				[
@@ -1988,8 +1988,8 @@ Pleomorphic ^w1o9Mj8A
 					19.295775342458413
 				],
 				[
-					10.656671872688914,
-					19.90015706668097
+					10.65667187268891,
+					19.900157066680972
 				],
 				[
 					10.93219883520214,
@@ -2016,7 +2016,7 @@ Pleomorphic ^w1o9Mj8A
 					21.828845804273538
 				],
 				[
-					11.483252760228591,
+					11.483252760228595,
 					22.10437276678676
 				],
 				[
@@ -2036,7 +2036,7 @@ Pleomorphic ^w1o9Mj8A
 					21.211132130251954
 				],
 				[
-					11.483252760228588,
+					11.483252760228586,
 					20.2290118283903
 				],
 				[
@@ -2044,7 +2044,7 @@ Pleomorphic ^w1o9Mj8A
 					19.011360413412497
 				],
 				[
-					11.48325276022859,
+					11.483252760228593,
 					18.731389467632937
 				],
 				[
@@ -2065,7 +2065,7 @@ Pleomorphic ^w1o9Mj8A
 				],
 				[
 					10.310041177914208,
-					15.225086670488832
+					15.225086670488835
 				],
 				[
 					10.030070232134642,
@@ -2112,7 +2112,7 @@ Pleomorphic ^w1o9Mj8A
 					9.007954080875907
 				],
 				[
-					7.074821360016995,
+					7.074821360016996,
 					8.727983135096341
 				],
 				[
@@ -2150,8 +2150,8 @@ Pleomorphic ^w1o9Mj8A
 		},
 		{
 			"type": "freedraw",
-			"version": 226,
-			"versionNonce": 619236166,
+			"version": 228,
+			"versionNonce": 76848518,
 			"isDeleted": false,
 			"id": "vWw2synTkcC5sfV891SPv",
 			"fillStyle": "hachure",
@@ -2162,8 +2162,8 @@ Pleomorphic ^w1o9Mj8A
 			"angle": 0,
 			"x": 345.0221811834068,
 			"y": 44.85260653903026,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#a5d8ff",
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 9.247929177258394,
 			"height": 22.162144549249213,
 			"seed": 1733318754,
@@ -2171,7 +2171,7 @@ Pleomorphic ^w1o9Mj8A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1694372814593,
+			"updated": 1694373122126,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2192,8 +2192,8 @@ Pleomorphic ^w1o9Mj8A
 					6.9015060126296435
 				],
 				[
-					-6.412667853331986,
-					7.177032975142866
+					-6.412667853331987,
+					7.1770329751428665
 				],
 				[
 					-6.412667853331986,
@@ -2224,7 +2224,7 @@ Pleomorphic ^w1o9Mj8A
 					12.225397965707756
 				],
 				[
-					-6.1104769912207075,
+					-6.11047699122071,
 					12.77645189073421
 				],
 				[
@@ -2308,11 +2308,11 @@ Pleomorphic ^w1o9Mj8A
 					14.967335641040975
 				],
 				[
-					-0.7421452054791704,
-					14.078538987772513
+					-0.7421452054791686,
+					14.078538987772514
 				],
 				[
-					-0.4666182429659438,
+					-0.4666182429659447,
 					13.798568041992944
 				],
 				[
@@ -2320,11 +2320,11 @@ Pleomorphic ^w1o9Mj8A
 					13.238626150433808
 				],
 				[
-					0.08443568206050234,
+					0.08443568206050145,
 					12.629800442944909
 				],
 				[
-					0.6843734230167211,
+					0.6843734230167229,
 					11.367709195303686
 				],
 				[
@@ -2393,7 +2393,7 @@ Pleomorphic ^w1o9Mj8A
 				],
 				[
 					2.8352613239264084,
-					-5.235012287751267
+					-5.235012287751266
 				],
 				[
 					2.5552903781468403,
@@ -2408,12 +2408,12 @@ Pleomorphic ^w1o9Mj8A
 					-6.354896070869536
 				],
 				[
-					1.1554356492490068,
+					1.1554356492490072,
 					-6.354896070869537
 				],
 				[
-					0.8754647034694387,
-					-6.354896070869536
+					0.8754647034694392,
+					-6.354896070869537
 				],
 				[
 					0.5954937576898724,
@@ -2454,8 +2454,8 @@ Pleomorphic ^w1o9Mj8A
 		},
 		{
 			"type": "freedraw",
-			"version": 162,
-			"versionNonce": 324072474,
+			"version": 164,
+			"versionNonce": 850552282,
 			"isDeleted": false,
 			"id": "ZbgE0YvAn0l7-4RCIbCgq",
 			"fillStyle": "hachure",
@@ -2466,8 +2466,8 @@ Pleomorphic ^w1o9Mj8A
 			"angle": 0,
 			"x": 341.3603389719408,
 			"y": 45.11480155174445,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#a5d8ff",
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 0.5599418915591339,
 			"height": 0,
 			"seed": 220403426,
@@ -2475,7 +2475,7 @@ Pleomorphic ^w1o9Mj8A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1694372814593,
+			"updated": 1694373122126,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2502,8 +2502,8 @@ Pleomorphic ^w1o9Mj8A
 		},
 		{
 			"type": "freedraw",
-			"version": 268,
-			"versionNonce": 1031500422,
+			"version": 270,
+			"versionNonce": 1416821958,
 			"isDeleted": false,
 			"id": "Km5HxMN7ipaQOBm6zVcaq",
 			"fillStyle": "hachure",
@@ -2514,8 +2514,8 @@ Pleomorphic ^w1o9Mj8A
 			"angle": 0,
 			"x": 447.8915058326992,
 			"y": -97.88813597588545,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#a5d8ff",
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 69.14393564102035,
 			"height": 187.3672224755254,
 			"seed": 882428962,
@@ -2523,7 +2523,7 @@ Pleomorphic ^w1o9Mj8A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1694372814593,
+			"updated": 1694373122126,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2982,8 +2982,8 @@ Pleomorphic ^w1o9Mj8A
 		},
 		{
 			"type": "freedraw",
-			"version": 304,
-			"versionNonce": 1007834,
+			"version": 306,
+			"versionNonce": 500996762,
 			"isDeleted": false,
 			"id": "LGRPSwmynVJ3hLb6-HIKi",
 			"fillStyle": "hachure",
@@ -2994,8 +2994,8 @@ Pleomorphic ^w1o9Mj8A
 			"angle": 0,
 			"x": 376.4900266923769,
 			"y": 84.22185429555702,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#a5d8ff",
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 77.79637106058887,
 			"height": 186.1362391107486,
 			"seed": 164355042,
@@ -3003,7 +3003,7 @@ Pleomorphic ^w1o9Mj8A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1694372814593,
+			"updated": 1694373122126,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3606,8 +3606,8 @@ Pleomorphic ^w1o9Mj8A
 		},
 		{
 			"type": "freedraw",
-			"version": 201,
-			"versionNonce": 1404514758,
+			"version": 203,
+			"versionNonce": 801338374,
 			"isDeleted": false,
 			"id": "NF65YnLKojILBz5CAeCAO",
 			"fillStyle": "hachure",
@@ -3618,8 +3618,8 @@ Pleomorphic ^w1o9Mj8A
 			"angle": 0,
 			"x": 418.50788847564365,
 			"y": -8.8707071677822,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#a5d8ff",
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 12.11874236731554,
 			"height": 24.424132031817457,
 			"seed": 229075070,
@@ -3627,7 +3627,7 @@ Pleomorphic ^w1o9Mj8A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1694372814593,
+			"updated": 1694373122126,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3688,16 +3688,16 @@ Pleomorphic ^w1o9Mj8A
 					14.842904109583392
 				],
 				[
-					-12.11874236731554,
-					15.393958034609843
+					-12.118742367315537,
+					15.393958034609845
 				],
 				[
 					-12.11874236731554,
 					17.39375050446389
 				],
 				[
-					-11.843215404802311,
-					17.669277466977114
+					-11.84321540480231,
+					17.669277466977118
 				],
 				[
 					-11.54102454269104,
@@ -3724,24 +3724,24 @@ Pleomorphic ^w1o9Mj8A
 					13.989659322445661
 				],
 				[
-					-4.244004019356928,
-					12.025418718722353
+					-4.244004019356927,
+					12.025418718722351
 				],
 				[
 					-3.5951824624709476,
 					11.043298416860697
 				],
 				[
-					-2.946360905584966,
+					-2.9463609055849664,
 					9.03461798047396
 				],
 				[
-					-2.621950127141976,
+					-2.6219501271419756,
 					8.052497678612308
 				],
 				[
-					-1.9286887375925719,
-					5.2083483881532135
+					-1.9286887375925714,
+					5.208348388153214
 				],
 				[
 					-1.6531617750793481,
@@ -3768,12 +3768,12 @@ Pleomorphic ^w1o9Mj8A
 					-0.8221369042733315
 				],
 				[
-					-0.10221161512587384,
+					-0.10221161512587396,
 					-1.1021078500528982
 				],
 				[
-					-0.10221161512587318,
-					-3.5818505126719193
+					-0.10221161512587296,
+					-3.58185051267192
 				],
 				[
 					-0.1022116151258734,
@@ -3814,8 +3814,8 @@ Pleomorphic ^w1o9Mj8A
 		},
 		{
 			"type": "freedraw",
-			"version": 221,
-			"versionNonce": 1273116058,
+			"version": 223,
+			"versionNonce": 929183578,
 			"isDeleted": false,
 			"id": "AKwAcCwjVizNR5SBp-eXP",
 			"fillStyle": "hachure",
@@ -3826,8 +3826,8 @@ Pleomorphic ^w1o9Mj8A
 			"angle": 0,
 			"x": 452.122177902257,
 			"y": -96.91045965729015,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#a5d8ff",
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 20.908941268140673,
 			"height": 26.677231547853022,
 			"seed": 327457790,
@@ -3835,7 +3835,7 @@ Pleomorphic ^w1o9Mj8A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1694372814593,
+			"updated": 1694373122126,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3865,7 +3865,7 @@ Pleomorphic ^w1o9Mj8A
 				],
 				[
 					-2.6708339430717407,
-					3.71517001066219
+					3.7151700106621903
 				],
 				[
 					-3.284103633826984,
@@ -3876,8 +3876,8 @@ Pleomorphic ^w1o9Mj8A
 					5.528315183329861
 				],
 				[
-					-4.506199032071126,
-					6.737078631774978
+					-4.506199032071125,
+					6.7370786317749785
 				],
 				[
 					-4.812833877448745,
@@ -3900,8 +3900,8 @@ Pleomorphic ^w1o9Mj8A
 					11.038854433594356
 				],
 				[
-					-8.256920908864053,
-					12.016530752189663
+					-8.256920908864057,
+					12.016530752189661
 				],
 				[
 					-9.519012156505275,
@@ -3964,8 +3964,8 @@ Pleomorphic ^w1o9Mj8A
 					22.659870675079553
 				],
 				[
-					-20.34899937658155,
-					24.419688048551116
+					-20.348999376581553,
+					24.419688048551112
 				],
 				[
 					-20.348999376581542,
@@ -3988,8 +3988,8 @@ Pleomorphic ^w1o9Mj8A
 					25.797322861117237
 				],
 				[
-					-20.908941268140676,
-					26.401704585339807
+					-20.908941268140673,
+					26.40170458533981
 				],
 				[
 					-20.908941268140673,
@@ -4024,7 +4024,7 @@ Pleomorphic ^w1o9Mj8A
 					14.282962218024258
 				],
 				[
-					-12.57202866048246,
+					-12.572028660482461,
 					13.3008419161626
 				],
 				[
@@ -4032,7 +4032,7 @@ Pleomorphic ^w1o9Mj8A
 					9.945634550074141
 				],
 				[
-					-10.741107554749416,
+					-10.741107554749414,
 					8.963514248212485
 				],
 				[
@@ -4077,7 +4077,7 @@ Pleomorphic ^w1o9Mj8A
 				],
 				[
 					-8.181373193336235,
-					4.897269559509248
+					4.8972695595092475
 				],
 				[
 					-7.630319268309783,
@@ -4102,8 +4102,8 @@ Pleomorphic ^w1o9Mj8A
 		},
 		{
 			"type": "freedraw",
-			"version": 158,
-			"versionNonce": 45680902,
+			"version": 160,
+			"versionNonce": 277021510,
 			"isDeleted": false,
 			"id": "PgpkSXGCk9nXhaIIQQhwm",
 			"fillStyle": "hachure",
@@ -4114,8 +4114,8 @@ Pleomorphic ^w1o9Mj8A
 			"angle": 0,
 			"x": 413.91725376151203,
 			"y": -8.901815050646604,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#a5d8ff",
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 0.0001137659716183637,
 			"height": 0.0001137659716183637,
 			"seed": 908149886,
@@ -4123,7 +4123,7 @@ Pleomorphic ^w1o9Mj8A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1694372814593,
+			"updated": 1694373122126,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4142,8 +4142,8 @@ Pleomorphic ^w1o9Mj8A
 		},
 		{
 			"type": "freedraw",
-			"version": 158,
-			"versionNonce": 1744597594,
+			"version": 160,
+			"versionNonce": 1872116762,
 			"isDeleted": false,
 			"id": "at3DN6-EP5QvCNMldZyuv",
 			"fillStyle": "hachure",
@@ -4154,8 +4154,8 @@ Pleomorphic ^w1o9Mj8A
 			"angle": 0,
 			"x": 410.49983062969477,
 			"y": -9.403985159743286,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#a5d8ff",
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 0.0001137659716183637,
 			"height": 0.0001137659716183637,
 			"seed": 733506878,
@@ -4163,7 +4163,7 @@ Pleomorphic ^w1o9Mj8A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1694372814593,
+			"updated": 1694373122126,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4182,8 +4182,8 @@ Pleomorphic ^w1o9Mj8A
 		},
 		{
 			"type": "freedraw",
-			"version": 405,
-			"versionNonce": 2046687302,
+			"version": 407,
+			"versionNonce": 688827014,
 			"isDeleted": false,
 			"id": "JRHm9i7L8dqUlmOhOEXmK",
 			"fillStyle": "hachure",
@@ -4194,8 +4194,8 @@ Pleomorphic ^w1o9Mj8A
 			"angle": 0.3879845467476617,
 			"x": 430.043673761048,
 			"y": -54.864591685842754,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#a5d8ff",
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 49.777056566300466,
 			"height": 174.99517306202836,
 			"seed": 1372571234,
@@ -4203,7 +4203,7 @@ Pleomorphic ^w1o9Mj8A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1694372814593,
+			"updated": 1694373122126,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4790,8 +4790,8 @@ Pleomorphic ^w1o9Mj8A
 		},
 		{
 			"type": "freedraw",
-			"version": 325,
-			"versionNonce": 657528602,
+			"version": 327,
+			"versionNonce": 879470810,
 			"isDeleted": false,
 			"id": "74ieVtDcE66Cn4Ik114me",
 			"fillStyle": "hachure",
@@ -4802,8 +4802,8 @@ Pleomorphic ^w1o9Mj8A
 			"angle": 0.3879845467476617,
 			"x": 455.130825506217,
 			"y": -9.466060312154355,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#a5d8ff",
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 11.483252760228586,
 			"height": 22.379899729299986,
 			"seed": 2056038946,
@@ -4811,7 +4811,7 @@ Pleomorphic ^w1o9Mj8A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1694372814593,
+			"updated": 1694373122126,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4828,7 +4828,7 @@ Pleomorphic ^w1o9Mj8A
 					1.1554356492490065
 				],
 				[
-					1.4576265113602853,
+					1.4576265113602858,
 					2.0353443359847887
 				],
 				[
@@ -4860,7 +4860,7 @@ Pleomorphic ^w1o9Mj8A
 					4.843941760313142
 				],
 				[
-					2.861925223524462,
+					2.8619252235244623,
 					5.119468722826366
 				],
 				[
@@ -4868,7 +4868,7 @@ Pleomorphic ^w1o9Mj8A
 					5.723850447048925
 				],
 				[
-					2.861925223524463,
+					2.861925223524464,
 					6.32823217127148
 				],
 				[
@@ -4908,11 +4908,11 @@ Pleomorphic ^w1o9Mj8A
 					11.118846132388516
 				],
 				[
-					5.0661409236302575,
-					12.220953982441412
+					5.066140923630256,
+					12.220953982441413
 				],
 				[
-					5.341667886143482,
+					5.34166788614348,
 					12.220953982441412
 				],
 				[
@@ -4924,11 +4924,11 @@ Pleomorphic ^w1o9Mj8A
 					12.772007907467863
 				],
 				[
-					6.443775736196381,
-					13.047534869981087
+					6.4437757361963826,
+					13.047534869981085
 				],
 				[
-					6.994829661222832,
+					6.994829661222835,
 					13.323061832494314
 				],
 				[
@@ -4936,11 +4936,11 @@ Pleomorphic ^w1o9Mj8A
 					13.598588795007537
 				],
 				[
-					7.270356623736058,
-					13.598588795007537
+					7.27035662373606,
+					13.598588795007538
 				],
 				[
-					7.270356623736053,
+					7.270356623736051,
 					13.874115757520762
 				],
 				[
@@ -4952,7 +4952,7 @@ Pleomorphic ^w1o9Mj8A
 					15.056215306367825
 				],
 				[
-					8.727983135096341,
+					8.727983135096345,
 					15.331742268881044
 				],
 				[
@@ -4964,7 +4964,7 @@ Pleomorphic ^w1o9Mj8A
 					16.15832315642072
 				],
 				[
-					9.279037060122795,
+					9.279037060122798,
 					16.433850118933947
 				],
 				[
@@ -4992,8 +4992,8 @@ Pleomorphic ^w1o9Mj8A
 					19.295775342458413
 				],
 				[
-					10.656671872688914,
-					19.90015706668097
+					10.65667187268891,
+					19.900157066680972
 				],
 				[
 					10.93219883520214,
@@ -5020,7 +5020,7 @@ Pleomorphic ^w1o9Mj8A
 					21.828845804273538
 				],
 				[
-					11.483252760228591,
+					11.483252760228595,
 					22.10437276678676
 				],
 				[
@@ -5040,7 +5040,7 @@ Pleomorphic ^w1o9Mj8A
 					21.211132130251954
 				],
 				[
-					11.483252760228588,
+					11.483252760228586,
 					20.2290118283903
 				],
 				[
@@ -5048,7 +5048,7 @@ Pleomorphic ^w1o9Mj8A
 					19.011360413412497
 				],
 				[
-					11.48325276022859,
+					11.483252760228593,
 					18.731389467632937
 				],
 				[
@@ -5069,7 +5069,7 @@ Pleomorphic ^w1o9Mj8A
 				],
 				[
 					10.310041177914208,
-					15.225086670488832
+					15.225086670488835
 				],
 				[
 					10.030070232134642,
@@ -5116,7 +5116,7 @@ Pleomorphic ^w1o9Mj8A
 					9.007954080875907
 				],
 				[
-					7.074821360016995,
+					7.074821360016996,
 					8.727983135096341
 				],
 				[
@@ -5154,8 +5154,8 @@ Pleomorphic ^w1o9Mj8A
 		},
 		{
 			"type": "freedraw",
-			"version": 310,
-			"versionNonce": 1902313350,
+			"version": 312,
+			"versionNonce": 1478715846,
 			"isDeleted": false,
 			"id": "B5q-lOdD_HYwTKPGDo9Wn",
 			"fillStyle": "hachure",
@@ -5166,8 +5166,8 @@ Pleomorphic ^w1o9Mj8A
 			"angle": 0.3879845467476617,
 			"x": 449.2875007134021,
 			"y": 91.68881021807584,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#a5d8ff",
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 9.247929177258394,
 			"height": 22.162144549249213,
 			"seed": 158799330,
@@ -5175,7 +5175,7 @@ Pleomorphic ^w1o9Mj8A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1694372814593,
+			"updated": 1694373122126,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5196,8 +5196,8 @@ Pleomorphic ^w1o9Mj8A
 					6.9015060126296435
 				],
 				[
-					-6.412667853331986,
-					7.177032975142866
+					-6.412667853331987,
+					7.1770329751428665
 				],
 				[
 					-6.412667853331986,
@@ -5228,7 +5228,7 @@ Pleomorphic ^w1o9Mj8A
 					12.225397965707756
 				],
 				[
-					-6.1104769912207075,
+					-6.11047699122071,
 					12.77645189073421
 				],
 				[
@@ -5312,11 +5312,11 @@ Pleomorphic ^w1o9Mj8A
 					14.967335641040975
 				],
 				[
-					-0.7421452054791704,
-					14.078538987772513
+					-0.7421452054791686,
+					14.078538987772514
 				],
 				[
-					-0.4666182429659438,
+					-0.4666182429659447,
 					13.798568041992944
 				],
 				[
@@ -5324,11 +5324,11 @@ Pleomorphic ^w1o9Mj8A
 					13.238626150433808
 				],
 				[
-					0.08443568206050234,
+					0.08443568206050145,
 					12.629800442944909
 				],
 				[
-					0.6843734230167211,
+					0.6843734230167229,
 					11.367709195303686
 				],
 				[
@@ -5397,7 +5397,7 @@ Pleomorphic ^w1o9Mj8A
 				],
 				[
 					2.8352613239264084,
-					-5.235012287751267
+					-5.235012287751266
 				],
 				[
 					2.5552903781468403,
@@ -5412,12 +5412,12 @@ Pleomorphic ^w1o9Mj8A
 					-6.354896070869536
 				],
 				[
-					1.1554356492490068,
+					1.1554356492490072,
 					-6.354896070869537
 				],
 				[
-					0.8754647034694387,
-					-6.354896070869536
+					0.8754647034694392,
+					-6.354896070869537
 				],
 				[
 					0.5954937576898724,
@@ -5458,8 +5458,8 @@ Pleomorphic ^w1o9Mj8A
 		},
 		{
 			"type": "freedraw",
-			"version": 246,
-			"versionNonce": 166929370,
+			"version": 248,
+			"versionNonce": 1031110042,
 			"isDeleted": false,
 			"id": "V-rUZDedVeBKtIGCdiDmU",
 			"fillStyle": "hachure",
@@ -5470,8 +5470,8 @@ Pleomorphic ^w1o9Mj8A
 			"angle": 0.3879845467476617,
 			"x": 447.4745209055593,
 			"y": 91.46822548675232,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#a5d8ff",
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 0.5599418915591339,
 			"height": 0,
 			"seed": 1872628130,
@@ -5479,7 +5479,7 @@ Pleomorphic ^w1o9Mj8A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1694372814593,
+			"updated": 1694373122126,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5506,8 +5506,8 @@ Pleomorphic ^w1o9Mj8A
 		},
 		{
 			"type": "freedraw",
-			"version": 454,
-			"versionNonce": 488971974,
+			"version": 456,
+			"versionNonce": 484327686,
 			"isDeleted": false,
 			"id": "qkF3ZRM7a8F8IRPlD-bOG",
 			"fillStyle": "hachure",
@@ -5518,8 +5518,8 @@ Pleomorphic ^w1o9Mj8A
 			"angle": 5.495822555704998,
 			"x": 565.7476223476849,
 			"y": -81.39047147724314,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#a5d8ff",
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 69.14393564102035,
 			"height": 187.3672224755254,
 			"seed": 607159650,
@@ -5527,7 +5527,7 @@ Pleomorphic ^w1o9Mj8A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1694372814593,
+			"updated": 1694373122126,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5986,8 +5986,8 @@ Pleomorphic ^w1o9Mj8A
 		},
 		{
 			"type": "freedraw",
-			"version": 490,
-			"versionNonce": 173381786,
+			"version": 492,
+			"versionNonce": 1474738778,
 			"isDeleted": false,
 			"id": "jG57HxKF7-06a8s79kVwy",
 			"fillStyle": "hachure",
@@ -5998,8 +5998,8 @@ Pleomorphic ^w1o9Mj8A
 			"angle": 5.495822555704998,
 			"x": 490.44871794625556,
 			"y": 100.61986314443794,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#a5d8ff",
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 77.79637106058887,
 			"height": 186.1362391107486,
 			"seed": 1618839842,
@@ -6007,7 +6007,7 @@ Pleomorphic ^w1o9Mj8A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1694372814593,
+			"updated": 1694373122126,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6610,8 +6610,8 @@ Pleomorphic ^w1o9Mj8A
 		},
 		{
 			"type": "freedraw",
-			"version": 387,
-			"versionNonce": 568415750,
+			"version": 389,
+			"versionNonce": 180105286,
 			"isDeleted": false,
 			"id": "yaSjQngokSLCC6Zuhf6PQ",
 			"fillStyle": "hachure",
@@ -6622,8 +6622,8 @@ Pleomorphic ^w1o9Mj8A
 			"angle": 5.495822555704998,
 			"x": 537.608973202853,
 			"y": 7.833424082810268,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#a5d8ff",
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 12.11874236731554,
 			"height": 24.424132031817457,
 			"seed": 1542722786,
@@ -6631,7 +6631,7 @@ Pleomorphic ^w1o9Mj8A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1694372814594,
+			"updated": 1694373122126,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6692,16 +6692,16 @@ Pleomorphic ^w1o9Mj8A
 					14.842904109583392
 				],
 				[
-					-12.11874236731554,
-					15.393958034609843
+					-12.118742367315537,
+					15.393958034609845
 				],
 				[
 					-12.11874236731554,
 					17.39375050446389
 				],
 				[
-					-11.843215404802311,
-					17.669277466977114
+					-11.84321540480231,
+					17.669277466977118
 				],
 				[
 					-11.54102454269104,
@@ -6728,24 +6728,24 @@ Pleomorphic ^w1o9Mj8A
 					13.989659322445661
 				],
 				[
-					-4.244004019356928,
-					12.025418718722353
+					-4.244004019356927,
+					12.025418718722351
 				],
 				[
 					-3.5951824624709476,
 					11.043298416860697
 				],
 				[
-					-2.946360905584966,
+					-2.9463609055849664,
 					9.03461798047396
 				],
 				[
-					-2.621950127141976,
+					-2.6219501271419756,
 					8.052497678612308
 				],
 				[
-					-1.9286887375925719,
-					5.2083483881532135
+					-1.9286887375925714,
+					5.208348388153214
 				],
 				[
 					-1.6531617750793481,
@@ -6772,12 +6772,12 @@ Pleomorphic ^w1o9Mj8A
 					-0.8221369042733315
 				],
 				[
-					-0.10221161512587384,
+					-0.10221161512587396,
 					-1.1021078500528982
 				],
 				[
-					-0.10221161512587318,
-					-3.5818505126719193
+					-0.10221161512587296,
+					-3.58185051267192
 				],
 				[
 					-0.1022116151258734,
@@ -6818,8 +6818,8 @@ Pleomorphic ^w1o9Mj8A
 		},
 		{
 			"type": "freedraw",
-			"version": 407,
-			"versionNonce": 1745581402,
+			"version": 409,
+			"versionNonce": 848453402,
 			"isDeleted": false,
 			"id": "CURivhYdsoCl6XyfGorws",
 			"fillStyle": "hachure",
@@ -6830,8 +6830,8 @@ Pleomorphic ^w1o9Mj8A
 			"angle": 5.495822555704998,
 			"x": 505.4045725123916,
 			"y": -77.14080690666457,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#a5d8ff",
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 20.908941268140673,
 			"height": 26.677231547853022,
 			"seed": 136521890,
@@ -6839,7 +6839,7 @@ Pleomorphic ^w1o9Mj8A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1694372814594,
+			"updated": 1694373122126,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6869,7 +6869,7 @@ Pleomorphic ^w1o9Mj8A
 				],
 				[
 					-2.6708339430717407,
-					3.71517001066219
+					3.7151700106621903
 				],
 				[
 					-3.284103633826984,
@@ -6880,8 +6880,8 @@ Pleomorphic ^w1o9Mj8A
 					5.528315183329861
 				],
 				[
-					-4.506199032071126,
-					6.737078631774978
+					-4.506199032071125,
+					6.7370786317749785
 				],
 				[
 					-4.812833877448745,
@@ -6904,8 +6904,8 @@ Pleomorphic ^w1o9Mj8A
 					11.038854433594356
 				],
 				[
-					-8.256920908864053,
-					12.016530752189663
+					-8.256920908864057,
+					12.016530752189661
 				],
 				[
 					-9.519012156505275,
@@ -6968,8 +6968,8 @@ Pleomorphic ^w1o9Mj8A
 					22.659870675079553
 				],
 				[
-					-20.34899937658155,
-					24.419688048551116
+					-20.348999376581553,
+					24.419688048551112
 				],
 				[
 					-20.348999376581542,
@@ -6992,8 +6992,8 @@ Pleomorphic ^w1o9Mj8A
 					25.797322861117237
 				],
 				[
-					-20.908941268140676,
-					26.401704585339807
+					-20.908941268140673,
+					26.40170458533981
 				],
 				[
 					-20.908941268140673,
@@ -7028,7 +7028,7 @@ Pleomorphic ^w1o9Mj8A
 					14.282962218024258
 				],
 				[
-					-12.57202866048246,
+					-12.572028660482461,
 					13.3008419161626
 				],
 				[
@@ -7036,7 +7036,7 @@ Pleomorphic ^w1o9Mj8A
 					9.945634550074141
 				],
 				[
-					-10.741107554749416,
+					-10.741107554749414,
 					8.963514248212485
 				],
 				[
@@ -7081,7 +7081,7 @@ Pleomorphic ^w1o9Mj8A
 				],
 				[
 					-8.181373193336235,
-					4.897269559509248
+					4.8972695595092475
 				],
 				[
 					-7.630319268309783,
@@ -7106,8 +7106,8 @@ Pleomorphic ^w1o9Mj8A
 		},
 		{
 			"type": "freedraw",
-			"version": 344,
-			"versionNonce": 143959366,
+			"version": 346,
+			"versionNonce": 1033516934,
 			"isDeleted": false,
 			"id": "vdKctAfwLpV-exeZWrMze",
 			"fillStyle": "hachure",
@@ -7118,8 +7118,8 @@ Pleomorphic ^w1o9Mj8A
 			"angle": 5.495822555704998,
 			"x": 528.2694910316426,
 			"y": 8.554650269070464,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#a5d8ff",
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 0.0001137659716183637,
 			"height": 0.0001137659716183637,
 			"seed": 1287242850,
@@ -7127,7 +7127,7 @@ Pleomorphic ^w1o9Mj8A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1694372814594,
+			"updated": 1694373122126,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7146,8 +7146,8 @@ Pleomorphic ^w1o9Mj8A
 		},
 		{
 			"type": "freedraw",
-			"version": 344,
-			"versionNonce": 1952954906,
+			"version": 346,
+			"versionNonce": 703294426,
 			"isDeleted": false,
 			"id": "fgxJp9YhN2uiMcxxhAqXH",
 			"fillStyle": "hachure",
@@ -7158,8 +7158,8 @@ Pleomorphic ^w1o9Mj8A
 			"angle": 5.495822555704998,
 			"x": 525.5019752098744,
 			"y": 10.621486463985605,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#a5d8ff",
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 0.0001137659716183637,
 			"height": 0.0001137659716183637,
 			"seed": 1132914722,
@@ -7167,7 +7167,7 @@ Pleomorphic ^w1o9Mj8A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1694372814594,
+			"updated": 1694373122126,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7186,8 +7186,8 @@ Pleomorphic ^w1o9Mj8A
 		},
 		{
 			"type": "text",
-			"version": 78,
-			"versionNonce": 849087622,
+			"version": 80,
+			"versionNonce": 1303729862,
 			"isDeleted": false,
 			"id": "suarRFkZ",
 			"fillStyle": "hachure",
@@ -7198,8 +7198,8 @@ Pleomorphic ^w1o9Mj8A
 			"angle": 0,
 			"x": 322.0677808610279,
 			"y": -196.62555380227755,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#a5d8ff",
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 126.54318237304688,
 			"height": 50.03336806442253,
 			"seed": 912402302,
@@ -7207,7 +7207,7 @@ Pleomorphic ^w1o9Mj8A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1694372814594,
+			"updated": 1694373122126,
 			"link": null,
 			"locked": false,
 			"fontSize": 40.02669445153803,
@@ -7223,8 +7223,8 @@ Pleomorphic ^w1o9Mj8A
 		},
 		{
 			"type": "freedraw",
-			"version": 367,
-			"versionNonce": 1583179482,
+			"version": 369,
+			"versionNonce": 335863962,
 			"isDeleted": false,
 			"id": "aL1GxDYID1o3HVBORlSMZ",
 			"fillStyle": "hachure",
@@ -7235,8 +7235,8 @@ Pleomorphic ^w1o9Mj8A
 			"angle": 0,
 			"x": 720.046582491218,
 			"y": -87.88354976024264,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#a5d8ff",
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 251.51685755609483,
 			"height": 61.48484081206109,
 			"seed": 1103300286,
@@ -7244,7 +7244,7 @@ Pleomorphic ^w1o9Mj8A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1694372814594,
+			"updated": 1694373122126,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8307,8 +8307,8 @@ Pleomorphic ^w1o9Mj8A
 		},
 		{
 			"type": "freedraw",
-			"version": 327,
-			"versionNonce": 1303677894,
+			"version": 329,
+			"versionNonce": 1135250950,
 			"isDeleted": false,
 			"id": "M5f_S__AFlOBMigShUV6F",
 			"fillStyle": "hachure",
@@ -8319,8 +8319,8 @@ Pleomorphic ^w1o9Mj8A
 			"angle": 0,
 			"x": 720.4879272435703,
 			"y": -19.480629955061374,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#a5d8ff",
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 161.90732240039202,
 			"height": 150.26133774769923,
 			"seed": 880403326,
@@ -8328,7 +8328,7 @@ Pleomorphic ^w1o9Mj8A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1694372814594,
+			"updated": 1694373122126,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -8362,11 +8362,11 @@ Pleomorphic ^w1o9Mj8A
 				],
 				[
 					18.39304255427651,
-					13.46101494674106
+					13.461014946741056
 				],
 				[
 					22.232741899740347,
-					15.651188280288675
+					15.651188280288677
 				],
 				[
 					27.47922764332672,
@@ -8394,11 +8394,11 @@ Pleomorphic ^w1o9Mj8A
 				],
 				[
 					47.09700188538048,
-					26.541370044578375
+					26.54137004457838
 				],
 				[
 					54.599862675367305,
-					29.76870354615357
+					29.768703546153578
 				],
 				[
 					63.481925816454634,
@@ -8441,16 +8441,16 @@ Pleomorphic ^w1o9Mj8A
 					54.92535443022702
 				],
 				[
-					100.49971691999254,
-					56.889338578194135
+					100.49971691999255,
+					56.88933857819413
 				],
 				[
 					100.90244400651387,
 					58.10303664716261
 				],
 				[
-					101.36033918707923,
-					60.40906297820267
+					101.36033918707922,
+					60.40906297820268
 				],
 				[
 					101.36033918707925,
@@ -8469,7 +8469,7 @@ Pleomorphic ^w1o9Mj8A
 					75.06722556569899
 				],
 				[
-					99.8266661726555,
+					99.82666617265551,
 					78.00768497824527
 				],
 				[
@@ -8481,8 +8481,8 @@ Pleomorphic ^w1o9Mj8A
 					82.74110744722226
 				],
 				[
-					96.45589562656582,
-					85.22367167920322
+					96.4558956265658,
+					85.22367167920324
 				],
 				[
 					95.06565965665649,
@@ -8501,8 +8501,8 @@ Pleomorphic ^w1o9Mj8A
 					92.23001962279383
 				],
 				[
-					89.20680806918148,
-					92.98030570179253
+					89.20680806918149,
+					92.98030570179255
 				],
 				[
 					86.24979822842198,
@@ -8518,7 +8518,7 @@ Pleomorphic ^w1o9Mj8A
 				],
 				[
 					71.61370287854328,
-					96.02558449302248
+					96.02558449302249
 				],
 				[
 					67.97260867163793,
@@ -8529,11 +8529,11 @@ Pleomorphic ^w1o9Mj8A
 					96.02558449302248
 				],
 				[
-					63.796383952505536,
-					96.02558449302246
+					63.79638395250553,
+					96.02558449302248
 				],
 				[
-					59.74704584967445,
+					59.747045849674464,
 					96.02558449302245
 				],
 				[
@@ -8541,7 +8541,7 @@ Pleomorphic ^w1o9Mj8A
 					96.02558449302246
 				],
 				[
-					54.886736764396204,
+					54.88673676439619,
 					96.02558449302248
 				],
 				[
@@ -8558,15 +8558,15 @@ Pleomorphic ^w1o9Mj8A
 				],
 				[
 					34.48005877751294,
-					94.5194955256207
+					94.51949552562073
 				],
 				[
 					29.277707509161793,
 					94.51949552562071
 				],
 				[
-					25.228369406330657,
-					94.5194955256207
+					25.22836940633065,
+					94.51949552562071
 				],
 				[
 					21.052144687198307,
@@ -8597,7 +8597,7 @@ Pleomorphic ^w1o9Mj8A
 					97.53167346042423
 				],
 				[
-					4.098989387470759,
+					4.098989387470766,
 					99.14258180650964
 				],
 				[
@@ -8617,7 +8617,7 @@ Pleomorphic ^w1o9Mj8A
 					103.5836133770533
 				],
 				[
-					-6.0574567260334575,
+					-6.057456726033443,
 					105.1393536290947
 				],
 				[
@@ -8657,8 +8657,8 @@ Pleomorphic ^w1o9Mj8A
 					121.3532564686324
 				],
 				[
-					-12.804514627617223,
-					123.31724061659952
+					-12.804514627617237,
+					123.31724061659953
 				],
 				[
 					-12.804514627617202,
@@ -8725,7 +8725,7 @@ Pleomorphic ^w1o9Mj8A
 					144.0769944053645
 				],
 				[
-					-18.365458507254473,
+					-18.365458507254466,
 					144.47972149188587
 				],
 				[
@@ -8789,8 +8789,8 @@ Pleomorphic ^w1o9Mj8A
 					130.33462217899893
 				],
 				[
-					-60.1442561267914,
-					127.37761233823943
+					-60.144256126791404,
+					127.37761233823942
 				],
 				[
 					-60.14425612679139,
@@ -8814,15 +8814,15 @@ Pleomorphic ^w1o9Mj8A
 				],
 				[
 					-54.75433333869056,
-					115.4944048811574
+					115.49440488115738
 				],
 				[
 					-53.94887916564787,
 					114.27519000278451
 				],
 				[
-					-52.856550903576256,
-					113.54697116140343
+					-52.85655090357626,
+					113.54697116140342
 				],
 				[
 					-52.106264824577565,
@@ -8837,8 +8837,8 @@ Pleomorphic ^w1o9Mj8A
 					109.92242738271128
 				],
 				[
-					-45.099916880986925,
-					106.65647621530526
+					-45.09991688098694,
+					106.65647621530525
 				],
 				[
 					-43.05318059195376,
@@ -8857,12 +8857,12 @@ Pleomorphic ^w1o9Mj8A
 					99.93700236074352
 				],
 				[
-					-37.66325780385296,
-					99.18119947234044
+					-37.66325780385297,
+					99.18119947234042
 				],
 				[
-					-36.366807593818436,
-					97.87923245290156
+					-36.36680759381842,
+					97.87923245290159
 				],
 				[
 					-34.75038243832864,
@@ -8889,15 +8889,15 @@ Pleomorphic ^w1o9Mj8A
 					87.50211396322123
 				],
 				[
-					-30.29280043957179,
-					85.00851611243152
+					-30.292800439571806,
+					85.00851611243154
 				],
 				[
 					-30.292800439571785,
 					83.78930123405866
 				],
 				[
-					-29.48734626652907,
+					-29.487346266529066,
 					81.35087147731295
 				],
 				[
@@ -8961,7 +8961,7 @@ Pleomorphic ^w1o9Mj8A
 					47.505245781306236
 				],
 				[
-					-30.221081917314542,
+					-30.22108191731455,
 					46.28603090293337
 				],
 				[
@@ -8969,11 +8969,11 @@ Pleomorphic ^w1o9Mj8A
 					43.847601146187664
 				],
 				[
-					-30.221081917314553,
-					42.62838626781481
+					-30.221081917314542,
+					42.62838626781482
 				],
 				[
-					-30.221081917314546,
+					-30.22108191731455,
 					40.1899565110691
 				],
 				[
@@ -9005,8 +9005,8 @@ Pleomorphic ^w1o9Mj8A
 					29.85145568721961
 				],
 				[
-					-31.418229558069804,
-					27.876437920443667
+					-31.418229558069807,
+					27.876437920443664
 				],
 				[
 					-31.418229558069793,
@@ -9041,7 +9041,7 @@ Pleomorphic ^w1o9Mj8A
 					16.495260119162186
 				],
 				[
-					-30.29831724897618,
+					-30.298317248976183,
 					16.147701126684858
 				],
 				[
@@ -9058,11 +9058,11 @@ Pleomorphic ^w1o9Mj8A
 				],
 				[
 					-29.062551942390108,
-					10.112311638268997
+					10.112311638269002
 				],
 				[
 					-27.854370682826058,
-					7.673881881523284
+					7.673881881523286
 				],
 				[
 					-26.469651522321136,
@@ -9122,11 +9122,11 @@ Pleomorphic ^w1o9Mj8A
 				],
 				[
 					-15.76704127778112,
-					-5.003746129792676
+					-5.003746129792675
 				],
 				[
 					-15.424999094708191,
-					-5.003746129792681
+					-5.003746129792682
 				],
 				[
 					-15.082956911635264,
@@ -9161,7 +9161,7 @@ Pleomorphic ^w1o9Mj8A
 					-4.286560907220409
 				],
 				[
-					-6.6753393793265055,
+					-6.675339379326505,
 					-4.2865609072204105
 				],
 				[
@@ -9206,15 +9206,15 @@ Pleomorphic ^w1o9Mj8A
 				],
 				[
 					-2.0963875736727875,
-					-0.799937363638301
+					-0.7999373636383011
 				],
 				[
 					-1.754345390599859,
 					-0.1158529974924436
 				],
 				[
-					-1.4123032075269304,
-					0.910273551726342
+					-1.41230320752693,
+					0.9102735517263422
 				],
 				[
 					-1.0702610244540018,
@@ -9230,7 +9230,7 @@ Pleomorphic ^w1o9Mj8A
 				],
 				[
 					1.1143954996892182,
-					2.68668617994381
+					2.6866861799438104
 				],
 				[
 					0,
@@ -9243,8 +9243,8 @@ Pleomorphic ^w1o9Mj8A
 		},
 		{
 			"type": "freedraw",
-			"version": 411,
-			"versionNonce": 2122283930,
+			"version": 413,
+			"versionNonce": 210877786,
 			"isDeleted": false,
 			"id": "A3txJqTP75l9rW3jeIx9k",
 			"fillStyle": "hachure",
@@ -9255,8 +9255,8 @@ Pleomorphic ^w1o9Mj8A
 			"angle": 0,
 			"x": 821.2193501585477,
 			"y": -18.018675462894834,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#a5d8ff",
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 111.45610039713506,
 			"height": 144.02734312072488,
 			"seed": 1772153982,
@@ -9264,7 +9264,7 @@ Pleomorphic ^w1o9Mj8A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1694372814594,
+			"updated": 1694373122126,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -9426,11 +9426,11 @@ Pleomorphic ^w1o9Mj8A
 				],
 				[
 					104.94626529994062,
-					14.255435500974961
+					14.255435500974976
 				],
 				[
 					104.94626529994062,
-					15.005721579973638
+					15.00572157997366
 				],
 				[
 					106.09376165605626,
@@ -9462,7 +9462,7 @@ Pleomorphic ^w1o9Mj8A
 				],
 				[
 					108.74183017016924,
-					28.510871001949916
+					28.510871001949937
 				],
 				[
 					108.74183017016925,
@@ -9517,7 +9517,7 @@ Pleomorphic ^w1o9Mj8A
 					47.97417458068041
 				],
 				[
-					106.24271550997511,
+					106.2427155099751,
 					49.18787264964888
 				],
 				[
@@ -9525,8 +9525,8 @@ Pleomorphic ^w1o9Mj8A
 					51.61526878758576
 				],
 				[
-					104.55457183222808,
-					53.347546940568
+					104.55457183222809,
+					53.347546940567995
 				],
 				[
 					103.76566808739858,
@@ -9601,8 +9601,8 @@ Pleomorphic ^w1o9Mj8A
 					109.5252171055943
 				],
 				[
-					86.13394523092954,
-					111.25749525857657
+					86.13394523092953,
+					111.25749525857658
 				],
 				[
 					85.7257013350038,
@@ -9613,7 +9613,7 @@ Pleomorphic ^w1o9Mj8A
 					115.99091772755355
 				],
 				[
-					85.23470529801203,
+					85.23470529801205,
 					118.93137714009981
 				],
 				[
@@ -9646,7 +9646,7 @@ Pleomorphic ^w1o9Mj8A
 				],
 				[
 					76.98155842902652,
-					136.37001166741484
+					136.37001166741487
 				],
 				[
 					72.80533370989414,
@@ -9697,8 +9697,8 @@ Pleomorphic ^w1o9Mj8A
 					132.02828266615037
 				],
 				[
-					53.766824455302626,
-					131.68072367367304
+					53.76682445530261,
+					131.68072367367307
 				],
 				[
 					53.419265462825265,
@@ -9721,7 +9721,7 @@ Pleomorphic ^w1o9Mj8A
 					127.15142315265894
 				],
 				[
-					54.599862675367305,
+					54.59986267536732,
 					120.76295786236138
 				],
 				[
@@ -9741,8 +9741,8 @@ Pleomorphic ^w1o9Mj8A
 					115.30131655200327
 				],
 				[
-					57.308616092928716,
-					114.54551366360022
+					57.30861609292871,
+					114.54551366360025
 				],
 				[
 					58.114070265971435,
@@ -9773,15 +9773,15 @@ Pleomorphic ^w1o9Mj8A
 					103.3408737632596
 				],
 				[
-					63.09023234874208,
-					101.82926798645343
+					63.09023234874207,
+					101.82926798645344
 				],
 				[
 					63.84051842774078,
 					101.07346509805038
 				],
 				[
-					64.55770365031307,
+					64.55770365031309,
 					99.97010321716995
 				],
 				[
@@ -9910,7 +9910,7 @@ Pleomorphic ^w1o9Mj8A
 				],
 				[
 					84.44580155318253,
-					62.10824027475853
+					62.108240274758536
 				],
 				[
 					84.44580155318253,
@@ -9929,8 +9929,8 @@ Pleomorphic ^w1o9Mj8A
 					57.51825485029599
 				],
 				[
-					85.1629867757548,
-					55.65909008101248
+					85.16298677575479,
+					55.659090081012465
 				],
 				[
 					85.1629867757548,
@@ -9978,7 +9978,7 @@ Pleomorphic ^w1o9Mj8A
 				],
 				[
 					81.98530455881921,
-					39.108661867806276
+					39.10866186780629
 				],
 				[
 					81.63774556634188,
@@ -10022,7 +10022,7 @@ Pleomorphic ^w1o9Mj8A
 				],
 				[
 					71.29372793308801,
-					27.573013403201557
+					27.57301340320156
 				],
 				[
 					69.31871016631203,
@@ -10045,8 +10045,8 @@ Pleomorphic ^w1o9Mj8A
 					23.634011488458476
 				],
 				[
-					60.66283621080518,
-					23.225767592532716
+					60.66283621080519,
+					23.22576759253271
 				],
 				[
 					58.92504124841854,
@@ -10065,8 +10065,8 @@ Pleomorphic ^w1o9Mj8A
 					23.225767592532726
 				],
 				[
-					47.05838421954968,
-					23.225767592532712
+					47.05838421954969,
+					23.225767592532705
 				],
 				[
 					42.89319311922611,
@@ -10169,7 +10169,7 @@ Pleomorphic ^w1o9Mj8A
 					25.294571119183495
 				],
 				[
-					2.8080559868406514,
+					2.808055986840648,
 					24.913911270279748
 				],
 				[
@@ -10185,20 +10185,20 @@ Pleomorphic ^w1o9Mj8A
 					22.304460421997575
 				],
 				[
-					0.606849034484231,
-					21.956901429520244
+					0.6068490344842328,
+					21.95690142952024
 				],
 				[
 					0.2592900420068993,
 					21.609342437042912
 				],
 				[
-					-0.0882689504704306,
+					-0.08826895047042882,
 					20.91422445208825
 				],
 				[
 					-0.4358279429477605,
-					20.56666545961092
+					20.566665459610924
 				],
 				[
 					-0.8164877918515074,
@@ -10229,7 +10229,7 @@ Pleomorphic ^w1o9Mj8A
 					13.891326080284415
 				],
 				[
-					-2.7142702269658177,
+					-2.7142702269658185,
 					12.787964199404001
 				],
 				[
@@ -10237,7 +10237,7 @@ Pleomorphic ^w1o9Mj8A
 					12.44040520692667
 				],
 				[
-					-2.7142702269658185,
+					-2.7142702269658177,
 					12.092846214449342
 				],
 				[
@@ -10245,7 +10245,7 @@ Pleomorphic ^w1o9Mj8A
 					11.39772822949468
 				],
 				[
-					-2.714270226965818,
+					-2.7142702269658194,
 					11.05016923701735
 				],
 				[
@@ -10285,7 +10285,7 @@ Pleomorphic ^w1o9Mj8A
 					6.81877642384096
 				],
 				[
-					-2.71427022696582,
+					-2.7142702269658194,
 					6.47121743136363
 				],
 				[
@@ -10293,7 +10293,7 @@ Pleomorphic ^w1o9Mj8A
 					6.123658438886299
 				],
 				[
-					-2.372228043892891,
+					-2.37222804389289,
 					5.776099446408969
 				],
 				[
@@ -10363,8 +10363,8 @@ Pleomorphic ^w1o9Mj8A
 		},
 		{
 			"type": "freedraw",
-			"version": 33,
-			"versionNonce": 1207640838,
+			"version": 35,
+			"versionNonce": 209116486,
 			"isDeleted": false,
 			"id": "AtJdXqjoxktp99YDe_vHG",
 			"fillStyle": "hachure",
@@ -10375,8 +10375,8 @@ Pleomorphic ^w1o9Mj8A
 			"angle": 0,
 			"x": 715.5958561152313,
 			"y": -199.00995649909768,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#a5d8ff",
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 0.00020013347225769014,
 			"height": 0.00020013347225769014,
 			"seed": 1320001982,
@@ -10384,7 +10384,7 @@ Pleomorphic ^w1o9Mj8A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1694372814594,
+			"updated": 1694373122126,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -10403,8 +10403,8 @@ Pleomorphic ^w1o9Mj8A
 		},
 		{
 			"type": "text",
-			"version": 60,
-			"versionNonce": 587266138,
+			"version": 62,
+			"versionNonce": 1088750106,
 			"isDeleted": false,
 			"id": "w1o9Mj8A",
 			"fillStyle": "hachure",
@@ -10415,8 +10415,8 @@ Pleomorphic ^w1o9Mj8A
 			"angle": 0,
 			"x": 721.2246100224788,
 			"y": -201.65234375,
-			"strokeColor": "#e03131",
-			"backgroundColor": "#a5d8ff",
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 214.10690307617188,
 			"height": 50.03336806442253,
 			"seed": 102767714,
@@ -10424,7 +10424,7 @@ Pleomorphic ^w1o9Mj8A
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1694372814594,
+			"updated": 1694373122126,
 			"link": null,
 			"locked": false,
 			"fontSize": 40.02669445153803,
@@ -10440,10 +10440,10 @@ Pleomorphic ^w1o9Mj8A
 		}
 	],
 	"appState": {
-		"theme": "light",
+		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#e03131",
-		"currentItemBackgroundColor": "#a5d8ff",
+		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 0.5,
 		"currentItemStrokeStyle": "solid",

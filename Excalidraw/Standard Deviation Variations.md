@@ -18,7 +18,7 @@ More SD ^cnTq43tn
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.17",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.19",
 	"elements": [
 		{
 			"type": "arrow",
@@ -2764,7 +2764,7 @@ More SD ^cnTq43tn
 			"y": -136.0352553344899,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
-			"width": 111.58370442981624,
+			"width": 111.56956481933594,
 			"height": 33.85430684075976,
 			"seed": 659311706,
 			"groupIds": [],
@@ -2801,7 +2801,7 @@ More SD ^cnTq43tn
 			"y": 101.82298863451064,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
-			"width": 113.34413251814156,
+			"width": 113.32975769042969,
 			"height": 33.85430684075976,
 			"seed": 1313370694,
 			"groupIds": [],
@@ -2912,8 +2912,8 @@ More SD ^cnTq43tn
 		}
 	],
 	"appState": {
-		"theme": "light",
-		"viewBackgroundColor": "#ffffff",
+		"theme": "dark",
+		"viewBackgroundColor": "transparent",
 		"currentItemStrokeColor": "#f08c00",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
@@ -2926,13 +2926,17 @@ More SD ^cnTq43tn
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 385.34173288347125,
-		"scrollY": 600.2606925820281,
+		"scrollX": 279.63398100523796,
+		"scrollY": 420.06571863468514,
 		"zoom": {
-			"value": 0.7392804971306312
+			"value": 1
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
+		"gridColor": {
+			"Bold": "#C9C9C9FF",
+			"Regular": "#EDEDEDFF"
+		},
 		"currentStrokeOptions": null,
 		"previousGridSize": null,
 		"frameRendering": {

@@ -21,3 +21,4 @@ Conjugation -> Bacteria can share genes with each other
 Natural selection available shortly, so evolution cna occur.
 Never ending antibiotic marathon
 Important to only take antibiotics for bacterial infection.
+Zone of inhibition

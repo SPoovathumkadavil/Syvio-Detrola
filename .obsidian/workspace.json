@@ -4,23 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "a7d82b652c834a4a",
+        "id": "ee8da88e2f89bd8a",
         "type": "tabs",
         "children": [
           {
-            "id": "9f2129e092b5fdad",
+            "id": "222baec7a0d4159a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "92f03211d0a3dead",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/Cell Structure and Function/2 - Introduction to Natural Selection.md",
+                "file": "2023-09-10.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,6 +104,7 @@
       {
         "id": "f060aaa81c1d81df",
         "type": "tabs",
+        "dimension": 29.67128027681661,
         "children": [
           {
             "id": "e9720f00435a1552",
@@ -102,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/Cell Structure and Function/2 - Introduction to Natural Selection.md",
+                "file": "2023-09-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/Cell Structure and Function/2 - Introduction to Natural Selection.md",
+                "file": "2023-09-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/Cell Structure and Function/2 - Introduction to Natural Selection.md"
+                "file": "2023-09-10.md"
               }
             }
           },
@@ -153,9 +163,32 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "8ff13949520079b7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
+      },
+      {
+        "id": "60cb7cdbe3020641",
+        "type": "tabs",
+        "dimension": 70.32871972318338,
+        "children": [
+          {
+            "id": "51ee88dc3d4082ae",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,11 +208,14 @@
       "notion-like-tables:Create new loom": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-stille:Toggle Stille": false,
-      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+      "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "9f2129e092b5fdad",
+  "active": "51ee88dc3d4082ae",
   "lastOpenFiles": [
+    "2023-09-10.md",
+    "BIO/Cell Structure and Function/2 - Introduction to Natural Selection.md",
     "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
     "BIO/Cell Structure and Function/Gram Negative Bacteria.md",
     "BIO/Cell Structure and Function/Innate Immune System.md",
@@ -190,7 +226,6 @@
     "STAT/Data Analysis/1.1 - The Science and Art of Data.md",
     "STAT/Data Analysis/Categorical Data.md",
     "BIO/Cell Structure and Function/Cellular Respiration.md",
-    "BIO/Cell Structure and Function/2 - Introduction to Natural Selection.md",
     "BIO/Cell Structure and Function/Bacteria.md",
     "BIO/Cell Structure and Function/Biochemical Classification of Bacteria.md",
     "BIO/Cell Structure and Function/Bacilli.md",
@@ -209,7 +244,6 @@
     "BIO/Measuring Variation within a Population and Sample/4 - Lab 1 - Natural Variation.md",
     "Screenshot 2023-09-07 at 8.51.49 PM.png",
     "Screenshot 2023-09-07 at 8.54.43 PM.png",
-    "Syvio Detrola.md",
     "LIT/Disquiet",
     "Untitled",
     "Untitled.loom",

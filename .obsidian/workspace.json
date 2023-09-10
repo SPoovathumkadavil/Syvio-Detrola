@@ -32,8 +32,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
-                "mode": "preview",
+                "file": "Daily Notes/2023-09-10.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
+                "file": "Daily Notes/2023-09-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
+                "file": "Daily Notes/2023-09-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md"
+                "file": "Daily Notes/2023-09-10.md"
               }
             }
           },
@@ -224,8 +224,8 @@
   },
   "active": "da610888ed8f3b7d",
   "lastOpenFiles": [
-    "BIO/Cell Structure and Function/2 - Introduction to Natural Selection.md",
     "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
+    "BIO/Cell Structure and Function/2 - Introduction to Natural Selection.md",
     "BIO/Cell Structure and Function/Natural Selection.md",
     "Daily Notes/2023-09-10.md",
     "Daily Notes",

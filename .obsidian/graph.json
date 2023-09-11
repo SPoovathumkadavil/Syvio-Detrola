@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 6070742
       }
+    },
+    {
+      "query": "path:\"Daily Notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12210912
+      }
     }
   ],
   "collapse-display": true,

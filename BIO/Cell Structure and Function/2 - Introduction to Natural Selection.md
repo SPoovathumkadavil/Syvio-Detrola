@@ -22,3 +22,5 @@ Natural selection available shortly, so evolution cna occur.
 Never ending antibiotic marathon
 Important to only take antibiotics for bacterial infection.
 Zone of inhibition
+the colonies were always there, not made
+Variations are heritable

@@ -21,25 +21,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "a23b12a4a5dbad7e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "da610888ed8f3b7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2023-09-10.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-09-10.md",
+                "file": "BIO/Cell Structure and Function/2 - Introduction to Natural Selection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-09-10.md",
+                "file": "BIO/Cell Structure and Function/2 - Introduction to Natural Selection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-09-10.md"
+                "file": "BIO/Cell Structure and Function/2 - Introduction to Natural Selection.md"
               }
             }
           },
@@ -222,12 +203,13 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "da610888ed8f3b7d",
+  "active": "b621fbeb3a5fe340",
   "lastOpenFiles": [
     "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
+    "Daily Notes/2023-09-11.md",
     "BIO/Cell Structure and Function/2 - Introduction to Natural Selection.md",
-    "BIO/Cell Structure and Function/Natural Selection.md",
     "Daily Notes/2023-09-10.md",
+    "BIO/Cell Structure and Function/Natural Selection.md",
     "Daily Notes",
     "BIO/Cell Structure and Function/Gram Negative Bacteria.md",
     "BIO/Cell Structure and Function/Innate Immune System.md",

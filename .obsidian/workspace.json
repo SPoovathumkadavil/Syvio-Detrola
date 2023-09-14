@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
+                "file": "Detrola Tracker.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -32,7 +32,7 @@
       {
         "id": "fd014e1ea02a6bbb",
         "type": "tabs",
-        "dimension": 43.160377358490564,
+        "dimension": 43.16037735849057,
         "children": [
           {
             "id": "9e2faca82d89dc68",
@@ -47,7 +47,7 @@
       {
         "id": "d089258346dd1b65",
         "type": "tabs",
-        "dimension": 56.839622641509436,
+        "dimension": 56.83962264150943,
         "children": [
           {
             "id": "bdbccdb2ef044794",
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
+                "file": "Detrola Tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
+                "file": "Detrola Tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md"
+                "file": "Detrola Tracker.md"
               }
             }
           },
@@ -206,8 +206,9 @@
   "active": "b621fbeb3a5fe340",
   "lastOpenFiles": [
     "BIO/Cell Structure and Function/2 - Introduction to Natural Selection.md",
-    "BIO/Cell Structure and Function/Double Stranded DNA.md",
+    "Daily Notes/2023-09-13.md",
     "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
+    "BIO/Cell Structure and Function/Double Stranded DNA.md",
     "Daily Notes/2023-09-11.md",
     "Daily Notes/2023-09-10.md",
     "BIO/Cell Structure and Function/Natural Selection.md",
@@ -231,7 +232,6 @@
     "BIO/Measuring Variation within a Population and Sample/Sample.md",
     "BIO/Measuring Variation within a Population and Sample/Population.md",
     "BIO/Measuring Variation within a Population and Sample/Normal Distribution.md",
-    "BIO/Measuring Variation within a Population and Sample/Mutant.md",
     "Screenshot 2023-09-07 at 8.59.15 PM.png",
     "Screenshot 2023-09-07 at 8.58.48 PM.png",
     "Screenshot 2023-09-07 at 8.51.49 PM.png",

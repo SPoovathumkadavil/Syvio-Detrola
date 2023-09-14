@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Detrola Tracker.md",
+                "file": "BIO/Cell Structure and Function/2 - Introduction to Natural Selection.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Detrola Tracker.md",
+                "file": "BIO/Cell Structure and Function/2 - Introduction to Natural Selection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Detrola Tracker.md",
+                "file": "BIO/Cell Structure and Function/2 - Introduction to Natural Selection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Detrola Tracker.md"
+                "file": "BIO/Cell Structure and Function/2 - Introduction to Natural Selection.md"
               }
             }
           },
@@ -205,6 +205,9 @@
   },
   "active": "b621fbeb3a5fe340",
   "lastOpenFiles": [
+    "BIO/Biology.md",
+    "BIO/Prevegen Example/Amino Acid Dissolving.md",
+    "Detrola Tracker.md",
     "BIO/Cell Structure and Function/2 - Introduction to Natural Selection.md",
     "Daily Notes/2023-09-13.md",
     "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
@@ -229,9 +232,6 @@
     "BIO/Measuring Variation within a Population and Sample/Standard Error of Mean.md",
     "BIO/Measuring Variation within a Population and Sample/95% Confidence Interval.md",
     "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
-    "BIO/Measuring Variation within a Population and Sample/Sample.md",
-    "BIO/Measuring Variation within a Population and Sample/Population.md",
-    "BIO/Measuring Variation within a Population and Sample/Normal Distribution.md",
     "Screenshot 2023-09-07 at 8.59.15 PM.png",
     "Screenshot 2023-09-07 at 8.58.48 PM.png",
     "Screenshot 2023-09-07 at 8.51.49 PM.png",

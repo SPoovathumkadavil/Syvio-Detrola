@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/Cell Structure and Function/2 - Introduction to Natural Selection.md",
+                "file": "STAT/Data Analysis/Quantitative Data.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/Cell Structure and Function/2 - Introduction to Natural Selection.md",
+                "file": "STAT/Data Analysis/Quantitative Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/Cell Structure and Function/2 - Introduction to Natural Selection.md",
+                "file": "STAT/Data Analysis/Quantitative Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/Cell Structure and Function/2 - Introduction to Natural Selection.md"
+                "file": "STAT/Data Analysis/Quantitative Data.md"
               }
             }
           },
@@ -205,10 +205,14 @@
   },
   "active": "b621fbeb3a5fe340",
   "lastOpenFiles": [
+    "STAT/Data Analysis/Introduction Exercises.md",
+    "STAT/Data Analysis/Individual.md",
+    "STAT/Data Analysis/Categorical Data.md",
+    "STAT/Data Analysis/1.1 - The Science and Art of Data.md",
+    "BIO/Cell Structure and Function/2 - Introduction to Natural Selection.md",
     "BIO/Biology.md",
     "BIO/Prevegen Example/Amino Acid Dissolving.md",
     "Detrola Tracker.md",
-    "BIO/Cell Structure and Function/2 - Introduction to Natural Selection.md",
     "Daily Notes/2023-09-13.md",
     "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
     "BIO/Cell Structure and Function/Double Stranded DNA.md",
@@ -222,16 +226,12 @@
     "Excalidraw/Standard Deviation Variations.md",
     "Excalidraw/Standard Deviation Percents.md",
     "Excalidraw/Cell Wall Variable Shapes.md",
-    "STAT/Data Analysis/1.1 - The Science and Art of Data.md",
-    "STAT/Data Analysis/Categorical Data.md",
     "BIO/Cell Structure and Function/Cellular Respiration.md",
     "BIO/Cell Structure and Function/Bacteria.md",
     "BIO/Cell Structure and Function/Biochemical Classification of Bacteria.md",
     "BIO/Cell Structure and Function/Bacilli.md",
     "BIO/Cell Structure and Function/PC Prep - 1.md",
     "BIO/Measuring Variation within a Population and Sample/Standard Error of Mean.md",
-    "BIO/Measuring Variation within a Population and Sample/95% Confidence Interval.md",
-    "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
     "Screenshot 2023-09-07 at 8.59.15 PM.png",
     "Screenshot 2023-09-07 at 8.58.48 PM.png",
     "Screenshot 2023-09-07 at 8.51.49 PM.png",

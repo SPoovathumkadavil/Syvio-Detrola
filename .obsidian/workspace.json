@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT/AP/1 - Exploring One-Variable Data.md",
+                "file": "BIO/Measuring Variation within a Population and Sample/Standard Error of Mean.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT/AP/1 - Exploring One-Variable Data.md",
+                "file": "BIO/Measuring Variation within a Population and Sample/Standard Error of Mean.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STAT/AP/1 - Exploring One-Variable Data.md",
+                "file": "BIO/Measuring Variation within a Population and Sample/Standard Error of Mean.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT/AP/1 - Exploring One-Variable Data.md"
+                "file": "BIO/Measuring Variation within a Population and Sample/Standard Error of Mean.md"
               }
             }
           },
@@ -219,6 +219,7 @@
   },
   "active": "7f35cf620f2cf2cc",
   "lastOpenFiles": [
+    "STAT/AP/1 - Exploring One-Variable Data.md",
     "STAT/Statistics.md",
     "BIO/Resources/Images/Screenshot 2023-09-07 at 8.51.49 PM.png",
     "BIO/Cell Structure and Function/Natural Selection.md",

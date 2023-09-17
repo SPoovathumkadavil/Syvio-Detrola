@@ -6,7 +6,6 @@ importance: 7
 type: "AP Guide"
 order: 7
 ---
-
 ## Natural Selection
 
 - **Evolution** is a change in a population over time.

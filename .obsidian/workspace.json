@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2023-09-17.md",
+                "file": "BIO/Cell Structure and Function/Bacilli.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f35cf620f2cf2cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "STAT/AP/1 - Exploring One-Variable Data.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-09-17.md",
+                "file": "STAT/AP/1 - Exploring One-Variable Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-09-17.md",
+                "file": "STAT/AP/1 - Exploring One-Variable Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-09-17.md"
+                "file": "STAT/AP/1 - Exploring One-Variable Data.md"
               }
             }
           },
@@ -203,10 +217,21 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "b621fbeb3a5fe340",
+  "active": "7f35cf620f2cf2cc",
   "lastOpenFiles": [
-    "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
+    "STAT/Statistics.md",
+    "BIO/Resources/Images/Screenshot 2023-09-07 at 8.51.49 PM.png",
+    "BIO/Cell Structure and Function/Natural Selection.md",
+    "BIO/Resources/Images/Screenshot 2023-09-07 at 8.54.43 PM.png",
+    "BIO/Cell Structure and Function/Antibiotics.md",
+    "BIO/Cell Structure and Function/Bacilli.md",
+    "BIO/Cell Structure and Function/3 - E-Coli Lab A.md",
+    "BIO/AP/7 - Natural Selection.md",
+    "BIO/Biology.md",
+    "BIO/Cell Structure and Function/2 - Introduction to Natural Selection.md",
+    "BIO/Cell Structure and Function/4 - E-Coli Lab B.md",
     "Daily Notes/2023-09-17.md",
+    "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
     "Daily Notes/2023-09-14.md",
     "BIO/Measuring Variation within a Population and Sample/Normal Distribution.md",
     "BIO/Measuring Variation within a Population and Sample/Independent Variable.md",
@@ -217,25 +242,13 @@
     "STAT/Data Analysis/Individual.md",
     "STAT/Data Analysis/Categorical Data.md",
     "STAT/Data Analysis/1.1 - The Science and Art of Data.md",
-    "BIO/Cell Structure and Function/2 - Introduction to Natural Selection.md",
-    "BIO/Biology.md",
     "BIO/Prevegen Example/Amino Acid Dissolving.md",
     "Detrola Tracker.md",
     "Daily Notes/2023-09-13.md",
     "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
-    "BIO/Cell Structure and Function/Double Stranded DNA.md",
-    "Daily Notes/2023-09-11.md",
-    "Daily Notes/2023-09-10.md",
-    "BIO/Cell Structure and Function/Natural Selection.md",
     "Daily Notes",
-    "BIO/Cell Structure and Function/Gram Negative Bacteria.md",
-    "BIO/Cell Structure and Function/Innate Immune System.md",
-    "Excalidraw/Intra Variance.md",
-    "Excalidraw/Standard Deviation Variations.md",
-    "Screenshot 2023-09-07 at 8.59.15 PM.png",
-    "Screenshot 2023-09-07 at 8.58.48 PM.png",
-    "Screenshot 2023-09-07 at 8.51.49 PM.png",
-    "Screenshot 2023-09-07 at 8.54.43 PM.png",
+    "BIO/Resources/Images/Screenshot 2023-09-07 at 8.59.15 PM.png",
+    "BIO/Resources/Images/Screenshot 2023-09-07 at 8.58.48 PM.png",
     "LIT/Disquiet",
     "Untitled.loom",
     "BIO/Resources/Images/North Frequency vs Leaf Length (1).png",

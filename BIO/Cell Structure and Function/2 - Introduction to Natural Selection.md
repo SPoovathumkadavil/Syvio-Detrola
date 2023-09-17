@@ -1,5 +1,11 @@
 ---
-alias:
+aliases:
+  - 2 - Introduction to Natural Selection
+subject: Science
+subset: Biology
+importance: 9
+order: 2
+type: Bearing
 ---
 Antibiotics attack [[Prokaryotic Cells|prokaryotes]], bacteria, not our own [[Eukaryotic Cells|eukaryotic cells]].
 

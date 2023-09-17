@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/Standard Error of Mean.md",
+                "file": "BIO/Cell Structure and Function/Bacilli.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/Standard Error of Mean.md",
+                "file": "BIO/Cell Structure and Function/Bacilli.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/Measuring Variation within a Population and Sample/Standard Error of Mean.md"
+                "file": "BIO/Cell Structure and Function/Bacilli.md"
               }
             }
           },
@@ -217,8 +216,9 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "7f35cf620f2cf2cc",
+  "active": "b621fbeb3a5fe340",
   "lastOpenFiles": [
+    "BIO/Measuring Variation within a Population and Sample/Standard Error of Mean.md",
     "STAT/AP/1 - Exploring One-Variable Data.md",
     "STAT/Statistics.md",
     "BIO/Resources/Images/Screenshot 2023-09-07 at 8.51.49 PM.png",
@@ -246,7 +246,6 @@
     "BIO/Prevegen Example/Amino Acid Dissolving.md",
     "Detrola Tracker.md",
     "Daily Notes/2023-09-13.md",
-    "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
     "Daily Notes",
     "BIO/Resources/Images/Screenshot 2023-09-07 at 8.59.15 PM.png",
     "BIO/Resources/Images/Screenshot 2023-09-07 at 8.58.48 PM.png",

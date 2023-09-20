@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2023-09-18.md",
+                "file": "Syvio Detrola.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -30,24 +30,8 @@
     "type": "split",
     "children": [
       {
-        "id": "fd014e1ea02a6bbb",
-        "type": "tabs",
-        "dimension": 43.16037735849057,
-        "children": [
-          {
-            "id": "9e2faca82d89dc68",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "d089258346dd1b65",
         "type": "tabs",
-        "dimension": 56.83962264150943,
         "children": [
           {
             "id": "bdbccdb2ef044794",
@@ -103,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-09-18.md",
+                "file": "Syvio Detrola.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-09-18.md",
+                "file": "Syvio Detrola.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,12 +122,47 @@
             }
           },
           {
+            "id": "e643e8bca3aa9fc6",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Syvio Detrola.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.48854597807787425,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
             "id": "52d045e6dff2cfa0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-09-18.md"
+                "file": "Syvio Detrola.md"
               }
             }
           },
@@ -164,7 +183,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "60cb7cdbe3020641",
@@ -205,6 +224,23 @@
   },
   "active": "b621fbeb3a5fe340",
   "lastOpenFiles": [
+    "Detrola Tracker.md",
+    "STAT/Data Analysis/Variable.md",
+    "STAT/Data Analysis/Quantitative Data.md",
+    "STAT/Data Analysis/Introduction Exercises.md",
+    "STAT/Data Analysis/1.1 - The Science and Art of Data.md",
+    "STAT/Data Analysis/Categorical Data.md",
+    "BIO/Measuring Variation within a Population and Sample/Sample.md",
+    "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
+    "BIO/Cell Structure and Function/Endospores.md",
+    "BIO/Cell Structure and Function/E-Coli.md",
+    "BIO/Cell Structure and Function/Cytoplasm.md",
+    "BIO/Cell Structure and Function/Cell Envelope.md",
+    "BIO/Cell Structure and Function/Capsule.md",
+    "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
+    "BIO/Cell Structure and Function/Bacteria.md",
+    "BIO/Cell Structure and Function/Antibiotics.md",
+    "BIO/Cell Structure and Function/3 - E-Coli Lab A.md",
     "Daily Notes/2023-09-18.md",
     "STAT/AP/8 - Inference for Categorical  Data, Chi-Square.md",
     "STAT/Statistics.md",
@@ -212,27 +248,10 @@
     "LIT/Disquiet/Disquiet Planning.md",
     "BIO/Cell Structure and Function/Gram Negative Bacteria.md",
     "Excalidraw/Cell Wall Variable Shapes.md",
-    "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
     "BIO/Measuring Variation within a Population and Sample/Standard Error of Mean.md",
     "BIO/Cell Structure and Function/Gram Staining.md",
-    "BIO/Cell Structure and Function/Bacilli.md",
-    "STAT/AP/1 - Exploring One-Variable Data.md",
     "BIO/Resources/Images/Screenshot 2023-09-07 at 8.51.49 PM.png",
-    "BIO/Cell Structure and Function/Natural Selection.md",
     "BIO/Resources/Images/Screenshot 2023-09-07 at 8.54.43 PM.png",
-    "BIO/Cell Structure and Function/Antibiotics.md",
-    "BIO/Cell Structure and Function/3 - E-Coli Lab A.md",
-    "BIO/AP/7 - Natural Selection.md",
-    "BIO/Biology.md",
-    "BIO/Cell Structure and Function/2 - Introduction to Natural Selection.md",
-    "BIO/Cell Structure and Function/4 - E-Coli Lab B.md",
-    "Daily Notes/2023-09-17.md",
-    "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
-    "Daily Notes/2023-09-14.md",
-    "BIO/Measuring Variation within a Population and Sample/Normal Distribution.md",
-    "BIO/Measuring Variation within a Population and Sample/Independent Variable.md",
-    "BIO/Measuring Variation within a Population and Sample/Dependent Variable.md",
-    "BIO/Measuring Variation within a Population and Sample/95% Confidence Interval.md",
     "Daily Notes",
     "BIO/Resources/Images/Screenshot 2023-09-07 at 8.59.15 PM.png",
     "BIO/Resources/Images/Screenshot 2023-09-07 at 8.58.48 PM.png",

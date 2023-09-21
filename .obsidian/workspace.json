@@ -71,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5024719238281
+    "width": 313.5024719238281,
+    "collapsed": true
   },
   "right": {
     "id": "f0e85f5f19df2cd5",
@@ -244,7 +245,7 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "8d6a6b470d701da6",
+  "active": "f9908261ea24701f",
   "lastOpenFiles": [
     "BIO/Biology.md",
     "BIO/Expanding on Natural Selection/1 - Speciation.md",

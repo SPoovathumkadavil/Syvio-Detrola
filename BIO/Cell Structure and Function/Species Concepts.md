@@ -32,5 +32,5 @@ Defining what constitutes a species is a fundamental question in biology. Variou
     - Different species concepts can lead to different interpretations of species boundaries.
     - Hybridization and cases where reproductive isolation is not clear-cut pose challenges to these concepts.
 
-- **Relevance to Conservation**:
+- **[[Species and Conservation|Relevance to Conservation]]**:
     - Accurate species identification is crucial for conservation efforts, as the recognition of distinct species impacts conservation priorities and strategies.

@@ -1,3 +1,6 @@
+---
+alias:
+---
 ## Domains of Life
 
 The classification of life on Earth is organized into three major domains: Bacteria, Archaea, and Eukarya. These domains represent the highest level of biological classification and reflect fundamental differences in cell structure, genetics, and evolutionary history. Here's a detailed look at each domain:

@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "BIO/Cell Structure and Function/Domain.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               }
@@ -24,14 +24,16 @@
             "id": "645d6d69184d2555",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.13"
+                "file": "Daily Notes/2023-09-21.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,8 +245,11 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "645d6d69184d2555",
+  "active": "f9908261ea24701f",
   "lastOpenFiles": [
+    "BIO/Cell Structure and Function/Bacteria.md",
+    "BIO/Cell Structure and Function/Domain.md",
+    "Daily Notes/2023-09-21.md",
     "BIO/Cell Structure and Function/Classification.md",
     "BIO/Biology.md",
     "STAT/Data Analysis/Categorical Data.md",
@@ -268,9 +273,6 @@
     "BIO/Cell Structure and Function/Sympatric Speciation.md",
     "Evolution.md",
     "BIO/Cell Structure and Function/Phylogenetic Trees.md",
-    "BIO/Cell Structure and Function/Plasma Membranes.md",
-    "BIO/Cell Structure and Function/Controversies on Classification.md",
-    "BIO/Cell Structure and Function/Speed of Speciation.md",
     "BIO/Resources/Images/Screenshot 2023-09-07 at 8.51.49 PM.png",
     "BIO/Resources/Images/Screenshot 2023-09-07 at 8.54.43 PM.png",
     "Daily Notes",

@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "645d6d69184d2555",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,6 +184,16 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "8d6a6b470d701da6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -222,7 +243,7 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "f9908261ea24701f",
+  "active": "645d6d69184d2555",
   "lastOpenFiles": [
     "BIO/Cell Structure and Function/Classification.md",
     "BIO/Biology.md",

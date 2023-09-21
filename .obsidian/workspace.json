@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Evolution.md",
+                "file": "BIO/Cell Structure and Function/Controversies on Speciation.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d32e8ec04e8f8616",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIO/Cell Structure and Function/Plasma Membranes.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Evolution.md",
+                "file": "BIO/Cell Structure and Function/Plasma Membranes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Evolution.md",
+                "file": "BIO/Cell Structure and Function/Plasma Membranes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +141,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Evolution.md",
+                "file": "BIO/Cell Structure and Function/Plasma Membranes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -162,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Evolution.md"
+                "file": "BIO/Cell Structure and Function/Plasma Membranes.md"
               }
             }
           },
@@ -222,21 +236,22 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "f9908261ea24701f",
+  "active": "d32e8ec04e8f8616",
   "lastOpenFiles": [
+    "BIO/Cell Structure and Function/Controversies on Classification.md",
+    "BIO/Cell Structure and Function/Controversies on Speciation.md",
+    "BIO/Cell Structure and Function/Phylogenetic Trees.md",
+    "Evolution.md",
     "BIO/Cell Structure and Function/Sympatric Speciation.md",
     "BIO/Cell Structure and Function/5 - Speciation.md",
     "BIO/Cell Structure and Function/Reproductive Isolation.md",
     "BIO/Cell Structure and Function/Classification.md",
     "BIO/Cell Structure and Function/Speed of Speciation.md",
     "BIO/Cell Structure and Function/Allopatric Speciation.md",
-    "BIO/Cell Structure and Function/Phylogenetic Trees.md",
     "BIO/Cell Structure and Function/Domain.md",
     "BIO/Cell Structure and Function/Human Induced Speciation.md",
-    "BIO/Cell Structure and Function/Controversies and Debates on Speciation.md",
     "BIO/Cell Structure and Function/Species Concepts.md",
     "BIO/Cell Structure and Function/Species and Conservation.md",
-    "Evolution.md",
     "BIO/Cell Structure and Function/Evidence of Speciation in Fossil Record.md",
     "Daily Notes/2023-09-20.md",
     "Daily Notes/2023-09-19.md",
@@ -249,7 +264,6 @@
     "STAT/Data Analysis/Categorical Data.md",
     "BIO/Measuring Variation within a Population and Sample/Sample.md",
     "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
-    "BIO/Cell Structure and Function/Endospores.md",
     "BIO/Resources/Images/Screenshot 2023-09-07 at 8.51.49 PM.png",
     "BIO/Resources/Images/Screenshot 2023-09-07 at 8.54.43 PM.png",
     "Daily Notes",

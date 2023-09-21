@@ -76,7 +76,7 @@ SORT order
 > [!tip]- Structure and Function Concepts
 >> ```dataview
 >> TABLE importance
->> FROM "BIO/Cell Structure and Function"
+>> FROM "BIO/Expanding on Natural Selection"
 >> WHERE type = "Concept"
 >> SORT importance DESC
 >>```
@@ -84,7 +84,7 @@ SORT order
 > [!example]- Structure and Function Artifacts
 > >```dataview
 > >TABLE importance
-> >FROM "BIO/Cell Structure and Function"
+> >FROM "BIO/Expanding on Natural Selection"
 > >WHERE type = "Artifact"
 > >SORT importance DESC
 >>```

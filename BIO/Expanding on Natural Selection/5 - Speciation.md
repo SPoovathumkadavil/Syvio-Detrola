@@ -1,11 +1,10 @@
 ---
-aliases:
-  - 5 - Speciation
+aliases: []
 subject: Science
 subset: Biology
 importance: 8
 type: Bearing
-order: 5
+order: 1
 ---
 - **Definition of Speciation**
     - Speciation is the process by which one ancestral species splits into two or more distinct species.

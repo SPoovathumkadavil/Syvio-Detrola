@@ -66,3 +66,26 @@ SORT order
 > >SORT importance DESC
 >>```
 
+# 3 - Expanding on Natural Selection
+```dataview
+LIST
+FROM "BIO/Expanding on Natural Selection"
+WHERE type="Bearing" OR type="Guideline" OR type="Example" OR type="Lab"
+SORT order
+```
+> [!tip]- Structure and Function Concepts
+>> ```dataview
+>> TABLE importance
+>> FROM "BIO/Cell Structure and Function"
+>> WHERE type = "Concept"
+>> SORT importance DESC
+>>```
+
+> [!example]- Structure and Function Artifacts
+> >```dataview
+> >TABLE importance
+> >FROM "BIO/Cell Structure and Function"
+> >WHERE type = "Artifact"
+> >SORT importance DESC
+>>```
+

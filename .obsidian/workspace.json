@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT/AP/8 - Inference for Categorical  Data, Chi-Square.md",
+                "file": "BIO/Cell Structure and Function/Classification.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT/AP/8 - Inference for Categorical  Data, Chi-Square.md",
+                "file": "BIO/Cell Structure and Function/Classification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STAT/AP/8 - Inference for Categorical  Data, Chi-Square.md",
+                "file": "BIO/Cell Structure and Function/Classification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "STAT/AP/8 - Inference for Categorical  Data, Chi-Square.md",
+                "file": "BIO/Cell Structure and Function/Classification.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT/AP/8 - Inference for Categorical  Data, Chi-Square.md"
+                "file": "BIO/Cell Structure and Function/Classification.md"
               }
             }
           },
@@ -224,11 +224,22 @@
   },
   "active": "f9908261ea24701f",
   "lastOpenFiles": [
+    "BIO/Biology.md",
+    "STAT/Data Analysis/Categorical Data.md",
+    "STAT/Data Analysis/1.1 - The Science and Art of Data.md",
+    "STAT/AP/9 - Inference for Quantitative Data, Slopes.md",
+    "STAT/AP/8 - Inference for Categorical  Data, Chi-Square.md",
+    "STAT/AP/6 - Inference for Categorical Data, Proportions.md",
+    "STAT/AP/3 - Collecting Data.md",
+    "STAT/AP/1 - Exploring One-Variable Data.md",
+    "STAT/AP/2 - Exploring 2-Variable Data.md",
+    "STAT/AP/4 - Probability, Random Variables, and Probability Distributions.md",
+    "STAT/AP/5 - Sampling Distributions.md",
+    "STAT/AP/7 - Inference for Quantitative Data, Means.md",
     "BIO/Cell Structure and Function/5 - Speciation.md",
     "BIO/AP BIO.md",
     "combined.md",
     "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
-    "BIO/Biology.md",
     "BIO/Cell Structure and Function/Human Induced Speciation.md",
     "BIO/Cell Structure and Function/Controversies on Speciation.md",
     "BIO/Cell Structure and Function/Reproductive Isolation.md",
@@ -239,17 +250,6 @@
     "BIO/Cell Structure and Function/Controversies on Classification.md",
     "BIO/Cell Structure and Function/Classification.md",
     "BIO/Cell Structure and Function/Speed of Speciation.md",
-    "BIO/Cell Structure and Function/Allopatric Speciation.md",
-    "BIO/Cell Structure and Function/Domain.md",
-    "BIO/Cell Structure and Function/Species Concepts.md",
-    "BIO/Cell Structure and Function/Species and Conservation.md",
-    "BIO/Cell Structure and Function/Evidence of Speciation in Fossil Record.md",
-    "Daily Notes/2023-09-20.md",
-    "Daily Notes/2023-09-19.md",
-    "Detrola Tracker.md",
-    "Syvio Detrola.md",
-    "STAT/Data Analysis/Variable.md",
-    "STAT/Data Analysis/Quantitative Data.md",
     "BIO/Resources/Images/Screenshot 2023-09-07 at 8.51.49 PM.png",
     "BIO/Resources/Images/Screenshot 2023-09-07 at 8.54.43 PM.png",
     "Daily Notes",

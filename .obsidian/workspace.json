@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/AP BIO.md",
-                "mode": "source",
+                "file": "STAT/AP/8 - Inference for Categorical  Data, Chi-Square.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/AP BIO.md",
+                "file": "STAT/AP/8 - Inference for Categorical  Data, Chi-Square.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/AP BIO.md",
+                "file": "STAT/AP/8 - Inference for Categorical  Data, Chi-Square.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BIO/AP BIO.md",
+                "file": "STAT/AP/8 - Inference for Categorical  Data, Chi-Square.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/AP BIO.md"
+                "file": "STAT/AP/8 - Inference for Categorical  Data, Chi-Square.md"
               }
             }
           },

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Syvio Detrola.md",
+                "file": "Daily Notes/2023-09-20.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -79,7 +79,7 @@
       {
         "id": "f060aaa81c1d81df",
         "type": "tabs",
-        "dimension": 34.75991649269311,
+        "dimension": 24.301336573511545,
         "children": [
           {
             "id": "e9720f00435a1552",
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Syvio Detrola.md",
+                "file": "Daily Notes/2023-09-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Syvio Detrola.md",
+                "file": "Daily Notes/2023-09-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Syvio Detrola.md",
+                "file": "Daily Notes/2023-09-20.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Syvio Detrola.md"
+                "file": "Daily Notes/2023-09-20.md"
               }
             }
           },
@@ -171,6 +171,22 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "60cb7cdbe3020641",
+        "type": "tabs",
+        "dimension": 75.69866342648845,
+        "children": [
+          {
+            "id": "51ee88dc3d4082ae",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
               "state": {}
             }
           },
@@ -183,22 +199,7 @@
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "60cb7cdbe3020641",
-        "type": "tabs",
-        "dimension": 65.24008350730689,
-        "children": [
-          {
-            "id": "51ee88dc3d4082ae",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -224,7 +225,10 @@
   },
   "active": "b621fbeb3a5fe340",
   "lastOpenFiles": [
+    "Daily Notes/2023-09-19.md",
+    "Daily Notes/2023-09-20.md",
     "Detrola Tracker.md",
+    "Syvio Detrola.md",
     "STAT/Data Analysis/Variable.md",
     "STAT/Data Analysis/Quantitative Data.md",
     "STAT/Data Analysis/Introduction Exercises.md",
@@ -247,9 +251,6 @@
     "LIT/Comp. 1/Comp 1 - Split.md",
     "LIT/Disquiet/Disquiet Planning.md",
     "BIO/Cell Structure and Function/Gram Negative Bacteria.md",
-    "Excalidraw/Cell Wall Variable Shapes.md",
-    "BIO/Measuring Variation within a Population and Sample/Standard Error of Mean.md",
-    "BIO/Cell Structure and Function/Gram Staining.md",
     "BIO/Resources/Images/Screenshot 2023-09-07 at 8.51.49 PM.png",
     "BIO/Resources/Images/Screenshot 2023-09-07 at 8.54.43 PM.png",
     "Daily Notes",

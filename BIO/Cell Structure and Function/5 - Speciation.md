@@ -26,7 +26,7 @@
     - **Human Activities**: Habitat destruction and fragmentation can lead to isolation and potentially new species.
     - **Artificial Selection**: Humans have selectively bred plants and animals, leading to rapid speciation.
 
-- **Controversies and Debates**
+- **[[Controversies and Debates on Speciation|Controversies and Debates]]**
     - The concept of speciation has led to debates about how to define and identify species. -> [[Species Concepts]]
     - Some argue that the process of speciation is more complex than traditionally thought.
 

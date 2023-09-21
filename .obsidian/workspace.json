@@ -13,7 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/Cell Structure and Function/Allopatric Speciation.md",
+                "file": "BIO/Cell Structure and Function/5 - Speciation.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17c7f68bc3017de6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIO/Cell Structure and Function/Classification.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84119b7a9079a470",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIO/Cell Structure and Function/Domain.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -33,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/Cell Structure and Function/Allopatric Speciation.md",
+                "file": "BIO/Cell Structure and Function/Domain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/Cell Structure and Function/Allopatric Speciation.md",
+                "file": "BIO/Cell Structure and Function/Domain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +167,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BIO/Cell Structure and Function/Allopatric Speciation.md",
+                "file": "BIO/Cell Structure and Function/Domain.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -163,7 +190,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.48854597807787425,
+                  "scale": 0.3191608553618807,
                   "close": true
                 }
               }
@@ -175,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/Cell Structure and Function/Allopatric Speciation.md"
+                "file": "BIO/Cell Structure and Function/Domain.md"
               }
             }
           },
@@ -235,16 +262,19 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "f9908261ea24701f",
+  "active": "84119b7a9079a470",
   "lastOpenFiles": [
+    "BIO/Cell Structure and Function/Classification.md",
+    "BIO/Cell Structure and Function/Domain.md",
     "BIO/Cell Structure and Function/5 - Speciation.md",
-    "BIO/Cell Structure and Function/Species Concepts.md",
-    "BIO/Cell Structure and Function/Species and Conservation.md",
-    "BIO/Cell Structure and Function/Allopatric Speciation.md",
+    "BIO/Cell Structure and Function/Human Induced Speciation.md",
+    "BIO/Cell Structure and Function/Controversies and Debates on Speciation.md",
     "BIO/Cell Structure and Function/Speed of Speciation.md",
+    "BIO/Cell Structure and Function/Species Concepts.md",
+    "BIO/Cell Structure and Function/Allopatric Speciation.md",
+    "BIO/Cell Structure and Function/Species and Conservation.md",
     "BIO/Cell Structure and Function/Sympatric Speciation.md",
     "Evolution.md",
-    "BIO/Cell Structure and Function/Human Induced Speciation.md",
     "BIO/Cell Structure and Function/Evidence of Speciation in Fossil Record.md",
     "BIO/Cell Structure and Function/Reproductive Isolation.md",
     "Daily Notes/2023-09-20.md",
@@ -260,9 +290,6 @@
     "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
     "BIO/Cell Structure and Function/Endospores.md",
     "BIO/Cell Structure and Function/E-Coli.md",
-    "BIO/Cell Structure and Function/Cytoplasm.md",
-    "BIO/Cell Structure and Function/Cell Envelope.md",
-    "BIO/Cell Structure and Function/Capsule.md",
     "BIO/Resources/Images/Screenshot 2023-09-07 at 8.51.49 PM.png",
     "BIO/Resources/Images/Screenshot 2023-09-07 at 8.54.43 PM.png",
     "Daily Notes",

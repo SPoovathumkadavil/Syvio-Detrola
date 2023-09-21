@@ -1,3 +1,11 @@
+---
+aliases:
+  - Speed of Speciation
+subject: Science
+subset: Biology
+importance: 7
+type: Concept
+---
 The rate at which new species form is a key aspect of evolutionary biology. Speciation rates can vary widely depending on various factors and ecological conditions. Here's an exploration of this topic:
 
 - **Speciation Rate Defined**:

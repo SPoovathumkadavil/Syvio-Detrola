@@ -1,3 +1,12 @@
+---
+aliases:
+  - 5 - Speciation
+subject: Science
+subset: Biology
+importance: 8
+type: Bearing
+order: 5
+---
 - **Definition of Speciation**
     - Speciation is the process by which one ancestral species splits into two or more distinct species.
     - It involves the evolution of reproductive barriers that prevent gene flow between populations.

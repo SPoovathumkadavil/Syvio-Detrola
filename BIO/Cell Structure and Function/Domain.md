@@ -5,7 +5,7 @@ The classification of life on Earth is organized into three major domains: Bacte
 1. **[[Bacteria]]**:
     - **Cell Type**: Bacteria are prokaryotic cells, meaning they lack a membrane-bound nucleus and other organelles.
     - **[[Cell Wall]]**: Most bacteria have a cell wall made of peptidoglycan.
-    - **Metabolism**: Bacteria exhibit diverse metabolic pathways, including autotrophy ([[Phophotosynthesis]]) and heterotrophy (consumption of organic matter).
+    - **Metabolism**: Bacteria exhibit diverse metabolic pathways, including autotrophy ([[Photosynthesis|photosynthesis]]) and heterotrophy (consumption of organic matter).
     - **Habitats**: Bacteria inhabit a wide range of environments, from soil and water to extreme environments like hot springs and deep-sea hydrothermal vents.
     - **Reproduction**: Bacteria reproduce asexually through binary fission.
 

@@ -1,3 +1,11 @@
+---
+aliases:
+  - Allopatric Speciation
+subject: Science
+subset: Biology
+importance: 7
+type: Concept
+---
 Allopatric speciation is a process of speciation that occurs when populations of a species become geographically isolated from each other. This isolation creates a barrier that prevents the free flow of genes between the populations, leading to genetic divergence and the eventual formation of two or more distinct species. Here's a more detailed explanation:
 
 1. **Geographic Isolation**:

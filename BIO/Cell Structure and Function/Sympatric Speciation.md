@@ -1,3 +1,11 @@
+---
+aliases:
+  - Sympatric Speciation
+subject: Science
+subset: Biology
+importance: 7
+type: Concept
+---
 Sympatric speciation is a process of speciation that occurs when new species evolve from a single ancestral species within the same geographic area. Unlike allopatric speciation, where populations are geographically isolated, sympatric speciation occurs when populations are in close proximity. Here's a more detailed explanation:
 
 - **Intraspecific Competition**:

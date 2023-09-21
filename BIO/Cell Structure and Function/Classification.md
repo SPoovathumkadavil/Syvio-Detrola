@@ -1,3 +1,11 @@
+---
+aliases:
+  - Classification
+subject: Science
+subset: Biology
+importance: 9
+type: Concept
+---
 Classification, also known as taxonomy, is the science of organizing and categorizing living organisms based on shared characteristics and evolutionary relationships. It provides a systematic way to understand and study the immense diversity of life on Earth. Here are the key aspects of classification:
 
 - **Purpose of Classification**:
@@ -22,7 +30,7 @@ Classification, also known as taxonomy, is the science of organizing and categor
     - Advances in molecular biology have led to the use of genetic data (DNA sequencing) for classification.
 
 - **Phylogenetics**:
-    - Phylogenetics is the study of evolutionary relationships among organisms. It uses techniques like cladistics to construct phylogenetic trees that represent the branching of lineages.
+    - Phylogenetics is the study of evolutionary relationships among organisms. It uses techniques like cladistics to construct [[Phylogenetic Trees|phylogenetic trees]] that represent the branching of lineages.
 
 - **Domains of Life**:
     - The highest level of classification includes three domains: Bacteria, Archaea, and Eukarya.

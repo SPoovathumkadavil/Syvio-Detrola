@@ -1,5 +1,10 @@
 ---
-alias:
+aliases:
+  - Domain
+subject: Science
+subset: Biology
+importance: 8
+type: Concept
 ---
 ## Domains of Life
 

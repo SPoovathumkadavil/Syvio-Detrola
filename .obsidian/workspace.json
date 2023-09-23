@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2024df94b7a57dc8",
+        "id": "bbda9b9ba9fdf292",
         "type": "tabs",
         "children": [
           {
-            "id": "f9908261ea24701f",
+            "id": "a79a5acac1388ec8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/AP/1 - Chemistry of Life.md",
+                "file": "BIO/Expanding on Natural Selection/1 - Speciation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/AP/1 - Chemistry of Life.md",
+                "file": "BIO/Expanding on Natural Selection/1 - Speciation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/AP/1 - Chemistry of Life.md",
+                "file": "BIO/Expanding on Natural Selection/1 - Speciation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BIO/AP/1 - Chemistry of Life.md",
+                "file": "BIO/Expanding on Natural Selection/1 - Speciation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/AP/1 - Chemistry of Life.md"
+                "file": "BIO/Expanding on Natural Selection/1 - Speciation.md"
               }
             }
           },
@@ -191,12 +191,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "BIO/AP/1 - Chemistry of Life.md"
+                "file": "BIO/Expanding on Natural Selection/1 - Speciation.md"
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       },
       {
         "id": "60cb7cdbe3020641",
@@ -243,13 +243,20 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "f9908261ea24701f",
+  "active": "a79a5acac1388ec8",
   "lastOpenFiles": [
-    "apbio.pdf",
-    "BIO/AP/1 - Chemistry of Life.md",
-    "BIO/Biology.md",
     "BIO/Expanding on Natural Selection/1 - Speciation.md",
+    "BIO/Expanding on Natural Selection/Divergent Evolution.md",
     "BIO/Expanding on Natural Selection/Controversies on Speciation.md",
+    "BIO/Expanding on Natural Selection/Evidence of Speciation in Fossil Record.md",
+    "BIO/Expanding on Natural Selection/Classification.md",
+    "BIO/Expanding on Natural Selection/Human Induced Speciation.md",
+    "Excalidraw/Divergent Evolution.md",
+    "BIO/Expanding on Natural Selection/Reproductive Isolation.md",
+    "Daily Notes/2023-09-22.md",
+    "BIO/AP/1 - Chemistry of Life.md",
+    "apbio.pdf",
+    "BIO/Biology.md",
     "Daily Notes/2023-09-21.md",
     "BIO/Expanding on Natural Selection/Allopatric Speciation.md",
     "BIO/Cell Structure and Function/Gelatinase.md",
@@ -257,7 +264,6 @@
     "BIO/AP/2 - Cell Structure and Function.md",
     "BIO/Cell Structure and Function/Domain.md",
     "BIO/Cell Structure and Function/Bacteria.md",
-    "BIO/Expanding on Natural Selection/Classification.md",
     "STAT/Data Analysis/Categorical Data.md",
     "STAT/Data Analysis/1.1 - The Science and Art of Data.md",
     "STAT/AP/9 - Inference for Quantitative Data, Slopes.md",
@@ -267,11 +273,6 @@
     "STAT/AP/1 - Exploring One-Variable Data.md",
     "STAT/AP/2 - Exploring 2-Variable Data.md",
     "STAT/AP/4 - Probability, Random Variables, and Probability Distributions.md",
-    "STAT/AP/5 - Sampling Distributions.md",
-    "STAT/AP/7 - Inference for Quantitative Data, Means.md",
-    "BIO/AP BIO.md",
-    "combined.md",
-    "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
     "BIO/Resources/Images/Screenshot 2023-09-07 at 8.51.49 PM.png",
     "BIO/Resources/Images/Screenshot 2023-09-07 at 8.54.43 PM.png",
     "Daily Notes",

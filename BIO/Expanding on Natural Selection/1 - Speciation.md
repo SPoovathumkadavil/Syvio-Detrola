@@ -42,3 +42,5 @@ order: 1
 - **Speciation and Evolution**
     - Speciation is a key driver of biodiversity and plays a crucial role in the theory of evolution by natural selection.
     - These mechanisms and modes influence the [[Speed of Speciation|speed of speciation]].
+
+![[BIO/Expanding on Natural Selection/Divergent Evolution]]

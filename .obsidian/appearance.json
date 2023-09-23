@@ -2,7 +2,7 @@
   "accentColor": "",
   "cssTheme": "Minimal",
   "translucency": true,
-  "theme": "obsidian",
+  "theme": "system",
   "enabledCssSnippets": [
     "align"
   ],

@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bbda9b9ba9fdf292",
+        "id": "36112d6300dd63ea",
         "type": "tabs",
         "children": [
           {
-            "id": "a79a5acac1388ec8",
+            "id": "c79bc42a673905e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIO/Expanding on Natural Selection/Phylogenetic Trees.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -88,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/Expanding on Natural Selection/Phylogenetic Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/Expanding on Natural Selection/Phylogenetic Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +121,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BIO/Expanding on Natural Selection/Phylogenetic Trees.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -162,9 +154,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "BIO/Expanding on Natural Selection/Phylogenetic Trees.md"
-              }
+              "state": {}
             }
           },
           {
@@ -190,9 +180,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "BIO/Expanding on Natural Selection/Phylogenetic Trees.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -243,8 +231,9 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "a79a5acac1388ec8",
+  "active": "c79bc42a673905e5",
   "lastOpenFiles": [
+    "BIO/Expanding on Natural Selection/Phylogenetic Trees.md",
     "Daily Notes/2023-09-23.md",
     "Daily Notes/2023-09-24.md",
     "Daily Notes/2023-09-25.md",
@@ -256,7 +245,6 @@
     "BIO/Expanding on Natural Selection/Controversies on Classification.md",
     "BIO/Expanding on Natural Selection/Divergent Evolution.md",
     "BIO/Expanding on Natural Selection/Morphologic Classification of Bacteria.md",
-    "BIO/Expanding on Natural Selection/Phylogenetic Trees.md",
     "BIO/Expanding on Natural Selection/Species and Conservation.md",
     "BIO/Expanding on Natural Selection/Reproductive Isolation.md",
     "BIO/Expanding on Natural Selection/Sympatric Speciation.md",

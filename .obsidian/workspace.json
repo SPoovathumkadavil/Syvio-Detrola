@@ -11,8 +11,13 @@
             "id": "c79bc42a673905e5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "BIO/Measuring Variation within a Population and Sample/2 - Intra-Variance.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -83,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "BIO/Measuring Variation within a Population and Sample/2 - Intra-Variance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "BIO/Measuring Variation within a Population and Sample/2 - Intra-Variance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,6 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "BIO/Measuring Variation within a Population and Sample/2 - Intra-Variance.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -154,7 +162,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "BIO/Measuring Variation within a Population and Sample/2 - Intra-Variance.md"
+              }
             }
           },
           {
@@ -180,7 +190,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "BIO/Measuring Variation within a Population and Sample/2 - Intra-Variance.md"
+              }
             }
           }
         ],
@@ -233,8 +245,12 @@
   },
   "active": "c79bc42a673905e5",
   "lastOpenFiles": [
-    "BIO/Expanding on Natural Selection/Phylogenetic Trees.md",
+    "BIO/Measuring Variation within a Population and Sample/4 - Lab 1 - Natural Variation.md",
+    "BIO/Measuring Variation within a Population and Sample/3 - Errors.md",
+    "BIO/Measuring Variation within a Population and Sample/2 - Intra-Variance.md",
+    "BIO/Measuring Variation within a Population and Sample/1 - Bean Example.md",
     "Daily Notes/2023-09-23.md",
+    "BIO/Expanding on Natural Selection/Phylogenetic Trees.md",
     "Daily Notes/2023-09-24.md",
     "Daily Notes/2023-09-25.md",
     "BIO/Expanding on Natural Selection/Evidence of Speciation in Fossil Record.md",
@@ -256,11 +272,7 @@
     "BIO/Biology.md",
     "Daily Notes/2023-09-21.md",
     "BIO/Expanding on Natural Selection/Allopatric Speciation.md",
-    "BIO/Cell Structure and Function/Gelatinase.md",
     "BIO/Expanding on Natural Selection",
-    "BIO/AP/2 - Cell Structure and Function.md",
-    "BIO/Cell Structure and Function/Domain.md",
-    "BIO/Cell Structure and Function/Bacteria.md",
     "BIO/Resources/Images/Screenshot 2023-09-07 at 8.51.49 PM.png",
     "BIO/Resources/Images/Screenshot 2023-09-07 at 8.54.43 PM.png",
     "Daily Notes",

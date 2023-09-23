@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/Expanding on Natural Selection/1 - Speciation.md",
+                "file": "BIO/Expanding on Natural Selection/Divergent Evolution.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/Expanding on Natural Selection/1 - Speciation.md",
+                "file": "BIO/Expanding on Natural Selection/Divergent Evolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/Expanding on Natural Selection/1 - Speciation.md",
+                "file": "BIO/Expanding on Natural Selection/Divergent Evolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BIO/Expanding on Natural Selection/1 - Speciation.md",
+                "file": "BIO/Expanding on Natural Selection/Divergent Evolution.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/Expanding on Natural Selection/1 - Speciation.md"
+                "file": "BIO/Expanding on Natural Selection/Divergent Evolution.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "BIO/Expanding on Natural Selection/1 - Speciation.md"
+                "file": "BIO/Expanding on Natural Selection/Divergent Evolution.md"
               }
             }
           }
@@ -245,6 +245,9 @@
   },
   "active": "a79a5acac1388ec8",
   "lastOpenFiles": [
+    "BIO/Expanding on Natural Selection/Reproductive Isolation.md",
+    "BIO/Expanding on Natural Selection/Sympatric Speciation.md",
+    "Daily Notes/2023-09-23.md",
     "BIO/Expanding on Natural Selection/1 - Speciation.md",
     "BIO/Expanding on Natural Selection/Divergent Evolution.md",
     "BIO/Expanding on Natural Selection/Controversies on Speciation.md",
@@ -252,7 +255,6 @@
     "BIO/Expanding on Natural Selection/Classification.md",
     "BIO/Expanding on Natural Selection/Human Induced Speciation.md",
     "Excalidraw/Divergent Evolution.md",
-    "BIO/Expanding on Natural Selection/Reproductive Isolation.md",
     "Daily Notes/2023-09-22.md",
     "BIO/AP/1 - Chemistry of Life.md",
     "apbio.pdf",
@@ -271,8 +273,6 @@
     "STAT/AP/6 - Inference for Categorical Data, Proportions.md",
     "STAT/AP/3 - Collecting Data.md",
     "STAT/AP/1 - Exploring One-Variable Data.md",
-    "STAT/AP/2 - Exploring 2-Variable Data.md",
-    "STAT/AP/4 - Probability, Random Variables, and Probability Distributions.md",
     "BIO/Resources/Images/Screenshot 2023-09-07 at 8.51.49 PM.png",
     "BIO/Resources/Images/Screenshot 2023-09-07 at 8.54.43 PM.png",
     "Daily Notes",

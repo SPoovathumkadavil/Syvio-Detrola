@@ -15,7 +15,7 @@ Sympatric speciation is a process of speciation that occurs when new species evo
 -  **Resource Partitioning**:
     - As individuals within a population adapt to different niches or resources, they may diverge genetically and behaviorally.
     - For example, in a lake ecosystem, some fish may evolve to feed on the surface, while others evolve to feed at greater depths.
-- **Reproductive Isolation**:
+- **[[Reproductive Isolation]]**:
     - Over time, individuals with different ecological niches may become reproductively isolated.
     - This can happen through assortative mating, where individuals preferentially mate with others that share their niche.
 - **Examples of Sympatric Speciation**:

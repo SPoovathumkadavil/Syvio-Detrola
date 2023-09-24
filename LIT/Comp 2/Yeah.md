@@ -1,0 +1,1 @@
+The 1920s, often referred to as the "Roaring 20s", are a decade defined by immense cultural shift and societal transformations. As a recovery period after World War 1, the people of this era found themselves torn between the horrors they witnessed in their past and the promise of economic property. It was the radical youth of the time, driven by a 

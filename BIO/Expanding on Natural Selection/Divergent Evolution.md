@@ -30,3 +30,5 @@ What leads to infertile offspring?
 			- What if there is 23 || 24 male?
 - Reproductively isolated subpopulation within the population.
 ![[Excalidraw/Divergent Evolution|center]]
+
+Biological species: A population or group of related populations whose members have the potential to interbreed (i.e. successfully mate & reproduce) in order to generate living, fertile offspring (i.e. genetic exchange between individuals is possible)

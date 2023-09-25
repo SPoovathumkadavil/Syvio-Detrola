@@ -4,4 +4,3 @@ Fitzgerald uses the motif of a green light to embody Gatsby’s connection to hi
 
 Fitzgerald's writing sheds light on the superficiality of desires and dreams. 
 
-This highlights how even seemingly insignificant concerns from one's past can interfere with the present, impeding the efforts of even the most determined individuals.

@@ -16,7 +16,7 @@ Reproductive isolation mechanisms are critical in the process of speciation as t
     
     b. **Temporal Isolation**:
     - Populations have different breeding seasons or times of day when they are active, reducing the chance of mating.
-    
+    ![[Screenshot 2023-09-25 at 8.46.18 AM.png]]
     c. **Mechanical Isolation**:
     - Differences in reproductive organs prevent successful mating or fertilization.
     

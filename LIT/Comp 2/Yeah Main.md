@@ -6,6 +6,8 @@ Fitzgerald's writing sheds light on the superficiality of desires and dreams in 
 
 Fitzgerald's writing is infused with a frivolity that transcends the boundaries of the 1920s and has extraordinary resonance in modern life. "The Great Gatsby" is a classic examination of the American Dream and how this lofty ideal can be subverted by the persistent pursuit of financial riches. The exciting and mysterious character of Jay Gatsby serves as a cautionary tale, showing how a solitary focus on monetary prosperity can result in a state of paralysis. Gatsby's relentless pursuit of his interpretation of the American Dream, exemplified by his unrequited love for Daisy, ultimately leads to tragedy and disappointment. Fitzgerald's story challenges readers to reflect, asking them to consider the nature of their own goals and the possible repercussions of pursuing an idealized definition of success. The timeless study of "The Great Gatsby" continues to shed light on the human condition and provides insightful guidance for negotiating the intricacies of aspiration, identity, and the pursuit of happiness in the modern world.
 
+Infused with frivolity and elements of modernism, Fitzgerald's writing transcends the 1920s and has an incredible resonance in modern life. The Great Gatsby is a classic study of the American Dream and it's contortion with respect to interpretations. The mysteries and enigmatic Jay Gatsby serves as a cautionary tale.  
+
 
 
 

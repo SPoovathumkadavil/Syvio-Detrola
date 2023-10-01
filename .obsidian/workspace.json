@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/AP/8 - Ecology.md",
+                "file": "Daily Notes/2023-10-01.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -67,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -88,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/AP/8 - Ecology.md",
+                "file": "Daily Notes/2023-10-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/AP/8 - Ecology.md",
+                "file": "Daily Notes/2023-10-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +129,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BIO/AP/8 - Ecology.md",
+                "file": "Daily Notes/2023-10-01.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -163,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/AP/8 - Ecology.md"
+                "file": "Daily Notes/2023-10-01.md"
               }
             }
           },
@@ -191,7 +192,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "BIO/AP/8 - Ecology.md"
+                "file": "Daily Notes/2023-10-01.md"
               }
             }
           }
@@ -243,8 +244,10 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "bdbccdb2ef044794",
+  "active": "14a1c8cf53e23831",
   "lastOpenFiles": [
+    "BIO/AP/8 - Ecology.md",
+    "Daily Notes/2023-10-01.md",
     "Daily Notes/2023-09-30.md",
     "Daily Notes/2023-09-29.md",
     "Daily Notes/2023-09-28.md",
@@ -280,8 +283,6 @@
     "Daily Notes/2023-09-23.md",
     "BIO/Expanding on Natural Selection/Phylogenetic Trees.md",
     "BIO/Expanding on Natural Selection/Evidence of Speciation in Fossil Record.md",
-    "BIO/Expanding on Natural Selection/Human Induced Speciation.md",
-    "BIO/Expanding on Natural Selection/Species Concepts.md",
     "BIO/Resources/Images/Screenshot 2023-09-07 at 8.51.49 PM.png",
     "BIO/Resources/Images/Screenshot 2023-09-07 at 8.54.43 PM.png",
     "BIO/Resources/Images/Screenshot 2023-09-07 at 8.59.15 PM.png",

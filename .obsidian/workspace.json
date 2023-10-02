@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e7f9c85b4d246d9a",
+        "id": "26f8a755fa8b5e7c",
         "type": "tabs",
         "children": [
           {
-            "id": "14a1c8cf53e23831",
+            "id": "25d98e877bcbdf40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2023-10-01.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -89,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-10-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-10-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +122,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily Notes/2023-10-01.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -163,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily Notes/2023-10-01.md"
-              }
+              "state": {}
             }
           },
           {
@@ -191,9 +181,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Daily Notes/2023-10-01.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -244,10 +232,10 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "14a1c8cf53e23831",
+  "active": "25d98e877bcbdf40",
   "lastOpenFiles": [
-    "BIO/AP/8 - Ecology.md",
     "Daily Notes/2023-10-01.md",
+    "BIO/AP/8 - Ecology.md",
     "Daily Notes/2023-09-30.md",
     "Daily Notes/2023-09-29.md",
     "Daily Notes/2023-09-28.md",

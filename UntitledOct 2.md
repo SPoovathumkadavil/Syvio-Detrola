@@ -12,6 +12,6 @@ New sequence because DNA replication error.
 		1. T also has single ringed structure.
 	3. The machine makes a mistake, makes sense and works in place.
 	4. Copying happens in the same cell, but now because of mutation, one cell has DNA that looks like original, while other has mistake in it.
-	5. Either can end up with mistake. 3d.
-4. ![[SNPRepError.excalidraw | center]]
-5. 
+	5. Either can end up with mistake. 3D.
+ ![[SNPRepError.excalidraw | center]]
+ 4. When this cell splits, one is good, the other has the mistake.

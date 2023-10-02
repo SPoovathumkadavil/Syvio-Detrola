@@ -15,3 +15,6 @@ New sequence because DNA replication error.
 	5. Either can end up with mistake. 3D.
  ![[SNPRepError.excalidraw | center]]
  4. When this cell splits, one is good, the other has the mistake.
+
+More recent common ancestors share more similarities to the more recent species. The frog is further because there are more differences.
+

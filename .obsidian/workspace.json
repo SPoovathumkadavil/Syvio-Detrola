@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(chi square)",
+                "query": "file:dra",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -246,7 +245,9 @@
   },
   "active": "ff04aac92c0b83d4",
   "lastOpenFiles": [
+    "Excalidraw/SNPRepError.excalidraw.md",
     "UntitledOct 2.md",
+    "SNP.md",
     "STAT/AP/1 - Exploring One-Variable Data.md",
     "Daily Notes/2023-10-02.md",
     "Daily Notes/2023-10-01.md",
@@ -281,8 +282,6 @@
     "LaTex/__latexindent_temp_main.tex",
     "BIO/Measuring Variation within a Population and Sample/4 - Lab 1 - Natural Variation.md",
     "BIO/Measuring Variation within a Population and Sample/3 - Errors.md",
-    "BIO/Measuring Variation within a Population and Sample/2 - Intra-Variance.md",
-    "BIO/Measuring Variation within a Population and Sample/1 - Bean Example.md",
     "BIO/Resources/Images/Screenshot 2023-09-07 at 8.51.49 PM.png",
     "BIO/Resources/Images/Screenshot 2023-09-07 at 8.54.43 PM.png",
     "BIO/Resources/Images/Screenshot 2023-09-07 at 8.59.15 PM.png",

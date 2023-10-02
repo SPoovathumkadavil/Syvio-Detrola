@@ -1,0 +1,1 @@
+Each SNP represents a difference in a single [DNA building block](https://medlineplus.gov/genetics/understanding/basics/dna/), called a nucleotide. For example, a SNP may replace the nucleotide cytosine (C) with the nucleotide thymine (T) in a certain stretch of DNA.

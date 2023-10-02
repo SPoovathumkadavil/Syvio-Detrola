@@ -8,11 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "25d98e877bcbdf40",
+            "id": "ff04aac92c0b83d4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "UntitledOct 2.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -45,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "line:(chi square)",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "UntitledOct 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "UntitledOct 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,6 +129,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "UntitledOct 2.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -155,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "UntitledOct 2.md"
+              }
             }
           },
           {
@@ -181,7 +191,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "UntitledOct 2.md"
+              }
             }
           }
         ],
@@ -232,8 +244,11 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "25d98e877bcbdf40",
+  "active": "ff04aac92c0b83d4",
   "lastOpenFiles": [
+    "UntitledOct 2.md",
+    "STAT/AP/1 - Exploring One-Variable Data.md",
+    "Daily Notes/2023-10-02.md",
     "Daily Notes/2023-10-01.md",
     "BIO/AP/8 - Ecology.md",
     "Daily Notes/2023-09-30.md",
@@ -268,9 +283,6 @@
     "BIO/Measuring Variation within a Population and Sample/3 - Errors.md",
     "BIO/Measuring Variation within a Population and Sample/2 - Intra-Variance.md",
     "BIO/Measuring Variation within a Population and Sample/1 - Bean Example.md",
-    "Daily Notes/2023-09-23.md",
-    "BIO/Expanding on Natural Selection/Phylogenetic Trees.md",
-    "BIO/Expanding on Natural Selection/Evidence of Speciation in Fossil Record.md",
     "BIO/Resources/Images/Screenshot 2023-09-07 at 8.51.49 PM.png",
     "BIO/Resources/Images/Screenshot 2023-09-07 at 8.54.43 PM.png",
     "BIO/Resources/Images/Screenshot 2023-09-07 at 8.59.15 PM.png",

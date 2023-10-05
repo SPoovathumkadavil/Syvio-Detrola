@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/Expanding on Natural Selection/PC Prep - 2.md",
+                "file": "BIO/Expanding on Natural Selection/Classification.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a825de1efb5dae89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIO/Expanding on Natural Selection/Hardy Weinberg EQ.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,6 +34,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -88,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/Expanding on Natural Selection/PC Prep - 2.md",
+                "file": "BIO/Expanding on Natural Selection/Hardy Weinberg EQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/Expanding on Natural Selection/PC Prep - 2.md",
+                "file": "BIO/Expanding on Natural Selection/Hardy Weinberg EQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +142,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BIO/Expanding on Natural Selection/PC Prep - 2.md",
+                "file": "BIO/Expanding on Natural Selection/Hardy Weinberg EQ.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -163,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/Expanding on Natural Selection/PC Prep - 2.md"
+                "file": "BIO/Expanding on Natural Selection/Hardy Weinberg EQ.md"
               }
             }
           },
@@ -191,7 +205,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "BIO/Expanding on Natural Selection/PC Prep - 2.md"
+                "file": "BIO/Expanding on Natural Selection/Hardy Weinberg EQ.md"
               }
             }
           }
@@ -243,14 +257,20 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "ff04aac92c0b83d4",
+  "active": "a825de1efb5dae89",
   "lastOpenFiles": [
+    "BIO/Resources/Images/Screenshot 2023-10-05 at 8.22.09 AM.png",
+    "BIO/Resources/Images/Screenshot 2023-10-05 at 8.21.26 AM.png",
+    "BIO/Resources/Images/Screenshot 2023-10-05 at 8.20.11 AM.png",
+    "BIO/Expanding on Natural Selection/Classification.md",
+    "BIO/Expanding on Natural Selection/Hardy Weinberg EQ.md",
+    "Daily Notes/2023-10-05.md",
+    "BIO/Expanding on Natural Selection/PC Prep - 2.md",
     "BIO/Resources/Images/Screenshot 2023-10-04 at 8.14.53 AM.png",
     "BIO/Resources/Images/Screenshot 2023-10-04 at 8.14.45 AM.png",
     "BIO/Resources/Images/Screenshot 2023-10-04 at 8.12.39 AM.png",
     "BIO/Resources/Images/Screenshot 2023-10-04 at 8.12.28 AM.png",
     "Daily Notes/2023-10-04.md",
-    "BIO/Expanding on Natural Selection/PC Prep - 2.md",
     "BIO/Expanding on Natural Selection/UntitledOct 2.md",
     "Untitled.loom",
     "BIO/Expanding on Natural Selection/Cluster Data Reptiles on Island.md",
@@ -275,9 +295,6 @@
     "Daily Notes/2023-09-26.md",
     "LIT/Comp 2/Comp 2 Planning.md",
     "CSA/Kalman Filter.md",
-    "Daily Notes/2023-09-25.md",
-    "BIO/Biology.md",
-    "BIO/Expanding on Natural Selection/Reproductive Isolation.md",
     "Screenshot 2023-09-25 at 8.46.18 AM.png",
     "LIT/Comp 2",
     "LaTex/main.synctex.gz",
@@ -287,9 +304,6 @@
     "LaTex/main.fls",
     "BIO/Resources/Images/Screenshot 2023-09-07 at 8.51.49 PM.png",
     "BIO/Resources/Images/Screenshot 2023-09-07 at 8.54.43 PM.png",
-    "BIO/Resources/Images/Screenshot 2023-09-07 at 8.59.15 PM.png",
-    "BIO/Resources/Images/Screenshot 2023-09-07 at 8.58.48 PM.png",
-    "BIO/Resources/Images/North Frequency vs Leaf Length (1).png",
-    "BIO/Resources/Images/Leaf Length Mean Comparison.png"
+    "BIO/Resources/Images/Screenshot 2023-09-07 at 8.59.15 PM.png"
   ]
 }

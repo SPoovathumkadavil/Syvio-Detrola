@@ -2,7 +2,7 @@ A little review from middle school life science...
 
 _(You may want to write this down...)_
 
-An **allele** is one (1) version of a gene. A gene, composed of DNA, is often considered to serve as the instructions for making a protein within a cell. Thus, one allele could serve as the instructions to make one version of a protein, a second allele could be used to make a different version, and so on.
+An **allele** is one (1) version of a gene. A gene, composed of DNA, is often considered to serve as the instructions for making a protein within a cell. Thus, one allele could serve as the instructions to make one version of a protein, a second allele could be used to make a different version, and so on. #Important 
 
 A **genotype** is the genetic make-up of an individual. Every one inherits one (1) allele (i.e. version of a gene) from each of their parents.
 

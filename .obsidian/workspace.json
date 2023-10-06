@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "26f8a755fa8b5e7c",
+        "id": "2476e3dfbead4be0",
         "type": "tabs",
         "children": [
           {
-            "id": "ff04aac92c0b83d4",
+            "id": "a7821661abbdc262",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -244,12 +244,13 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "ff04aac92c0b83d4",
+  "active": "a7821661abbdc262",
   "lastOpenFiles": [
+    "Daily Notes/2023-10-06.md",
+    "BIO/Expanding on Natural Selection/Hardy Weinberg EQ.md",
     "STAT/AP/4 - Probability, Random Variables, and Probability Distributions.md",
     "BIO/Expanding on Natural Selection/Classification.md",
     "BIO/AP/5 - Heredity.md",
-    "BIO/Expanding on Natural Selection/Hardy Weinberg EQ.md",
     "BIO/Resources/Images/Screenshot 2023-10-05 at 8.32.21 AM.png",
     "BIO/Resources/Images/Screenshot 2023-10-05 at 8.28.39 AM.png",
     "BIO/Resources/Images/Screenshot 2023-10-05 at 8.28.07 AM.png",
@@ -285,7 +286,6 @@
     "Daily Notes/2023-09-27.md",
     "LIT/Comp 2/Yeah Main.md",
     "Daily Notes/2023-09-26.md",
-    "LIT/Comp 2/Comp 2 Planning.md",
     "LIT/Comp 2",
     "LaTex/main.synctex.gz",
     "LaTex/main.pdf",

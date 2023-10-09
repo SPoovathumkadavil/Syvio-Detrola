@@ -13,7 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2023-10-06.md",
+                "file": "BIO/Expanding on Natural Selection/Controversies on Speciation.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a51d175e6ec857d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIO/Expanding on Natural Selection/Controversies on Classification.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f5efa780f07b27c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIO/Expanding on Natural Selection/Null Hypothesis.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,6 +47,7 @@
             }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -67,8 +94,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -89,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-10-06.md",
+                "file": "BIO/Expanding on Natural Selection/Null Hypothesis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-10-06.md",
+                "file": "BIO/Expanding on Natural Selection/Null Hypothesis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily Notes/2023-10-06.md",
+                "file": "BIO/Expanding on Natural Selection/Null Hypothesis.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -164,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-10-06.md"
+                "file": "BIO/Expanding on Natural Selection/Null Hypothesis.md"
               }
             }
           },
@@ -192,7 +218,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily Notes/2023-10-06.md"
+                "file": "BIO/Expanding on Natural Selection/Null Hypothesis.md"
               }
             }
           }
@@ -244,8 +270,14 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "a7821661abbdc262",
+  "active": "f5efa780f07b27c8",
   "lastOpenFiles": [
+    "BIO/Expanding on Natural Selection/Controversies on Classification.md",
+    "BIO/Expanding on Natural Selection/Null Hypothesis.md",
+    "BIO/Expanding on Natural Selection/Alternative Hypothesis.md",
+    "BIO/Expanding on Natural Selection/Controversies on Speciation.md",
+    "BIO/Expanding on Natural Selection/Allopatric Speciation.md",
+    "Daily Notes/2023-10-09.md",
     "Daily Notes/2023-10-06.md",
     "BIO/Expanding on Natural Selection/Hardy Weinberg EQ.md",
     "STAT/AP/4 - Probability, Random Variables, and Probability Distributions.md",
@@ -280,12 +312,6 @@
     "BIO/AP/8 - Ecology.md",
     "Daily Notes/2023-09-30.md",
     "Daily Notes/2023-09-29.md",
-    "Daily Notes/2023-09-28.md",
-    "BIO/Expanding on Natural Selection/Speed of Speciation.md",
-    "BIO/Expanding on Natural Selection/1 - Speciation.md",
-    "Daily Notes/2023-09-27.md",
-    "LIT/Comp 2/Yeah Main.md",
-    "Daily Notes/2023-09-26.md",
     "LIT/Comp 2",
     "LaTex/main.synctex.gz",
     "LaTex/main.pdf",

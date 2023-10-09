@@ -1,0 +1,1 @@
+A prediction that a treatment will have an effect on what is being measured.

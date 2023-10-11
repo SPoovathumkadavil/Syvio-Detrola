@@ -19,6 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "84021c02d2459d85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BIO/AP/7 - Gene Expression and Regulation.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
         "stacked": true
@@ -245,6 +258,8 @@
   },
   "active": "a7821661abbdc262",
   "lastOpenFiles": [
+    "BIO/AP/7 - Gene Expression and Regulation.md",
+    "BIO/Expanding on Natural Selection/Species and Conservation.md",
     "BIO/Expanding on Natural Selection/Species Concepts.md",
     "BIO/Expanding on Natural Selection/Controversies on Speciation.md",
     "Daily Notes/2023-10-10.md",
@@ -283,8 +298,6 @@
     "BIO/Cell Structure and Function/Evolution.md",
     "Excalidraw/SNPRepError.excalidraw.md",
     "BIO/Expanding on Natural Selection/SNP.md",
-    "STAT/AP/1 - Exploring One-Variable Data.md",
-    "Daily Notes/2023-10-02.md",
     "LIT/Comp 2",
     "LaTex/main.synctex.gz",
     "LaTex/main.pdf",

@@ -8,38 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a7821661abbdc262",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIO/Expanding on Natural Selection/Species and Conservation.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5ee8f3d64205da2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2023-10-23.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "84021c02d2459d85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIO/AP/7 - Gene Expression and Regulation.md",
+                "file": "BIO/Quantifying Evolution/Summative Exp.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -115,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-10-23.md",
+                "file": "BIO/Quantifying Evolution/Summative Exp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-10-23.md",
+                "file": "BIO/Quantifying Evolution/Summative Exp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily Notes/2023-10-23.md",
+                "file": "BIO/Quantifying Evolution/Summative Exp.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -190,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-10-23.md"
+                "file": "BIO/Quantifying Evolution/Summative Exp.md"
               }
             }
           },
@@ -218,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily Notes/2023-10-23.md"
+                "file": "BIO/Quantifying Evolution/Summative Exp.md"
               }
             }
           }
@@ -261,14 +234,22 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "notion-like-tables:Create new loom": false,
+      "obsidian-stille:Toggle Stille": false,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+      "obsidian-day-planner:Week plan": false
     }
   },
   "active": "5ee8f3d64205da2c",
   "lastOpenFiles": [
-    "Daily Notes/2023-10-23.md",
     "BIO/AP/7 - Gene Expression and Regulation.md",
+    "BIO/Quantifying Evolution/Summative Exp.md",
     "BIO/Expanding on Natural Selection/Species and Conservation.md",
+    "Daily Notes/2023-10-23.md",
+    "BIO/Quantifying Evolution",
     "BIO/Expanding on Natural Selection/Species Concepts.md",
     "BIO/Expanding on Natural Selection/Controversies on Speciation.md",
     "Daily Notes/2023-10-10.md",
@@ -305,12 +286,10 @@
     "BIO/Resources/Documents",
     "Untitled.md",
     "BIO/Cell Structure and Function/Evolution.md",
-    "Excalidraw/SNPRepError.excalidraw.md",
     "LIT/Comp 2",
     "LaTex/main.synctex.gz",
     "LaTex/main.pdf",
     "LaTex/main.synctex(busy)",
-    "LaTex/main.log",
-    "LaTex/main.fls"
+    "LaTex/main.log"
   ]
 }

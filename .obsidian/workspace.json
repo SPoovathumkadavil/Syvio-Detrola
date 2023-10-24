@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/Quantifying Evolution/Summative Exp.md",
+                "file": "STAT/AP/3 - Collecting Data.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/Quantifying Evolution/Summative Exp.md",
+                "file": "STAT/AP/3 - Collecting Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/Quantifying Evolution/Summative Exp.md",
+                "file": "STAT/AP/3 - Collecting Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BIO/Quantifying Evolution/Summative Exp.md",
+                "file": "STAT/AP/3 - Collecting Data.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/Quantifying Evolution/Summative Exp.md"
+                "file": "STAT/AP/3 - Collecting Data.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "BIO/Quantifying Evolution/Summative Exp.md"
+                "file": "STAT/AP/3 - Collecting Data.md"
               }
             }
           }
@@ -245,8 +245,9 @@
   },
   "active": "5ee8f3d64205da2c",
   "lastOpenFiles": [
-    "BIO/AP/7 - Gene Expression and Regulation.md",
+    "Daily Notes/2023-10-24.md",
     "BIO/Quantifying Evolution/Summative Exp.md",
+    "BIO/AP/7 - Gene Expression and Regulation.md",
     "BIO/Expanding on Natural Selection/Species and Conservation.md",
     "Daily Notes/2023-10-23.md",
     "BIO/Quantifying Evolution",
@@ -285,7 +286,6 @@
     "BIO/Resources/Documents/clustalo-I20231002-150231-0810-32401217-p1m.txt",
     "BIO/Resources/Documents",
     "Untitled.md",
-    "BIO/Cell Structure and Function/Evolution.md",
     "LIT/Comp 2",
     "LaTex/main.synctex.gz",
     "LaTex/main.pdf",

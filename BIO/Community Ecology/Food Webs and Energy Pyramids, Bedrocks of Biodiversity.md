@@ -20,3 +20,6 @@ The variety of all types of organisms in a giveen area
 biodiversity=sustainability
 - redundency
 
+Decomposers - heterotrophs
+- Bacteria and fungus
+	- All roads lead to decomposers

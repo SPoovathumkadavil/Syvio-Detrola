@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT/AP/3 - Collecting Data.md",
+                "file": "BIO/Community Ecology/Autotrophs vs. Heterotrophs.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT/AP/3 - Collecting Data.md",
+                "file": "BIO/Community Ecology/Autotrophs vs. Heterotrophs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STAT/AP/3 - Collecting Data.md",
+                "file": "BIO/Community Ecology/Autotrophs vs. Heterotrophs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "STAT/AP/3 - Collecting Data.md",
+                "file": "BIO/Community Ecology/Autotrophs vs. Heterotrophs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT/AP/3 - Collecting Data.md"
+                "file": "BIO/Community Ecology/Autotrophs vs. Heterotrophs.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "STAT/AP/3 - Collecting Data.md"
+                "file": "BIO/Community Ecology/Autotrophs vs. Heterotrophs.md"
               }
             }
           }
@@ -223,7 +223,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,6 +246,10 @@
   },
   "active": "5ee8f3d64205da2c",
   "lastOpenFiles": [
+    "BIO/Resources/Images/Screenshot 2023-10-24 at 7.30.00 PM.png",
+    "STAT/AP/3 - Collecting Data.md",
+    "BIO/Community Ecology/Autotrophs vs. Heterotrophs.md",
+    "BIO/Community Ecology",
     "Daily Notes/2023-10-24.md",
     "BIO/Quantifying Evolution/Summative Exp.md",
     "BIO/AP/7 - Gene Expression and Regulation.md",
@@ -279,17 +284,13 @@
     "BIO/Resources/Images/Screenshot 2023-10-04 at 8.14.45 AM.png",
     "BIO/Resources/Images/Screenshot 2023-10-04 at 8.12.39 AM.png",
     "Daily Notes/2023-10-04.md",
-    "BIO/Expanding on Natural Selection/UntitledOct 2.md",
     "Untitled.loom",
-    "BIO/Expanding on Natural Selection/Cluster Data Reptiles on Island.md",
     "clustalo-I20231002-150231-0810-32401217-p1m.txt",
     "BIO/Resources/Documents/clustalo-I20231002-150231-0810-32401217-p1m.txt",
     "BIO/Resources/Documents",
-    "Untitled.md",
     "LIT/Comp 2",
     "LaTex/main.synctex.gz",
     "LaTex/main.pdf",
-    "LaTex/main.synctex(busy)",
-    "LaTex/main.log"
+    "LaTex/main.synctex(busy)"
   ]
 }

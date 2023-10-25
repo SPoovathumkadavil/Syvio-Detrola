@@ -38,4 +38,31 @@ Emotions, Idealism to Material
 Repetition, How to shape message to make it persuasive.
 
 Very provocative.
+"They have no refuge"
 
+Awakening unconverted.
+
+Misery is extended under you, pit of wrath of god.
+You have nothing to stand on.
+Nothing but air.
+God holds you up.
+
+Your means are nothing.
+If God wills it, so be it.
+You would sink despite righteousness.
+
+Light to serve sin and satan.
+The air does not serve you when you are among god's "enemy"
+Restraining hand of God.
+
+Rise higher until outlet is given.
+Your guilt increases.
+The waters rise, [Materialism]
+Inconcevable fury
+
+Justice bends the arrow towards your heart.
+Those not awakened, you are in the hands of an angry god.
+It doesn't matter if you follow god, you have to be Puritan.
+
+You could have been gone.
+An everlasting wrath

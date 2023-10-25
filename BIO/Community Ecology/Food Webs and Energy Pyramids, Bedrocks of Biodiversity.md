@@ -12,3 +12,11 @@ Rest lost in heat or is undigested
 
 10% then 10% of 10% ...
 
+Food web - multiple food chains
+
+Biodiversity
+
+The variety of all types of organisms in a giveen area
+biodiversity=sustainability
+- redundency
+

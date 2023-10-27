@@ -96,3 +96,5 @@ Liberal Puritans
 
 ## Ralph Waldo Emmerson -- 1803
 
+American originality -- Naturalism
+Away from the ideologies of Europe

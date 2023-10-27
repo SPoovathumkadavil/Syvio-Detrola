@@ -66,3 +66,33 @@ It doesn't matter if you follow god, you have to be Puritan.
 
 You could have been gone.
 An everlasting wrath
+
+## Protestant Christianity
+
+Reaction against Catholic Church
+
+### John Calvin
+
+**Calvinism**: Pretty much the same as Puritanism
+
+**Winthrop**: City on a Hill Sermon
+- 1640s
+
+**Johnathan Edwards**
+- Sinners in the Hands of an Angry God
+- Maybe 100 years later
+
+Theocracy, fear-mongering -- Emotion
+
+### Unitarians
+
+Broke off of Puritans
+
+Not fear, but intellect
+
+More individualistic, individually choose morality
+
+Liberal Puritans
+
+## Ralph Waldo Emmerson -- 1803
+

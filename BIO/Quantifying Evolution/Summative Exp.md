@@ -1,3 +1,7 @@
+---
+importance: 9
+---
+
 ## Null Hypothesis
 
 There is NO significant difference between the allele/genotype frequencies within the human population.  

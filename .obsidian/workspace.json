@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LIT/Puritanism/Oct 25, 27, Lecture and Sermon.md",
+                "file": "BIO/Community Ecology/Ecological Relationships.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -71,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5024719238281
+    "width": 313.5024719238281,
+    "collapsed": true
   },
   "right": {
     "id": "f0e85f5f19df2cd5",
@@ -88,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIT/Puritanism/Oct 25, 27, Lecture and Sermon.md",
+                "file": "BIO/Community Ecology/Ecological Relationships.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIT/Puritanism/Oct 25, 27, Lecture and Sermon.md",
+                "file": "BIO/Community Ecology/Ecological Relationships.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +129,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "LIT/Puritanism/Oct 25, 27, Lecture and Sermon.md",
+                "file": "BIO/Community Ecology/Ecological Relationships.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -163,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIT/Puritanism/Oct 25, 27, Lecture and Sermon.md"
+                "file": "BIO/Community Ecology/Ecological Relationships.md"
               }
             }
           },
@@ -191,7 +192,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "LIT/Puritanism/Oct 25, 27, Lecture and Sermon.md"
+                "file": "BIO/Community Ecology/Ecological Relationships.md"
               }
             }
           }
@@ -246,6 +247,9 @@
   },
   "active": "67a6eafff805116b",
   "lastOpenFiles": [
+    "Daily Notes/2023-11-01.md",
+    "BIO/Community Ecology/Ecological Relationships.md",
+    "LIT/Puritanism/Oct 25, 27, Lecture and Sermon.md",
     "BIO/Expanding on Natural Selection/Human Induced Speciation.md",
     "Daily Notes/2023-10-30.md",
     "BIO/Biology.md",
@@ -254,7 +258,6 @@
     "Screenshot 2023-09-25 at 8.46.18 AM.png",
     "Syvio Detrola.md",
     "CSA/Kalman Filter.md",
-    "LIT/Puritanism/Oct 25, 27, Lecture and Sermon.md",
     "Daily Notes/2023-10-28.md",
     "Daily Notes/2023-10-27.md",
     "Daily Notes/2023-10-25.md",
@@ -277,8 +280,6 @@
     "BIO/Expanding on Natural Selection/Null Hypothesis.md",
     "BIO/Expanding on Natural Selection/Controversies on Classification.md",
     "BIO/Resources/Images/Screenshot 2023-10-09 at 9.01.10 AM.png",
-    "BIO/Expanding on Natural Selection/Alternative Hypothesis.md",
-    "BIO/Expanding on Natural Selection/Allopatric Speciation.md",
     "BIO/Resources/Images/Screenshot 2023-10-05 at 8.32.21 AM.png",
     "BIO/Resources/Images/Screenshot 2023-10-05 at 8.28.39 AM.png",
     "BIO/Resources/Images/Screenshot 2023-10-05 at 8.28.07 AM.png",

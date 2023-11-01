@@ -13,3 +13,4 @@ Symbiotic relationship
 Parasitism -> One benefits, the other if harmed
 Mutualism -> Symbiotic Relationships -> eg. Acacia Tree
 Commensalism -> One species benefits, other is neither harmed nor helped.
+

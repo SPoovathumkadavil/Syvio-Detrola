@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/Community Ecology/Ecological Relationships.md",
+                "file": "BIO/AP/8 - Ecology.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -71,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5024719238281,
-    "collapsed": true
+    "width": 313.5024719238281
   },
   "right": {
     "id": "f0e85f5f19df2cd5",
@@ -89,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/Community Ecology/Ecological Relationships.md",
+                "file": "BIO/AP/8 - Ecology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/Community Ecology/Ecological Relationships.md",
+                "file": "BIO/AP/8 - Ecology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BIO/Community Ecology/Ecological Relationships.md",
+                "file": "BIO/AP/8 - Ecology.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/Community Ecology/Ecological Relationships.md"
+                "file": "BIO/AP/8 - Ecology.md"
               }
             }
           },
@@ -192,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "BIO/Community Ecology/Ecological Relationships.md"
+                "file": "BIO/AP/8 - Ecology.md"
               }
             }
           }

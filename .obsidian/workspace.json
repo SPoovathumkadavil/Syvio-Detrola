@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2023-11-08.md",
+                "file": "BIO/Community Ecology/Genetic Drift.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -67,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -89,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-11-08.md",
+                "file": "BIO/Community Ecology/Genetic Drift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-11-08.md",
+                "file": "BIO/Community Ecology/Genetic Drift.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily Notes/2023-11-08.md",
+                "file": "BIO/Community Ecology/Genetic Drift.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-11-08.md"
+                "file": "BIO/Community Ecology/Genetic Drift.md"
               }
             }
           },
@@ -192,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily Notes/2023-11-08.md"
+                "file": "BIO/Community Ecology/Genetic Drift.md"
               }
             }
           }
@@ -245,10 +244,12 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "1c9e7c82e83a76a5",
+  "active": "d5d05c98305c9739",
   "lastOpenFiles": [
-    "Population Bottleneck.md",
+    "Daily Notes/2023-11-09.md",
+    "BIO/Community Ecology/Genetic Drift.md",
     "Daily Notes/2023-11-08.md",
+    "Population Bottleneck.md",
     "LIT/Comp 3/Outline.md",
     "BIO/Biology.md",
     "LIT/Comp 3",
@@ -276,9 +277,7 @@
     "BIO/Community Ecology/Autotrophs vs. Heterotrophs.md",
     "BIO/Community Ecology/Untitled",
     "BIO/Resources/Images/Screenshot 2023-10-24 at 7.30.00 PM.png",
-    "STAT/AP/3 - Collecting Data.md",
     "BIO/Community Ecology",
-    "Daily Notes/2023-10-24.md",
     "BIO/Quantifying Evolution",
     "BIO/Resources/Images/Screenshot 2023-10-09 at 9.01.10 AM.png",
     "BIO/Resources/Images/Screenshot 2023-10-05 at 8.32.21 AM.png",

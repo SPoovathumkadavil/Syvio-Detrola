@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "44ed8178ac18af5d",
+        "id": "bb92b1a23ef21809",
         "type": "tabs",
         "children": [
           {
-            "id": "67a6eafff805116b",
+            "id": "d5d05c98305c9739",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LIT/Comp 3/Outline.md",
+                "file": "Population Bottleneck.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIT/Comp 3/Outline.md",
+                "file": "Population Bottleneck.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIT/Comp 3/Outline.md",
+                "file": "Population Bottleneck.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "LIT/Comp 3/Outline.md",
+                "file": "Population Bottleneck.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIT/Comp 3/Outline.md"
+                "file": "Population Bottleneck.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "LIT/Comp 3/Outline.md"
+                "file": "Population Bottleneck.md"
               }
             }
           }
@@ -244,10 +244,12 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "67a6eafff805116b",
+  "active": "d5d05c98305c9739",
   "lastOpenFiles": [
-    "BIO/Biology.md",
+    "Population Bottleneck.md",
+    "Daily Notes/2023-11-08.md",
     "LIT/Comp 3/Outline.md",
+    "BIO/Biology.md",
     "LIT/Comp 3",
     "LIT/Comp 2/Comp 2 Planning.md",
     "LIT/Comp 2/Yeah Main.md",
@@ -276,8 +278,6 @@
     "STAT/AP/3 - Collecting Data.md",
     "BIO/Community Ecology",
     "Daily Notes/2023-10-24.md",
-    "BIO/AP/7 - Gene Expression and Regulation.md",
-    "BIO/Expanding on Natural Selection/Species and Conservation.md",
     "BIO/Quantifying Evolution",
     "BIO/Resources/Images/Screenshot 2023-10-09 at 9.01.10 AM.png",
     "BIO/Resources/Images/Screenshot 2023-10-05 at 8.32.21 AM.png",

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bb92b1a23ef21809",
+        "id": "a46d0b0f9f0249af",
         "type": "tabs",
         "children": [
           {
-            "id": "d5d05c98305c9739",
+            "id": "0a44c3e63c340c1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/Community Ecology/Genetic Drift.md",
+                "file": "BIO/Quantifying Evolution/Chi Squared Tests.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/Community Ecology/Genetic Drift.md",
+                "file": "BIO/Quantifying Evolution/Chi Squared Tests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/Community Ecology/Genetic Drift.md",
+                "file": "BIO/Quantifying Evolution/Chi Squared Tests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BIO/Community Ecology/Genetic Drift.md",
+                "file": "BIO/Quantifying Evolution/Chi Squared Tests.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/Community Ecology/Genetic Drift.md"
+                "file": "BIO/Quantifying Evolution/Chi Squared Tests.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "BIO/Community Ecology/Genetic Drift.md"
+                "file": "BIO/Quantifying Evolution/Chi Squared Tests.md"
               }
             }
           }
@@ -244,8 +244,10 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "d5d05c98305c9739",
+  "active": "0a44c3e63c340c1c",
   "lastOpenFiles": [
+    "BIO/Quantifying Evolution/Summative Exp.md",
+    "BIO/Quantifying Evolution/Chi Squared Tests.md",
     "Daily Notes/2023-11-09.md",
     "BIO/Community Ecology/Genetic Drift.md",
     "Daily Notes/2023-11-08.md",
@@ -264,7 +266,6 @@
     "LIT/Puritanism/Oct 25, 27, Lecture and Sermon.md",
     "BIO/Expanding on Natural Selection/Human Induced Speciation.md",
     "Daily Notes/2023-10-30.md",
-    "BIO/Quantifying Evolution/Summative Exp.md",
     "Detrola Tracker.md",
     "Screenshot 2023-09-25 at 8.46.18 AM.png",
     "Syvio Detrola.md",
@@ -274,7 +275,6 @@
     "Daily Notes/2023-10-25.md",
     "LIT/Puritanism",
     "BIO/Community Ecology/Food Webs and Energy Pyramids, Bedrocks of Biodiversity.md",
-    "BIO/Community Ecology/Autotrophs vs. Heterotrophs.md",
     "BIO/Community Ecology/Untitled",
     "BIO/Resources/Images/Screenshot 2023-10-24 at 7.30.00 PM.png",
     "BIO/Community Ecology",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Population Bottleneck.md",
+                "file": "Daily Notes/2023-11-08.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "genetic drift",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -88,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Population Bottleneck.md",
+                "file": "Daily Notes/2023-11-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Population Bottleneck.md",
+                "file": "Daily Notes/2023-11-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +129,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Population Bottleneck.md",
+                "file": "Daily Notes/2023-11-08.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -163,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Population Bottleneck.md"
+                "file": "Daily Notes/2023-11-08.md"
               }
             }
           },
@@ -191,7 +192,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Population Bottleneck.md"
+                "file": "Daily Notes/2023-11-08.md"
               }
             }
           }
@@ -244,7 +245,7 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "d5d05c98305c9739",
+  "active": "1c9e7c82e83a76a5",
   "lastOpenFiles": [
     "Population Bottleneck.md",
     "Daily Notes/2023-11-08.md",

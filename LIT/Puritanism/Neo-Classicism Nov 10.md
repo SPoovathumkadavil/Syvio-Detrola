@@ -50,6 +50,11 @@
 				- Jefferson Writes Back.
 					- You right, I wish this the most.
 					- Blow off reply, no action he will take.
+			3. Elizabeth Cady Stanton
+				- All men and women are created equal.
+				- The problem is that Man has never allowed Woman to act with her own rights, no representation in the laws they follow.
+				- Rights of education , property taken away.
+				- Using the words of the Declaration of Independence for women's rights
 
 	- The Signing of The Declaration of The United States
 		- Orderly People

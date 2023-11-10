@@ -70,6 +70,12 @@ Logos - Data, Logic Rationality
 	3. Benjamin Franklin
 		- Super impressive
 		- Great Gatsby
+			- The Daily Schedule
+		- "Ben Franklin's Song"
+		- Big forehead Big brain
+		- Polymath
+			- Non-Conformist
+		- Convinced Tomas Paine's writing of Common Sense
 			- 
 
 3. Romanticism - 19th Century

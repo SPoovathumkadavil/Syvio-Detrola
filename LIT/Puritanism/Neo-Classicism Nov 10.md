@@ -1,8 +1,13 @@
+Pathos - Emotion
+Ethos - Identity, Character
+Logos - Data, Logic Rationality
+
 1. Puritanism - 17-18th Century
 	1. John Winthrop
 	2. Johnathan Edwards
-	- Conservative, Christian People that came from Europe. All about fear. Hand of god keeps you from hell.
-	- Predestination
+	- Conservative, Christian People that came from Europe. All about **fear**. Hand of god keeps you from hell.
+	- **Predestination**
+	- **Theocracy**
 
 - [The Age Of Reason] or [The American Enlightenment] - Neo-Classicism, through Romanticism.
 
@@ -55,12 +60,37 @@
 				- The problem is that Man has never allowed Woman to act with her own rights, no representation in the laws they follow.
 				- Rights of education , property taken away.
 				- Using the words of the Declaration of Independence for women's rights
+	- **No Emotion**
+		- Puritan **Pathos** to Neo-Classical **Logos**,
 
 	- The Signing of The Declaration of The United States
 		- Orderly People
 			- Greek And Roman Influence
-	
+
+	3. Benjamin Franklin
+		- Super impressive
+		- Great Gatsby
+			- 
 
 3. Romanticism - 19th Century
+	- Emotion is a big part of experience
+	- Back into Pathos
+		- Pathos to Logos to Pathos
+			- Bartleby
+	- Started in Europe
+		- Coleridge and stuff
+	- Celebration of
+		- Emotion
+		- Individuality
+		- Subjectivity
+		- Intuition
+		- Nature
+	- Light Romanticism is a form of Transcendentalism
+	- Dark Romanticism
+		- Frankenstien
+		- Edgar Allen Poe
+			- Telltale Heart
 
-4. Modernism - Early 20th Century
+5. Modernism - Early 20th Century
+	- Hippie Hippie no bueno
+	- No good feelings

@@ -30,10 +30,31 @@
 		2. Thomas Jefferson
 			- Big Thinker
 			- Greek and Roman inspired house.
+			- All Men Are Created Equal
+				- Kept Slaves
+			1. Sally Hemings
+				- Jefferson had sexual relations with his slave
+			2. Benjamin Banneker - Non-Conformist
+				- Born near Washington DC
+				- Scientist
+					- Surveyor
+				- Astronomer
+					- Wrote Almanac
+				- Banneker made clock whoa
+				- Born Free Man
+				- Talented Scholar
+				- Decided to use his skills as writer to send copy of Almanac to Thomas Jefferson in hopes that Jefferson rethinks his "All Men Are Created Equal".
+					- If True, then you will think of Black people as equal.
+					- God created men equal, should be treated as such
+					- These ideas you agree with, it is the duty of people who profess these ideologies to think and act as such.
+				- Jefferson Writes Back.
+					- You right, I wish this the most.
+					- Blow off reply, no action he will take.
+
 	- The Signing of The Declaration of The United States
 		- Orderly People
 			- Greek And Roman Influence
-	- 
+	
 
 3. Romanticism - 19th Century
 

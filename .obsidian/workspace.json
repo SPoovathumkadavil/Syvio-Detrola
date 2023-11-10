@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "54f240a4c7babc83",
+            "id": "667eb8dda217fb5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/Community Ecology/Food Webs and Energy Pyramids, Bedrocks of Biodiversity.md",
+                "file": "LIT/Puritanism/Neo-Classicism Nov 10.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/Community Ecology/Food Webs and Energy Pyramids, Bedrocks of Biodiversity.md",
+                "file": "LIT/Puritanism/Neo-Classicism Nov 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/Community Ecology/Food Webs and Energy Pyramids, Bedrocks of Biodiversity.md",
+                "file": "LIT/Puritanism/Neo-Classicism Nov 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BIO/Community Ecology/Food Webs and Energy Pyramids, Bedrocks of Biodiversity.md",
+                "file": "LIT/Puritanism/Neo-Classicism Nov 10.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/Community Ecology/Food Webs and Energy Pyramids, Bedrocks of Biodiversity.md"
+                "file": "LIT/Puritanism/Neo-Classicism Nov 10.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "BIO/Community Ecology/Food Webs and Energy Pyramids, Bedrocks of Biodiversity.md"
+                "file": "LIT/Puritanism/Neo-Classicism Nov 10.md"
               }
             }
           }
@@ -244,8 +244,12 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "54f240a4c7babc83",
+  "active": "667eb8dda217fb5f",
   "lastOpenFiles": [
+    "LIT/Puritanism/Oct 25, 27, Lecture and Sermon.md",
+    "LIT/Puritanism/Neo-Classicism Nov 10.md",
+    "Daily Notes/2023-11-10.md",
+    "BIO/Community Ecology/Food Webs and Energy Pyramids, Bedrocks of Biodiversity.md",
     "BIO/Community Ecology/Autotrophs vs. Heterotrophs.md",
     "BIO/Community Ecology/Ecological Relationships.md",
     "Daily Notes/2023-11-09.md",
@@ -264,16 +268,12 @@
     "Daily Notes/2023-11-02.md",
     "BIO/AP/8 - Ecology.md",
     "Daily Notes/2023-11-01.md",
-    "LIT/Puritanism/Oct 25, 27, Lecture and Sermon.md",
     "BIO/Expanding on Natural Selection/Human Induced Speciation.md",
     "Daily Notes/2023-10-30.md",
     "Detrola Tracker.md",
     "Screenshot 2023-09-25 at 8.46.18 AM.png",
     "Syvio Detrola.md",
     "CSA/Kalman Filter.md",
-    "Daily Notes/2023-10-28.md",
-    "Daily Notes/2023-10-27.md",
-    "Daily Notes/2023-10-25.md",
     "LIT/Puritanism",
     "BIO/Community Ecology/Untitled",
     "BIO/Resources/Images/Screenshot 2023-10-24 at 7.30.00 PM.png",

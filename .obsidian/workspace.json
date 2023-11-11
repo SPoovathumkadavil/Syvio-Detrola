@@ -11,9 +11,17 @@
             "id": "9d70e9a9ddb3e528",
             "type": "leaf",
             "state": {
+              "type": "weekly",
+              "state": {}
+            }
+          },
+          {
+            "id": "dc0c856f169a1c22",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "LIT/Comp 3/OutlineB.md",
+                "file": "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,6 +29,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -71,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5024719238281,
-    "collapsed": true
+    "width": 313.5024719238281
   },
   "right": {
     "id": "f0e85f5f19df2cd5",
@@ -89,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIT/Comp 3/OutlineB.md",
+                "file": "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIT/Comp 3/OutlineB.md",
+                "file": "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "LIT/Comp 3/OutlineB.md",
+                "file": "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -164,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIT/Comp 3/OutlineB.md"
+                "file": "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md"
               }
             }
           },
@@ -192,7 +200,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "LIT/Comp 3/OutlineB.md"
+                "file": "BIO/Measuring Variation within a Population and Sample/Standard Deviation.md"
               }
             }
           }
@@ -244,7 +252,7 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "9d70e9a9ddb3e528",
+  "active": "dc0c856f169a1c22",
   "lastOpenFiles": [
     "Daily Notes/2023-11-11.md",
     "LIT/Comp 3/OutlineB.md",

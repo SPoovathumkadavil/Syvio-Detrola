@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STAT/AP/3 - Collecting Data.md",
+                "file": "LIT/Comp 3/OutlineB.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -71,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5024719238281
+    "width": 313.5024719238281,
+    "collapsed": true
   },
   "right": {
     "id": "f0e85f5f19df2cd5",
@@ -88,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STAT/AP/3 - Collecting Data.md",
+                "file": "LIT/Comp 3/OutlineB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STAT/AP/3 - Collecting Data.md",
+                "file": "LIT/Comp 3/OutlineB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +129,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "STAT/AP/3 - Collecting Data.md",
+                "file": "LIT/Comp 3/OutlineB.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -163,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STAT/AP/3 - Collecting Data.md"
+                "file": "LIT/Comp 3/OutlineB.md"
               }
             }
           },
@@ -191,7 +192,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "STAT/AP/3 - Collecting Data.md"
+                "file": "LIT/Comp 3/OutlineB.md"
               }
             }
           }
@@ -245,6 +246,9 @@
   },
   "active": "9d70e9a9ddb3e528",
   "lastOpenFiles": [
+    "Daily Notes/2023-11-11.md",
+    "LIT/Comp 3/OutlineB.md",
+    "STAT/AP/3 - Collecting Data.md",
     "STAT/AP/5 - Sampling Distributions.md",
     "STAT/AP/2 - Exploring 2-Variable Data.md",
     "BIO/Measuring Variation within a Population and Sample/Population.md",
@@ -269,9 +273,6 @@
     "Daily Notes/2023-11-06.md",
     "Daily Notes/2023-11-04.md",
     "Daily Notes/2023-11-02.md",
-    "BIO/AP/8 - Ecology.md",
-    "Daily Notes/2023-11-01.md",
-    "BIO/Expanding on Natural Selection/Human Induced Speciation.md",
     "Screenshot 2023-09-25 at 8.46.18 AM.png",
     "LIT/Puritanism",
     "BIO/Community Ecology/Untitled",

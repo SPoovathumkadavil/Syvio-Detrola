@@ -97,6 +97,8 @@ Logos - Data, Logic Rationality
 		- Edgar Allen Poe
 			- Telltale Heart
 
+4. Realism - Late 19th Century
+
 5. Modernism - Early 20th Century
 	- Hippie Hippie no bueno
 	- No good feelings

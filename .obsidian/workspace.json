@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9cb1259a3c752fbc",
+        "id": "ddd49a0765e84987",
         "type": "tabs",
         "children": [
           {
-            "id": "4c27931b4d4e1bd3",
+            "id": "00f03994653979aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2023-11-12.md",
+                "file": "LIT/Puritanism/Neo-Classicism Nov 10.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-11-12.md",
+                "file": "LIT/Puritanism/Neo-Classicism Nov 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-11-12.md",
+                "file": "LIT/Puritanism/Neo-Classicism Nov 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily Notes/2023-11-12.md",
+                "file": "LIT/Puritanism/Neo-Classicism Nov 10.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-11-12.md"
+                "file": "LIT/Puritanism/Neo-Classicism Nov 10.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily Notes/2023-11-12.md"
+                "file": "LIT/Puritanism/Neo-Classicism Nov 10.md"
               }
             }
           }
@@ -243,8 +243,9 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "4c27931b4d4e1bd3",
+  "active": "00f03994653979aa",
   "lastOpenFiles": [
+    "Daily Notes/2023-11-15.md",
     "Daily Notes/2023-11-12.md",
     "BIO/Measuring Variation within a Population and Sample/Dependent Variable.md",
     "Daily Notes/2023-11-11.md",
@@ -271,7 +272,6 @@
     "LIT/Comp 3",
     "LIT/Comp 2/Comp 2 Planning.md",
     "LIT/Comp 2/Yeah Main.md",
-    "Daily Notes/2023-11-06.md",
     "Screenshot 2023-09-25 at 8.46.18 AM.png",
     "LIT/Puritanism",
     "BIO/Community Ecology/Untitled",

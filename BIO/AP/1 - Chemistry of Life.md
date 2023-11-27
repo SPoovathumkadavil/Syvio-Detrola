@@ -187,7 +187,7 @@ order: 1
 - When different polypeptide chains sometimes interact with each other, they form a quaternary structure. Haemoglobin is a molecule in the blood that helps distribute oxygen to the tissues in the body. It is formed when four separate polypeptide chains interact with each other and is a quaternary structure.
     
 
-### ==Liplids==
+### ==Liplids== [[3 - Cellular Energetics|Cellular Energetics]]
 
 ![[Drawing 2023-11-27 09.03.40.excalidraw|center]]
 
@@ -204,8 +204,14 @@ order: 1
 - A fatty acid can be saturated with hydrogens along its long carbon chain or it can’t be unsaturated. If there is a double bond in the chain it is an unsaturated fatty acid.
     
 - **Lipid Saturation**:The extent of saturation in a lipid can affect its structure and function. The more double bonds that exist within a lipid, the more unsaturated it is.
+	- Unsaturated Fatty acid tail "kinks" at each double bond prevents molecules from packing tightly together.
+		- Usually a liquid at RT.
+		- Most plant fats
+		- Corn, peanut, olive oil.
+	- Saturated Fatty acids
+		- Usually solid at RT.
+		- Most animal fats.
     
-
 ### ==Phospholipids==
 
 - Phospholipids contain two fatty acid “**tails**” and one negatively charged phosphate “**head**”.

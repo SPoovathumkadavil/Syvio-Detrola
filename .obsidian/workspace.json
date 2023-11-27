@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lipids",
+                "query": "fatty ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -243,7 +244,7 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "a9e09ce5b66000bf",
+  "active": "1c9e7c82e83a76a5",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2023-11-27 09.03.40.excalidraw.md",
     "BIO/AP/1 - Chemistry of Life.md",

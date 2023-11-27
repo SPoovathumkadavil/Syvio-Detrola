@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "15696e355dc956e6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-11-27 09.03.40.excalidraw.md"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -88,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/AP/3 - Cellular Energetics.md",
+                "file": "Excalidraw/Drawing 2023-11-27 09.03.40.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/AP/3 - Cellular Energetics.md",
+                "file": "Excalidraw/Drawing 2023-11-27 09.03.40.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BIO/AP/3 - Cellular Energetics.md",
+                "file": "Excalidraw/Drawing 2023-11-27 09.03.40.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -163,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/AP/3 - Cellular Energetics.md"
+                "file": "Excalidraw/Drawing 2023-11-27 09.03.40.excalidraw.md"
               }
             }
           },
@@ -191,7 +202,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "BIO/AP/3 - Cellular Energetics.md"
+                "file": "Excalidraw/Drawing 2023-11-27 09.03.40.excalidraw.md"
               }
             }
           }
@@ -243,8 +254,10 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "a9e09ce5b66000bf",
+  "active": "15696e355dc956e6",
   "lastOpenFiles": [
+    "BIO/AP/3 - Cellular Energetics.md",
+    "Excalidraw/Drawing 2023-11-27 09.03.40.excalidraw.md",
     "BIO/AP/5 - Heredity.md",
     "BIO/AP/4 - Cell Communication and Cell Cycle.md",
     "Biological Molecules.md",
@@ -271,8 +284,6 @@
     "BIO/Quantifying Evolution/Summative Exp.md",
     "BIO/Quantifying Evolution/Chi Squared Tests.md",
     "BIO/Community Ecology/Genetic Drift.md",
-    "Daily Notes/2023-11-08.md",
-    "Population Bottleneck.md",
     "LIT/Comp 3",
     "Screenshot 2023-09-25 at 8.46.18 AM.png",
     "LIT/Puritanism",

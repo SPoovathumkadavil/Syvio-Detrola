@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fatty ",
+                "query": "trans fat",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -244,10 +244,11 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "1c9e7c82e83a76a5",
+  "active": "a9e09ce5b66000bf",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2023-11-27 09.03.40.excalidraw.md",
+    "BIO/AP/7 - Gene Expression and Regulation.md",
     "BIO/AP/1 - Chemistry of Life.md",
+    "Excalidraw/Drawing 2023-11-27 09.03.40.excalidraw.md",
     "BIO/AP/3 - Cellular Energetics.md",
     "BIO/AP/5 - Heredity.md",
     "BIO/AP/4 - Cell Communication and Cell Cycle.md",
@@ -273,7 +274,6 @@
     "BIO/Community Ecology/Ecological Relationships.md",
     "Daily Notes/2023-11-09.md",
     "BIO/Quantifying Evolution/Summative Exp.md",
-    "BIO/Quantifying Evolution/Chi Squared Tests.md",
     "LIT/Comp 3",
     "Screenshot 2023-09-25 at 8.46.18 AM.png",
     "LIT/Puritanism",

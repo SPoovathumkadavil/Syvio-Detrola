@@ -189,6 +189,8 @@ order: 1
 
 ### ==Liplids==
 
+![[Drawing 2023-11-27 09.03.40.excalidraw|center]]
+
 - This consists of carbon, hydrogen, and oxygen atoms.
     
 - The most common examples of lipids are triglycerides, phospholipids, and steroids.

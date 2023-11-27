@@ -22,7 +22,7 @@ Energy cannot be created or destroyed, it can be only be transferred.
 
 ### ==Types of Reactions==
 
-- **Exergonic** reactions are those in which the products have less energy than the reactants.
+- **Exergonic** reactions are those in which the products have less energy than the reactants. Exergonic reactions are also called catabolic.
     
 - The course of a reaction can be represented by an energy diagram. You’ll notice that **energy is represented along the y-axis.**
     

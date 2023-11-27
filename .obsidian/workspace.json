@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ddd49a0765e84987",
+        "id": "c0a8c84aa1d3435e",
         "type": "tabs",
         "children": [
           {
-            "id": "00f03994653979aa",
+            "id": "a9e09ce5b66000bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LIT/Puritanism/Neo-Classicism Nov 10.md",
+                "file": "BIO/AP/3 - Cellular Energetics.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIT/Puritanism/Neo-Classicism Nov 10.md",
+                "file": "BIO/AP/3 - Cellular Energetics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIT/Puritanism/Neo-Classicism Nov 10.md",
+                "file": "BIO/AP/3 - Cellular Energetics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "LIT/Puritanism/Neo-Classicism Nov 10.md",
+                "file": "BIO/AP/3 - Cellular Energetics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIT/Puritanism/Neo-Classicism Nov 10.md"
+                "file": "BIO/AP/3 - Cellular Energetics.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "LIT/Puritanism/Neo-Classicism Nov 10.md"
+                "file": "BIO/AP/3 - Cellular Energetics.md"
               }
             }
           }
@@ -243,8 +243,15 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "00f03994653979aa",
+  "active": "a9e09ce5b66000bf",
   "lastOpenFiles": [
+    "BIO/AP/5 - Heredity.md",
+    "BIO/AP/4 - Cell Communication and Cell Cycle.md",
+    "Biological Molecules.md",
+    "BIO/Resources/Images/Screenshot 2023-11-27 at 8.44.30 AM.png",
+    "BIO/Bioenergetics",
+    "Daily Notes/2023-11-27.md",
+    "LIT/Puritanism/Neo-Classicism Nov 10.md",
     "Daily Notes/2023-11-15.md",
     "Daily Notes/2023-11-12.md",
     "BIO/Measuring Variation within a Population and Sample/Dependent Variable.md",
@@ -257,7 +264,6 @@
     "BIO/Measuring Variation within a Population and Sample/3 - Errors.md",
     "Daily Notes/2023-11-10.md",
     "LIT/Puritanism/Oct 25, 27, Lecture and Sermon.md",
-    "LIT/Puritanism/Neo-Classicism Nov 10.md",
     "BIO/Community Ecology/Food Webs and Energy Pyramids, Bedrocks of Biodiversity.md",
     "BIO/Community Ecology/Autotrophs vs. Heterotrophs.md",
     "BIO/Community Ecology/Ecological Relationships.md",
@@ -267,11 +273,7 @@
     "BIO/Community Ecology/Genetic Drift.md",
     "Daily Notes/2023-11-08.md",
     "Population Bottleneck.md",
-    "LIT/Comp 3/Outline.md",
-    "BIO/Biology.md",
     "LIT/Comp 3",
-    "LIT/Comp 2/Comp 2 Planning.md",
-    "LIT/Comp 2/Yeah Main.md",
     "Screenshot 2023-09-25 at 8.46.18 AM.png",
     "LIT/Puritanism",
     "BIO/Community Ecology/Untitled",
@@ -285,11 +287,9 @@
     "BIO/Resources/Images/Screenshot 2023-10-05 at 8.22.09 AM.png",
     "BIO/Resources/Images/Screenshot 2023-10-05 at 8.21.26 AM.png",
     "BIO/Resources/Images/Screenshot 2023-10-05 at 8.20.11 AM.png",
-    "BIO/Resources/Images/Screenshot 2023-10-04 at 8.14.53 AM.png",
     "Untitled.loom",
     "clustalo-I20231002-150231-0810-32401217-p1m.txt",
     "BIO/Resources/Documents/clustalo-I20231002-150231-0810-32401217-p1m.txt",
-    "BIO/Resources/Documents",
-    "LIT/Comp 2"
+    "BIO/Resources/Documents"
   ]
 }

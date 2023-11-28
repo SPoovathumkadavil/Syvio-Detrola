@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c0a8c84aa1d3435e",
+        "id": "8b6c7564d5670196",
         "type": "tabs",
         "children": [
           {
-            "id": "a9e09ce5b66000bf",
+            "id": "35a10533f2f204f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/AP/1 - Chemistry of Life.md",
+                "file": "BIO/Bioenergetics/Biological Molecules.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "trans fat",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,8 +67,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -89,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/AP/1 - Chemistry of Life.md",
+                "file": "BIO/Bioenergetics/Biological Molecules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/AP/1 - Chemistry of Life.md",
+                "file": "BIO/Bioenergetics/Biological Molecules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BIO/AP/1 - Chemistry of Life.md",
+                "file": "BIO/Bioenergetics/Biological Molecules.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -164,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/AP/1 - Chemistry of Life.md"
+                "file": "BIO/Bioenergetics/Biological Molecules.md"
               }
             }
           },
@@ -192,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "BIO/AP/1 - Chemistry of Life.md"
+                "file": "BIO/Bioenergetics/Biological Molecules.md"
               }
             }
           }
@@ -244,18 +243,23 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "a9e09ce5b66000bf",
+  "active": "35a10533f2f204f8",
   "lastOpenFiles": [
-    "BIO/AP/7 - Gene Expression and Regulation.md",
+    "BIO/Resources/Images/Screenshot 2023-11-27 at 6.40.26 PM.png",
+    "BIO/Resources/Images/Screenshot 2023-11-27 at 6.38.45 PM.png",
+    "BIO/Resources/Images/Screenshot 2023-11-27 at 6.36.29 PM.png",
+    "BIO/Resources/Images/Screenshot 2023-11-27 at 6.35.12 PM.png",
+    "BIO/Resources/Images/Screenshot 2023-11-27 at 6.34.49 PM.png",
     "BIO/AP/1 - Chemistry of Life.md",
+    "Daily Notes/2023-11-27.md",
+    "BIO/AP/7 - Gene Expression and Regulation.md",
     "Excalidraw/Drawing 2023-11-27 09.03.40.excalidraw.md",
     "BIO/AP/3 - Cellular Energetics.md",
     "BIO/AP/5 - Heredity.md",
     "BIO/AP/4 - Cell Communication and Cell Cycle.md",
-    "Biological Molecules.md",
+    "BIO/Bioenergetics/Biological Molecules.md",
     "BIO/Resources/Images/Screenshot 2023-11-27 at 8.44.30 AM.png",
     "BIO/Bioenergetics",
-    "Daily Notes/2023-11-27.md",
     "LIT/Puritanism/Neo-Classicism Nov 10.md",
     "Daily Notes/2023-11-15.md",
     "Daily Notes/2023-11-12.md",
@@ -273,7 +277,6 @@
     "BIO/Community Ecology/Autotrophs vs. Heterotrophs.md",
     "BIO/Community Ecology/Ecological Relationships.md",
     "Daily Notes/2023-11-09.md",
-    "BIO/Quantifying Evolution/Summative Exp.md",
     "LIT/Comp 3",
     "Screenshot 2023-09-25 at 8.46.18 AM.png",
     "LIT/Puritanism",
@@ -284,10 +287,6 @@
     "BIO/Resources/Images/Screenshot 2023-10-09 at 9.01.10 AM.png",
     "BIO/Resources/Images/Screenshot 2023-10-05 at 8.32.21 AM.png",
     "BIO/Resources/Images/Screenshot 2023-10-05 at 8.28.39 AM.png",
-    "BIO/Resources/Images/Screenshot 2023-10-05 at 8.28.07 AM.png",
-    "BIO/Resources/Images/Screenshot 2023-10-05 at 8.22.09 AM.png",
-    "BIO/Resources/Images/Screenshot 2023-10-05 at 8.21.26 AM.png",
-    "BIO/Resources/Images/Screenshot 2023-10-05 at 8.20.11 AM.png",
     "Untitled.loom",
     "clustalo-I20231002-150231-0810-32401217-p1m.txt",
     "BIO/Resources/Documents/clustalo-I20231002-150231-0810-32401217-p1m.txt",

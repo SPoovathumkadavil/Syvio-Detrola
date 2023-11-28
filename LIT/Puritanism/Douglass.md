@@ -24,3 +24,6 @@ BR: Pathos
 - Through word choice, Imagery
 	- Makes people feel a certain way about the storyteller or the facts.
 
+Hegemony
+- The Dominant Narrative
+

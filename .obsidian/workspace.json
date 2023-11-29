@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8b6c7564d5670196",
+        "id": "a5f73f6fb441ae45",
         "type": "tabs",
         "children": [
           {
-            "id": "35a10533f2f204f8",
+            "id": "d1f7fa252696fc73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LIT/Puritanism/Oct 25, 27, Lecture and Sermon.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "312dfd472718683c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LIT/Puritanism/Douglass.md",
+                "file": "BIO/Bioenergetics/Biological Molecules.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -64,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cellular",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LIT/Puritanism/Douglass.md",
+                "file": "BIO/Bioenergetics/Biological Molecules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIT/Puritanism/Douglass.md",
+                "file": "BIO/Bioenergetics/Biological Molecules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "LIT/Puritanism/Douglass.md",
+                "file": "BIO/Bioenergetics/Biological Molecules.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -177,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIT/Puritanism/Douglass.md"
+                "file": "BIO/Bioenergetics/Biological Molecules.md"
               }
             }
           },
@@ -205,7 +191,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "LIT/Puritanism/Douglass.md"
+                "file": "BIO/Bioenergetics/Biological Molecules.md"
               }
             }
           }
@@ -257,8 +243,14 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "bdbccdb2ef044794",
+  "active": "d1f7fa252696fc73",
   "lastOpenFiles": [
+    "BIO/AP/3 - Cellular Energetics.md",
+    "BIO/AP/2 - Cell Structure and Function.md",
+    "BIO/Cell Structure and Function/1 - Bacterial Structure and Functions.md",
+    "BIO/Cell Structure and Function/Cellular Respiration.md",
+    "BIO/AP/1 - Chemistry of Life.md",
+    "Daily Notes/2023-11-29.md",
     "LIT/Puritanism/Oct 25, 27, Lecture and Sermon.md",
     "LIT/Puritanism/Douglass.md",
     "BIO/Bioenergetics/Biological Molecules.md",
@@ -267,11 +259,9 @@
     "BIO/Resources/Images/Screenshot 2023-11-27 at 6.36.29 PM.png",
     "BIO/Resources/Images/Screenshot 2023-11-27 at 6.35.12 PM.png",
     "BIO/Resources/Images/Screenshot 2023-11-27 at 6.34.49 PM.png",
-    "BIO/AP/1 - Chemistry of Life.md",
     "Daily Notes/2023-11-27.md",
     "BIO/AP/7 - Gene Expression and Regulation.md",
     "Excalidraw/Drawing 2023-11-27 09.03.40.excalidraw.md",
-    "BIO/AP/3 - Cellular Energetics.md",
     "BIO/AP/5 - Heredity.md",
     "BIO/AP/4 - Cell Communication and Cell Cycle.md",
     "BIO/Resources/Images/Screenshot 2023-11-27 at 8.44.30 AM.png",
@@ -288,10 +278,6 @@
     "BIO/Measuring Variation within a Population and Sample/Population.md",
     "BIO/Measuring Variation within a Population and Sample/3 - Errors.md",
     "Daily Notes/2023-11-10.md",
-    "BIO/Community Ecology/Food Webs and Energy Pyramids, Bedrocks of Biodiversity.md",
-    "BIO/Community Ecology/Autotrophs vs. Heterotrophs.md",
-    "BIO/Community Ecology/Ecological Relationships.md",
-    "Daily Notes/2023-11-09.md",
     "LIT/Comp 3",
     "Screenshot 2023-09-25 at 8.46.18 AM.png",
     "LIT/Puritanism",

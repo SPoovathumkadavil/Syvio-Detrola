@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cellular",
+                "query": "lariat",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -243,7 +244,7 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "d1f7fa252696fc73",
+  "active": "1c9e7c82e83a76a5",
   "lastOpenFiles": [
     "BIO/AP/3 - Cellular Energetics.md",
     "BIO/AP/2 - Cell Structure and Function.md",

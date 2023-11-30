@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🐒",
+      "🌴",
+      "🌩",
       "🕵️‍♀️",
-      "〰",
-      "🧑‍🤝‍🧑",
-      "🏯",
-      "🗽"
+      "〰"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,5 +42,8 @@
   "LIT/Disquiet": "🏯",
   "BIO/Expanding on Natural Selection": "🧑‍🤝‍🧑",
   "LIT/Comp. 1": "🗽",
-  "LIT/Comp 2": "🕵️‍♀️"
+  "LIT/Comp 2": "🕵️‍♀️",
+  "BIO/Bioenergetics": "🌩",
+  "BIO/Community Ecology": "🌴",
+  "BIO/Quantifying Evolution": "🐒"
 }

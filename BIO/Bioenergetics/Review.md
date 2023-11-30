@@ -24,4 +24,4 @@ D) Why might DePho by Pho5 be faster than Pho by Pho4
 - Read the question next time.
 
 E) What is the effect of CaCO2 Treatment?
-- Adding CaCO2 means less phosphorus, meaning less ATP. Less ATP means less Glucose-6-P. Less Glucose-6-P means less 
+- Adding CaCO2 means less phosphorus, meaning less ATP. Less ATP means less Glucose-6-P. Less Glucose-6-P means less Glucose-1-P meaning less Glycogen. Overall decrease in Glycogen.

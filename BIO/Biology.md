@@ -8,12 +8,6 @@ type: "Course"
 > [!info]- What is Biology?
 _Biology is the scientific study of life. It is a natural science with a broad scope but has several unifying themes that tie it together as a single, coherent field._
 
-# AP Units
-```dataview
-LIST
-FROM "BIO/AP"
-SORT order
-```
 # 0 - Prevegen Example Report
 ```dataview
 LIST

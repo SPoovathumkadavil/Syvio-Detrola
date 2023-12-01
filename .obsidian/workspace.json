@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lariat",
+                "query": "2nd law",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -243,7 +244,7 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "6e05bc53d4544b2e",
+  "active": "1c9e7c82e83a76a5",
   "lastOpenFiles": [
     "Daily Notes/2023-12-01.md",
     "BIO/Bioenergetics/Review.md",

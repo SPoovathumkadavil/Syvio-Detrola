@@ -34,16 +34,25 @@ _Serine_
 - Polar / Hydrophilic
 
 [Hydrogen Bond]: An attraction, but not a covalent connection.
-- Individually Weak, but 
+- Individually Weak, but Collectively strong
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/3D_model_hydrogen_bonds_in_water.svg/220px-3D_model_hydrogen_bonds_in_water.svg.png)
 
-![undefined](https://upload.wikimedia.org/wikipedia/commons/0/0c/NTCDI_AFM2a.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Hydrogen_Bond_Quadruple_AngewChemIntEd_1998_v37_p75.jpg/300px-Hydrogen_Bond_Quadruple_AngewChemIntEd_1998_v37_p75.jpg)
+- Example In Self Assembled Dimer Complex
 ### How do these fold?
 _Leucine_:
 _Serine_: 
 
+![[Screenshot 2023-12-04 at 9.15.09 AM.png]]
+- Made Up of 4 Amino Acids, Can tell by the 4 side chains seen
+- 3 Peptide Bonds to Connect Them
+- The Side Groups need to interact to fold
+	- They don't need to be right next to each other
 ## How do Amino Acids Bond?
 The Carboxyl group of one and Amine group of another are combined.
 
 **The Side Chains are Not Involved in Bonding, Though they are relevant in folding.**
+
+![[Screenshot 2023-12-04 at 9.20.42 AM.png]]
+Proteins are folded Polypeptides

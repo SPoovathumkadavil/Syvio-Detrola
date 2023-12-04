@@ -21,13 +21,27 @@ The only different thing in the structure of an amino acid
 
 ### Leucine vs Serine
 ![[Screenshot 2023-12-04 at 8.57.18 AM.png]]
-Leucine
+_Leucine_
 - More complex?
 - Non-Polar side chain / Hydrophobic side group
 	- Carbon Hydrogen Bonds
+_Serine_
+- Polar Covalent Bond
+	- Hydroxyl Group
+	- Oxygen is slightly pulling more than the Hydrogen, slight difference in charge.
+		- Water is polar, the oxygen is more electronegative than the hydrogen.
+			- The Hydrogen Bond in this case is the Intermolecular force between the H from the Serine and the O from the water.
+- Polar / Hydrophilic
 
-Serine
-- Hydrogen Bond
+[Hydrogen Bond]: An attraction, but not a covalent connection.
+- Individually Weak, but 
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/3D_model_hydrogen_bonds_in_water.svg/220px-3D_model_hydrogen_bonds_in_water.svg.png)
+
+![undefined](https://upload.wikimedia.org/wikipedia/commons/0/0c/NTCDI_AFM2a.jpg)
+### How do these fold?
+_Leucine_:
+_Serine_: 
 
 ## How do Amino Acids Bond?
 The Carboxyl group of one and Amine group of another are combined.

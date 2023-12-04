@@ -56,3 +56,7 @@ The Carboxyl group of one and Amine group of another are combined.
 
 ![[Screenshot 2023-12-04 at 9.20.42 AM.png]]
 Proteins are folded Polypeptides
+
+1. Hydrophobic Side-Chains will be buried inside the protein, hidden from polar water molecules
+2. Charged Side-Chains on the surface of proteins neutralize each other and form ionic bonds
+3. 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2c2c76e453454421",
+        "id": "6d680b8de1e0ef89",
         "type": "tabs",
         "children": [
           {
-            "id": "87f0c39f9bb23bbd",
+            "id": "ce92e2f1d83da8c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -244,13 +244,13 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "87f0c39f9bb23bbd",
+  "active": "ce92e2f1d83da8c0",
   "lastOpenFiles": [
+    "Daily Notes/2023-12-04.md",
     "BIO/Resources/Images/Screenshot 2023-12-04 at 9.20.42 AM.png",
     "BIO/Resources/Images/Screenshot 2023-12-04 at 9.15.09 AM.png",
     "BIO/Resources/Images/Screenshot 2023-12-04 at 8.57.18 AM.png",
     "BIO/Bioenergetics/Introduction to Protein Biochemistry.md",
-    "Daily Notes/2023-12-04.md",
     "BIO/Bioenergetics/Review.md",
     "Daily Notes/2023-12-01.md",
     "Daily Notes/2023-11-30.md",
@@ -285,7 +285,6 @@
     "LIT/Comp 3",
     "LIT/Puritanism",
     "BIO/Community Ecology/Untitled",
-    "BIO/Resources/Images/Screenshot 2023-10-24 at 7.30.00 PM.png",
     "BIO/Community Ecology",
     "BIO/Quantifying Evolution",
     "Untitled.loom",

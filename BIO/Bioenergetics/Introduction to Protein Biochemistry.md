@@ -61,3 +61,6 @@ Proteins are folded Polypeptides
 2. Charged Side-Chains on the surface of proteins neutralize each other and form ionic bonds
 3. Hydrophilic 
 
+LDFs hold the non-polar molecules together
+
+While the polar hydrophilic molecules can "hydrogen bond" with water molecules/polar molecules, non-polar molecules only connect/stick to other non-polar molecules though London Dispersion Forces.

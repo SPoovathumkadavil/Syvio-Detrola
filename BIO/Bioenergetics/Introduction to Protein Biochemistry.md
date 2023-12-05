@@ -64,3 +64,7 @@ Proteins are folded Polypeptides
 LDFs hold the non-polar molecules together
 
 While the polar hydrophilic molecules can "hydrogen bond" with water molecules/polar molecules, non-polar molecules only connect/stick to other non-polar molecules though London Dispersion Forces.
+
+### Basic Side Group
+Positive Charge, More Protons
+

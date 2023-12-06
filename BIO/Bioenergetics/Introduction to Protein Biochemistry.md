@@ -78,3 +78,14 @@ and (-) charge is Acid because it has donated a proton.
 - A proton is just H+
 
 Substances that readily release protons into solutions are acids.
+
+Net pull can cause the bond to weaken, so less energy required to break it.
+- Less activation energy
+- The breakage is dissociation
+
+Decrease pH, more H+, more likely interaction to deprotonated state, and the reaction can go in the opposite way.
+Increase OH-, Bond with H+, Form water, Push reaction beck to right.
+
+Weak Acid and Weak Conjugate Base can act as a buffer because of their potential to shift to each side.
+You can think of it as adding weak acid and weak base to an aquarium.
+

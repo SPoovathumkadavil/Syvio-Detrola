@@ -14,5 +14,6 @@
   "foldIndent": true,
   "foldHeading": true,
   "propertiesInDocument": "visible",
-  "attachmentFolderPath": "BIO/Resources/Images"
+  "attachmentFolderPath": "BIO/Resources/Images",
+  "readableLineLength": true
 }

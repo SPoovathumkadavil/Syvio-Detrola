@@ -71,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5024719238281
+    "width": 313.5024719238281,
+    "collapsed": true
   },
   "right": {
     "id": "f0e85f5f19df2cd5",
@@ -245,8 +246,9 @@
   },
   "active": "3d4dc4ede6eb0b39",
   "lastOpenFiles": [
-    "Daily Notes/2023-12-06.md",
+    "BIO/Bioenergetics/Biological Molecules.md",
     "BIO/Bioenergetics/Introduction to Protein Biochemistry.md",
+    "Daily Notes/2023-12-06.md",
     "BIO/Bioenergetics/Review.md",
     "Daily Notes/2023-12-05.md",
     "Daily Notes/2023-12-04.md",
@@ -257,7 +259,6 @@
     "Daily Notes/2023-11-30.md",
     "README.md",
     "BIO/Biology.md",
-    "BIO/Bioenergetics/Biological Molecules.md",
     "BIO/Prevegen Example/Step 1 - Question.md",
     "LIT/Comp 3/Outline.md",
     "Screenshot 2023-09-25 at 8.46.18 AM.png",

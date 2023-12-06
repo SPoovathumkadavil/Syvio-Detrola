@@ -89,3 +89,4 @@ Increase OH-, Bond with H+, Form water, Push reaction beck to right.
 Weak Acid and Weak Conjugate Base can act as a buffer because of their potential to shift to each side.
 You can think of it as adding weak acid and weak base to an aquarium.
 
+Water is not a buffer

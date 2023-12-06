@@ -68,3 +68,13 @@ While the polar hydrophilic molecules can "hydrogen bond" with water molecules/p
 ### Basic Side Group
 Positive Charge, More Protons
 
+### What happens if we switch acid to base (- to +) or vice versa?
+
+Acids: Proton Donors
+Base: Proton Acceptor
+
+so (+) charge is Base because it has accepted a proton.
+and (-) charge is Acid because it has donated a proton.
+- A proton is just H+
+
+Substances that readily release protons into solutions are acids.

@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🚦",
       "🐒",
       "🌴",
       "🌩",
-      "🕵️‍♀️",
-      "〰"
+      "🕵️‍♀️"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -45,5 +45,6 @@
   "LIT/Comp 2": "🕵️‍♀️",
   "BIO/Bioenergetics": "🌩",
   "BIO/Community Ecology": "🌴",
-  "BIO/Quantifying Evolution": "🐒"
+  "BIO/Quantifying Evolution": "🐒",
+  "BIO/Enzyme Regulation": "🚦"
 }

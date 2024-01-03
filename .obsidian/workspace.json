@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3d4dc4ede6eb0b39",
+            "id": "f8abce79a45a7980",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2023-12-24.md",
+                "file": "BIO/Enzyme Regulation/Enzyme Inhibitance.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2023-12-24.md",
+                "file": "BIO/Enzyme Regulation/Enzyme Inhibitance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2023-12-24.md",
+                "file": "BIO/Enzyme Regulation/Enzyme Inhibitance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily Notes/2023-12-24.md",
+                "file": "BIO/Enzyme Regulation/Enzyme Inhibitance.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2023-12-24.md"
+                "file": "BIO/Enzyme Regulation/Enzyme Inhibitance.md"
               }
             }
           },
@@ -192,7 +192,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Daily Notes/2023-12-24.md"
+                "file": "BIO/Enzyme Regulation/Enzyme Inhibitance.md"
               }
             }
           }
@@ -244,11 +244,14 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "3d4dc4ede6eb0b39",
+  "active": "f8abce79a45a7980",
   "lastOpenFiles": [
-    "BIO/Bioenergetics/Introduction to Protein Biochemistry.md",
-    "Daily Notes/2023-12-24.md",
     "BIO/Bioenergetics/Biological Molecules.md",
+    "BIO/Enzyme Regulation/Enzyme Inhibitance.md",
+    "BIO/Enzyme Regulation",
+    "Daily Notes/2024-01-03.md",
+    "Daily Notes/2023-12-24.md",
+    "BIO/Bioenergetics/Introduction to Protein Biochemistry.md",
     "Daily Notes/2023-12-06.md",
     "BIO/Bioenergetics/Review.md",
     "Daily Notes/2023-12-05.md",
@@ -279,8 +282,6 @@
     "BIO/Resources/Images/Screenshot 2023-11-27 at 6.34.49 PM.png",
     "Daily Notes/2023-11-27.md",
     "BIO/AP/7 - Gene Expression and Regulation.md",
-    "Excalidraw/Drawing 2023-11-27 09.03.40.excalidraw.md",
-    "BIO/AP/5 - Heredity.md",
     "BIO/Resources/Images/Screenshot 2023-11-27 at 8.44.30 AM.png",
     "BIO/Bioenergetics",
     "LIT/Comp 3",
@@ -290,7 +291,6 @@
     "BIO/Quantifying Evolution",
     "Untitled.loom",
     "clustalo-I20231002-150231-0810-32401217-p1m.txt",
-    "BIO/Resources/Documents/clustalo-I20231002-150231-0810-32401217-p1m.txt",
-    "BIO/Resources/Documents"
+    "BIO/Resources/Documents/clustalo-I20231002-150231-0810-32401217-p1m.txt"
   ]
 }

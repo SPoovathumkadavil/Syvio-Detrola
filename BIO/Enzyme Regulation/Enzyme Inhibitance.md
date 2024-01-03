@@ -16,4 +16,18 @@ A change in pH or temperature can affect these interactions leading to denaturat
 
 Denaturation is a continuum, can be relatively denatured.
 
-Charge-Charge interactions between enzym
+Charge-Charge interactions between enzyme and substrate
+Polar-Polar: Hydrogen bonds form as a result of polar or partially polar parts of molecules.
+Non polar Interactions.
+
+Substrate: Ligands
+
+More than one interaction available between enzyme and substrate.
+
+Affinity: How well do the enzyme and substrate interact
+
+A protein could bind to multiple types of substrates.
+
+The substrate could conform to an enzyme such that a reaction could occur due to the catalysis by the enzyme.
+
+

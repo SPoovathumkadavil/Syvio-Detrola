@@ -30,4 +30,22 @@ A protein could bind to multiple types of substrates.
 
 The substrate could conform to an enzyme such that a reaction could occur due to the catalysis by the enzyme.
 
+If a substrate causes an irreversible interaction with an enzyme, that enzyme has been inhibited. The enzyme cannot catalyze anything else because it is inhibited by whatever is in its active site.
+
+If there is an incredible fit between enzyme and substrate and the product cannot be released this causes inhibition.
+
+"This is how drugs work, folks"
+
+eg. Ibuprofen inhibits the enzymes that might be causing pain.
+
+If increased affinity of enzyme, the reaction rate is increased.
+
+If higher affinity, less concentration is needed to produce a higher reaction rate.
+
+### Hemoglobin
+Primary transport of oxygen from the respiratory system to body cells.
+
+There are different types, fetal v. adult.
+
+
 

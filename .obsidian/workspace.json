@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO/Bioenergetics/Introduction to Protein Biochemistry.md",
+                "file": "Daily Notes/2023-12-24.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/Bioenergetics/Introduction to Protein Biochemistry.md",
+                "file": "Daily Notes/2023-12-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/Bioenergetics/Introduction to Protein Biochemistry.md",
+                "file": "Daily Notes/2023-12-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BIO/Bioenergetics/Introduction to Protein Biochemistry.md",
+                "file": "Daily Notes/2023-12-24.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/Bioenergetics/Introduction to Protein Biochemistry.md"
+                "file": "Daily Notes/2023-12-24.md"
               }
             }
           },
@@ -192,7 +192,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "BIO/Bioenergetics/Introduction to Protein Biochemistry.md"
+                "file": "Daily Notes/2023-12-24.md"
               }
             }
           }
@@ -246,8 +246,9 @@
   },
   "active": "3d4dc4ede6eb0b39",
   "lastOpenFiles": [
-    "BIO/Bioenergetics/Biological Molecules.md",
     "BIO/Bioenergetics/Introduction to Protein Biochemistry.md",
+    "Daily Notes/2023-12-24.md",
+    "BIO/Bioenergetics/Biological Molecules.md",
     "Daily Notes/2023-12-06.md",
     "BIO/Bioenergetics/Review.md",
     "Daily Notes/2023-12-05.md",
@@ -280,7 +281,6 @@
     "BIO/AP/7 - Gene Expression and Regulation.md",
     "Excalidraw/Drawing 2023-11-27 09.03.40.excalidraw.md",
     "BIO/AP/5 - Heredity.md",
-    "BIO/AP/4 - Cell Communication and Cell Cycle.md",
     "BIO/Resources/Images/Screenshot 2023-11-27 at 8.44.30 AM.png",
     "BIO/Bioenergetics",
     "LIT/Comp 3",

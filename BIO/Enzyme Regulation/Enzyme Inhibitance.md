@@ -49,5 +49,7 @@ There are different types, fetal v. adult.
 
 Fetal hemoglobin is higher affinity, this is critical because the adult mother has to provide the oxygen source. The baby needs the oxygen, if the affinities were the same, there would be no transport.
 
-## Vmax
+## V max
+
+![[Inhab Vmax | center]]
 

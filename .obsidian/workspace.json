@@ -26,12 +26,11 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-05 08.41.10.excalidraw.md"
+                "file": "Excalidraw/Inhab Vmax.md"
               }
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -82,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5024719238281,
-    "collapsed": true
+    "width": 313.5024719238281
   },
   "right": {
     "id": "f0e85f5f19df2cd5",
@@ -100,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-05 08.41.10.excalidraw.md",
+                "file": "BIO/Enzyme Regulation/Enzyme Inhibitance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-05 08.41.10.excalidraw.md",
+                "file": "BIO/Enzyme Regulation/Enzyme Inhibitance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +138,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-05 08.41.10.excalidraw.md",
+                "file": "BIO/Enzyme Regulation/Enzyme Inhibitance.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -175,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-05 08.41.10.excalidraw.md"
+                "file": "BIO/Enzyme Regulation/Enzyme Inhibitance.md"
               }
             }
           },
@@ -203,7 +201,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Excalidraw/Drawing 2024-01-05 08.41.10.excalidraw.md"
+                "file": "BIO/Enzyme Regulation/Enzyme Inhibitance.md"
               }
             }
           }
@@ -255,10 +253,10 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "31a5c3034de7d007",
+  "active": "f8abce79a45a7980",
   "lastOpenFiles": [
+    "Excalidraw/Inhab Vmax.md",
     "BIO/Enzyme Regulation/Enzyme Inhibitance.md",
-    "Excalidraw/Drawing 2024-01-05 08.41.10.excalidraw.md",
     "BIO/Bioenergetics/Biological Molecules.md",
     "BIO/Enzyme Regulation",
     "Daily Notes/2024-01-03.md",

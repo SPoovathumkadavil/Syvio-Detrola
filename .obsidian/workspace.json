@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "31a5c3034de7d007",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-01-05 08.41.10.excalidraw.md"
+              }
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -89,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO/Enzyme Regulation/Enzyme Inhibitance.md",
+                "file": "Excalidraw/Drawing 2024-01-05 08.41.10.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO/Enzyme Regulation/Enzyme Inhibitance.md",
+                "file": "Excalidraw/Drawing 2024-01-05 08.41.10.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +140,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "BIO/Enzyme Regulation/Enzyme Inhibitance.md",
+                "file": "Excalidraw/Drawing 2024-01-05 08.41.10.excalidraw.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -164,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO/Enzyme Regulation/Enzyme Inhibitance.md"
+                "file": "Excalidraw/Drawing 2024-01-05 08.41.10.excalidraw.md"
               }
             }
           },
@@ -192,7 +203,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "BIO/Enzyme Regulation/Enzyme Inhibitance.md"
+                "file": "Excalidraw/Drawing 2024-01-05 08.41.10.excalidraw.md"
               }
             }
           }
@@ -244,10 +255,11 @@
       "obsidian-day-planner:Week plan": false
     }
   },
-  "active": "f8abce79a45a7980",
+  "active": "31a5c3034de7d007",
   "lastOpenFiles": [
-    "BIO/Bioenergetics/Biological Molecules.md",
     "BIO/Enzyme Regulation/Enzyme Inhibitance.md",
+    "Excalidraw/Drawing 2024-01-05 08.41.10.excalidraw.md",
+    "BIO/Bioenergetics/Biological Molecules.md",
     "BIO/Enzyme Regulation",
     "Daily Notes/2024-01-03.md",
     "Daily Notes/2023-12-24.md",
@@ -281,7 +293,6 @@
     "BIO/Resources/Images/Screenshot 2023-11-27 at 6.35.12 PM.png",
     "BIO/Resources/Images/Screenshot 2023-11-27 at 6.34.49 PM.png",
     "Daily Notes/2023-11-27.md",
-    "BIO/AP/7 - Gene Expression and Regulation.md",
     "BIO/Resources/Images/Screenshot 2023-11-27 at 8.44.30 AM.png",
     "BIO/Bioenergetics",
     "LIT/Comp 3",
